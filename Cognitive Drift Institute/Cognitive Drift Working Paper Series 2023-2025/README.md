@@ -93,6 +93,30 @@ These papers are part of the *Reality Drift* research initiative, a long-term pr
 
 ---
 
+## ## External Links & Archival
+
+For long-term accessibility, the Cognitive Drift Working Papers are also archived on external platforms:
+
+- [Figshare Profile](https://figshare.com/authors/Cognitive_Drift_Institute/22278802)
+
+- [Zenodo DOI](https://doi.org/10.5281/zenodo.17211452)
+
+- [Slideshare](https://www.slideshare.net/cognitivedriftaj?tab=documents)
+
+- [Archive.org Collection](https://archive.org/details/cdg-2025-v-1-cognitive-drift-glossary)
+
+- [Substack](https://substack.com/@thecognitivedrift)
+
+- [Medium](https://medium.com/@cognitivedriftaj)
+
+
+
+
+
+
+
+---
+
 ## Citation
 
 When citing this repository, please reference:  
