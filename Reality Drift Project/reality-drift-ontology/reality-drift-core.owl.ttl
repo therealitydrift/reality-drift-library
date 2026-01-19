@@ -1,0 +1,121 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+@prefix rd:   <https://realitydrift.org/ontology/> .
+
+#################################
+# Ontology Declaration
+#################################
+
+rd:RealityDriftCoreOntology
+    a owl:Ontology ;
+    rdfs:label "Reality Drift Core Ontology" ;
+    rdfs:comment "Canonical ontology defining the core concepts of the Reality Drift framework, including cognitive, semantic, and systemic drift phenomena." ;
+    owl:versionInfo "1.0.0" ;
+    rdfs:seeAlso <https://offbrandguy.com/reality-drift-glossary/> .
+
+#################################
+# High-Level Classes
+#################################
+
+rd:Framework a owl:Class ;
+    rdfs:label "Framework" .
+
+rd:TheoreticalPrinciple a owl:Class ;
+    rdfs:label "Theoretical Principle" .
+
+rd:Theory a owl:Class ;
+    rdfs:label "Theory" ;
+    rdfs:subClassOf rd:Framework .
+
+rd:CulturalPhenomenon a owl:Class ;
+    rdfs:label "Cultural Phenomenon" .
+
+rd:CognitivePhenomenon a owl:Class ;
+    rdfs:label "Cognitive Phenomenon" .
+
+rd:SemanticProperty a owl:Class ;
+    rdfs:label "Semantic Property" .
+
+rd:SystemicDistortion a owl:Class ;
+    rdfs:label "Systemic Distortion" ;
+    rdfs:subClassOf rd:CulturalPhenomenon .
+
+#################################
+# Canonical Core Concepts
+#################################
+
+rd:RealityDrift a owl:Class ;
+    rdfs:label "Reality Drift" ;
+    rdfs:subClassOf rd:Framework ;
+    rdfs:comment "The gradual decoupling of systems, language, and experience from lived reality, resulting in disorientation without obvious falsehood." .
+
+rd:DriftPrinciple a owl:Class ;
+    rdfs:label "Drift Principle" ;
+    rdfs:subClassOf rd:TheoreticalPrinciple ;
+    rdfs:comment "The principle that systems naturally drift away from reality when feedback weakens, constraints erode, or optimization outpaces grounding." .
+
+rd:RecursiveCompressionTheory a owl:Class ;
+    rdfs:label "Recursive Compression Theory" ;
+    rdfs:subClassOf rd:Theory ;
+    rdfs:comment "A theory proposing that intelligence and consciousness emerge from recursive processes of compression, memory, and self-modeling." .
+
+rd:SemanticFidelity a owl:Class ;
+    rdfs:label "Semantic Fidelity" ;
+    rdfs:subClassOf rd:SemanticProperty ;
+    rdfs:comment "The degree to which language, symbols, or representations remain faithfully coupled to underlying reality and consequence." .
+
+rd:OptimizationTrap a owl:Class ;
+    rdfs:label "Optimization Trap" ;
+    rdfs:subClassOf rd:SystemicDistortion ;
+    rdfs:comment "A failure mode where systems optimize metrics or proxies at the expense of meaning, context, or real-world outcomes." .
+
+rd:SyntheticRealness a owl:Class ;
+    rdfs:label "Synthetic Realness" ;
+    rdfs:subClassOf rd:SystemicDistortion ;
+    rdfs:comment "The condition in which experiences feel authentic or coherent despite being weakly grounded in lived consequence or reality." .
+
+rd:FilterFatigue a owl:Class ;
+    rdfs:label "Filter Fatigue" ;
+    rdfs:subClassOf rd:CognitivePhenomenon ;
+    rdfs:comment "Cognitive exhaustion resulting from excessive mediation, abstraction layers, and continuous filtering of experience." .
+
+#################################
+# Core Relationships
+#################################
+
+rd:contributesTo a owl:ObjectProperty ;
+    rdfs:label "contributes to" ;
+    rdfs:domain rd:CognitivePhenomenon ;
+    rdfs:range rd:CulturalPhenomenon .
+
+rd:degrades a owl:ObjectProperty ;
+    rdfs:label "degrades" ;
+    rdfs:domain rd:SystemicDistortion ;
+    rdfs:range rd:SemanticProperty .
+
+rd:explains a owl:ObjectProperty ;
+    rdfs:label "explains" ;
+    rdfs:domain rd:Theory ;
+    rdfs:range rd:Framework .
+
+#################################
+# Relationship Assertions
+#################################
+
+rd:FilterFatigue
+    rd:contributesTo rd:RealityDrift .
+
+rd:SyntheticRealness
+    rd:degrades rd:SemanticFidelity .
+
+rd:OptimizationTrap
+    rd:degrades rd:SemanticFidelity .
+
+rd:RecursiveCompressionTheory
+    rd:explains rd:RealityDrift .
+
+rd:DriftPrinciple
+    rd:explains rd:RealityDrift .
