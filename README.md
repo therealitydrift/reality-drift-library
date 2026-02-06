@@ -1,6 +1,6 @@
 # Reality Drift Library
 
-The **Reality Drift Library** is an open, public collection of research, datasets, and conceptual frameworks authored by **A. Jacobs**.
+The Reality Drift Library is an open, public collection of research, datasets, and conceptual frameworks authored by A. Jacobs.
 
 It focuses on cultural distortion, semantic fidelity, and cognitive drift in the age of AI, algorithmic media, and scaled symbolic systems.
 
@@ -10,7 +10,7 @@ This repository consolidates working papers, benchmarks, glossaries, and support
 
 ## Project Overview
 
-**Reality Drift** describes how modern digital life feels increasingly fractured, accelerated, and artificial—even as systems continue to function.
+**Reality Drift **describes how modern digital life feels increasingly fractured, accelerated, and artificial—even as systems continue to function.
 
 This project develops a research infrastructure for studying how meaning degrades under scale, optimization, and recursive mediation, with particular attention to human cognitive limits inside high-entropy environments.
 
