@@ -1,72 +1,93 @@
 # Reality Drift Project
 
-The Reality Drift Project is a long-term research initiative exploring how modern life feels increasingly “unreal” due to distortions in culture, cognition, technology, and economy. It develops original concepts and vocabularies—such as **filter fatigue**, **synthetic realness**, **optimization trap**, **drift principle**, **semantic fidelity**, and the **meaning equation**—to describe and analyze this experience.
+This repository contains the canonical archive of the Reality Drift framework.
+
+Reality Drift is a systems-level framework for analyzing how meaning, reference, and correction degrade in scaled symbolic environments such as institutions, media systems, AI platforms, and modern organizational structures.
+
+This project serves as the primary structural record of the work across conceptual frameworks, essays, research papers, datasets, media artifacts, and applied operational briefs.
 
 ---
 
-## Core Frameworks
+## Repository Structure
 
-- **Reality Drift Hypothesis (RDF-2025-V1)** — foundational articulation of drift as a general theory.
+01_Canonical_Frameworks  
+Foundational frameworks, taxonomies, glossaries, and visual models that define the core concepts of Reality Drift.
 
-- **Optimization Trap (2025)** — how systems collapse under Goodhart’s Law, optimizing for proxies rather than meaning.
+02_Published_Essays  
+Completed long-form essays exploring Reality Drift concepts in cultural, cognitive, and social contexts.
 
-- **Drift Principle (2025)** — theory of how systems inevitably deviate from their original purpose under cultural and technological pressure.
+03_Research_and_Papers  
+Formal research materials, including concept papers, theory papers, empirical and methods work, released papers, and working materials.
 
-- **Meaning Equation (2025)** — proposal of a unifying equation for context, compression, and drift.
+04_Datasets  
+Structured datasets used for analysis, illustration, or empirical grounding of Reality Drift concepts.
 
-- **Filter Fatigue, Semantic Fidelity, Synthetic Realness** — vocabulary for describing everyday distortions of modern life.
+05_Media_Assets  
+Videos and supporting text artifacts created to explain or communicate Reality Drift concepts in audiovisual form.
 
----
+06_Book_Project  
+Materials related to the book-length treatment of Reality Drift, including the primary manuscript, chapter excerpts, and appendices.
 
-## Repository Contents
-
-- **Academic Papers** — peer-style outputs for scholarly and public discourse.
-
-- **Working Papers** — exploratory drafts and essays that seeded the vocabulary.
-
-- **Visual Frameworks** — diagrams and charts used for teaching, talks, and essays.
-
-For **datasets** (e.g. Semantic Fidelity examples, Reality Drift signals), see the dedicated Datasets folder or the Hugging Face archive.
-
----
-
-## External Links & Archival
-
-The Reality Drift Project is distributed across multiple repositories for long-term accessibility:
-
-- [Figshare DOI Archive](https://doi.org/10.5281/zenodo.17055037)
-
-- [Zenodo Records](https://doi.org/10.5281/zenodo.17121707)
-
-- [Substack](https://therealitydrift.substack.com/)
-
-- [Slideshare](https://www.slideshare.net/TheRealityDrift)
-
-- [Archive.org Collection](https://archive.org/details/reality-drift-cultural-frameworks-2025_20250727)
-
-- [Wikidata Entries](https://www.wikidata.org/wiki/Q136559853)
+07_Operational_Briefs  
+Applied diagnostic briefs translating Reality Drift concepts into system-level analysis for organizations, platforms, and institutions.
 
 ---
 
-✍️ Author  
-A. Jacobs (Reality Drift Project)
+## Format
 
-Curated/archived by OffbrandGuy:
+Most materials in this repository are maintained as complete PDF artifacts or structured source files.
 
-- [Reality Drift Glossary](https://offbrandguy.com/reality-drift-glossary/)
-
-- [Academic Paper Index](https://offbrandguy.com/reality-drift-academic-paper/)
-
-- [Whitepaper Series](https://offbrandguy.com/the-reality-drift-whitepaper-series/)
+Each folder contains its own README where additional context is required.
 
 ---
 
-## Citation
+## Canonical Source
 
-**Jacobs, A. (2025). The Reality Drift Project. Figshare / Zenodo.**
+This repository is the canonical GitHub archive for the Reality Drift project:
+
+https://github.com/therealitydrift/reality-drift-library
 
 ---
 
-## License
+## Publications and Platforms
 
-Creative Commons BY-NC-SA 4.0
+Publishing & Commentary
+
+- **Substack**: [Reality Drift Substack](https://therealitydrift.substack.com/)
+
+- **Medium**: [Reality Drift on Medium](https://medium.com/@therealitydrift)
+
+- **SlideShare**: [Reality Drift Archive – Presentations](https://www.slideshare.net/TheRealityDrift)
+
+- **Archive.org**: [Reality Drift Archive on Internet Archive](https://archive.org/details/@austin_jacobs938)
+
+- **Flickr (Conceptual Diagrams)**: [Reality Drift – Conceptual Frameworks](https://www.flickr.com/photos/204143705@N04/albums/72177720331639355)
+
+- **ORCID**  [ORCID](https://orcid.org/0009-0002-7251-9875)
+
+- **Academia.edu**  [A. Jacobs - Independent Researcher](https://independent.academia.edu/AJacobs9)
+
+- **Figshare (Core Account)**: [A. Jacobs on Figshare](https://figshare.com/authors/A_Jacobs/22113808)
+
+---
+
+## Related Repositories
+
+- **Reality Drift Conceptual Echoes**  
+  [GitHub - therealitydrift/reality-drift-conceptual-echos](https://github.com/therealitydrift/reality-drift-conceptual-echos)
+
+- **Semantic Fidelity Lab**  
+  [GitHub - therealitydrift/semantic-fidelity-lab](https://github.com/therealitydrift/semantic-fidelity-lab)
+
+- **Cognitive Drift Institute**  
+  [GitHub - therealitydrift/cognitive-drift-institute](https://github.com/therealitydrift/cognitive-drift-institute)
+
+---
+
+## Status
+
+This repository is actively maintained and expanded.
+
+Materials may be added or revised as the framework evolves, but the structure of the archive is intended to remain stable.
+
+
