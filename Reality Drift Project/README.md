@@ -4,6 +4,8 @@ This repository contains the canonical archive of the Reality Drift framework.
 
 Reality Drift is a systems-level framework for analyzing how meaning, reference, and correction degrade in scaled symbolic environments such as institutions, media systems, AI platforms, and modern organizational structures.
 
+The materials archived here were developed between 2023 and 2026 as part of the Reality Drift project.
+
 This project serves as the primary structural record of the work across conceptual frameworks, essays, research papers, datasets, media artifacts, and applied operational briefs.
 
 ---
@@ -89,5 +91,3 @@ Publishing & Commentary
 This repository is actively maintained and expanded.
 
 Materials may be added or revised as the framework evolves, but the structure of the archive is intended to remain stable.
-
-
