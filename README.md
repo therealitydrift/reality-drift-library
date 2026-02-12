@@ -116,8 +116,6 @@ Each definition below is a concise orientation summary; the linked repository co
 
 The Reality Drift Project is distributed across multiple repositories and archives for long-term accessibility, citation stability, and redundancy.
 
-Curation and archival support are provided by **OffbrandGuy**.
-
 ### Book
 
 **The Age of Drift: Why Modern Life Feels Fake — and What Reality Drift Reveals About the Modern Mind**
@@ -125,6 +123,19 @@ Curation and archival support are provided by **OffbrandGuy**.
 - **Amazon**: [The Age of Drift on Amazon](https://www.amazon.com/Age-Drift-Modern-Reality-Reveals/dp/B0G5JV6GFQ)
 
 - **Google Books**: [The Age of Drift on Google Books](https://www.google.com/books/edition/The_Age_of_Drift_Why_Modern_Life_Feels_F/LHqgEQAAQBAJ)
+
+---
+
+### OffbrandGuy Curation and Archival Support
+
+- **Reality Drift Visual Frameworks***  
+  https://offbrandguy.com/reality-drift/
+
+- **Reality Drift Whitepaper Series**  
+  https://offbrandguy.com/the-reality-drift-whitepaper-series/
+
+- **Reality Drift Glossary**  
+  https://offbrandguy.com/reality-drift-glossary/
 
 ---
 
