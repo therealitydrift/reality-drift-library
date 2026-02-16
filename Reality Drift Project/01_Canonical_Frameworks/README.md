@@ -10,6 +10,9 @@ Each subdirectory represents a distinct layer of the canonical framework.
 
 ### Directory Structure
 
+- Reality_Drift_Definition  
+  Canonical definition of Reality Drift as a system misalignment process where functioning continues while real-world alignment erodes.
+
 - Conceptual_Ontology  
   Foundational concepts and structural relationships.
 
