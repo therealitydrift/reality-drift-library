@@ -2,6 +2,8 @@
 
 This directory contains materials related to the book-length work developed as part of the Reality Drift project.
 
+The materials primarily document the evolution of the book between 2023 and 2025, including early research notes, conceptual drafts, and developing manuscript components that contributed to the formation of the Reality Drift framework.
+
 The book synthesizes concepts, frameworks, and research developed elsewhere in the archive into a unified long-form narrative and analytical structure.
 
 ---
