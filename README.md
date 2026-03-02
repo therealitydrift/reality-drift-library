@@ -1,27 +1,26 @@
 # Reality Drift Library
 
-The Reality Drift Library is an open, public collection of research, datasets, and conceptual frameworks authored by A. Jacobs. The materials collected here were developed between 2023 and 2026 as part of the Reality Drift project.
+The Reality Drift Library is an open, public research archive authored by A. Jacobs (2023–2026).
 
-The project focuses on cultural distortion, semantic fidelity, and cognitive drift in the age of AI, algorithmic media, and scaled symbolic systems.
+It consolidates working papers, conceptual frameworks, evaluation datasets, glossaries, and supporting materials developed as part of the Reality Drift framework.
 
-This repository consolidates working papers, benchmarks, glossaries, and supporting materials for researchers, educators, and practitioners.
+The focus is on cultural distortion, semantic fidelity, and cognitive drift in AI-mediated and scaled symbolic systems.
 
 ---
 
 ## Project Overview
 
-**Reality Drift **describes how modern digital life feels increasingly fractured, accelerated, and artificial—even as systems continue to function.
+Reality Drift describes a systems-level condition in which sustained optimization and environmental acceleration weaken feedback alignment while systems remain operational.
 
-This project develops a research infrastructure for studying how meaning degrades under scale, optimization, and recursive mediation, with particular attention to human cognitive limits inside high-entropy environments.
-
-The library provides open access to frameworks, evaluation datasets, and whitepapers designed for both academic study and applied experimentation.
+Over time, cognitive, cultural, and algorithmic systems can drift from the real-world constraints they were designed to reflect, often without a single point of failure.
 
 ---
 
 ## Why This Exists
 
-Modern systems increasingly continue operating after meaningful correction fails.  
-The Reality Drift Library exists to document, analyze, and model this condition across cognitive, cultural, and algorithmic domains—before drift becomes normalized beyond recognition.
+Drift dynamics appear across cognitive, cultural, and algorithmic domains, but they are typically studied in isolation, under different vocabularies and disciplinary boundaries.
+
+The Reality Drift Library exists to consolidate these patterns into a shared analytical framework, enabling cross-domain comparison, formal modeling, and cumulative research.
 
 ---
 
@@ -116,26 +115,13 @@ Each definition below is a concise orientation summary; the linked repository co
 
 The Reality Drift Project is distributed across multiple repositories and archives for long-term accessibility, citation stability, and redundancy.
 
-### Book
+### The Age of Drift - Collected Writings
 
 **The Age of Drift: Why Modern Life Feels Fake — and What Reality Drift Reveals About the Modern Mind**
 
 - **Amazon**: [The Age of Drift on Amazon](https://www.amazon.com/Age-Drift-Modern-Reality-Reveals/dp/B0G5JV6GFQ)
 
-- **Google Books**: [The Age of Drift on Google Books](https://www.google.com/books/edition/The_Age_of_Drift_Why_Modern_Life_Feels_F/LHqgEQAAQBAJ)
-
----
-
-### OffbrandGuy Curation and Archival Support
-
-- **Reality Drift Visual Frameworks***  
-  https://offbrandguy.com/reality-drift/
-
-- **Reality Drift Whitepaper Series**  
-  https://offbrandguy.com/the-reality-drift-whitepaper-series/
-
-- **Reality Drift Glossary**  
-  https://offbrandguy.com/reality-drift-glossary/
+- **Google**: [The Age of Drift on Google Books](https://www.google.com/books/edition/The_Age_of_Drift_Why_Modern_Life_Feels_F/LHqgEQAAQBAJ)
 
 ---
 
@@ -157,25 +143,16 @@ The Reality Drift Project is distributed across multiple repositories and archiv
 - **GitHub Library**  
   [Reality Drift Library](https://github.com/therealitydrift/reality-drift-library)
 
-- **Figshare (Core Account)**: [A. Jacobs on Figshare](https://figshare.com/authors/A_Jacobs/22113808)
-
-- **Figshare (Working Papers Series)**:  [Reality Drift Working Papers (2020–2025)](https://figshare.com/authors/Reality_Drift_Working_Papers_Series_2020-2025/22445446)
-
-- **OSF**  
-  [OSF](https://osf.io/k2rgp/overview)
+- **Figshare**: [A. Jacobs on Figshare](https://figshare.com/authors/A_Jacobs/22113808)
 
 - **Zenodo**  
   [Reality Drift: A Framework for Cultural and Cognitive Distortion in the Algorithmic Age](https://doi.org/10.5281/zenodo.17055037)  
-  https://doi.org/10.5281/zenodo.17121707
 
 - **ORCID**  
   [ORCID](https://orcid.org/0009-0002-7251-9875)
 
 - **Academia.edu**  
   [A. Jacobs - Independent Researcher](https://independent.academia.edu/AJacobs9)
-
-- **Goodreads (Author Profile)**  
-  [A. Jacobs (Author of The Age of Drift)](https://www.goodreads.com/author/show/5514576.A_Jacobs)
 
 ---
 
@@ -208,15 +185,7 @@ The Reality Drift Project is distributed across multiple repositories and archiv
 
 ## Social Channels
 
-- **X (Twitter)**: [@TheRealityDrift](https://x.com/TheRealityDrift)
-
-- **YouTube**: [Reality Drift Archive – YouTube](https://www.youtube.com/@therealitydrift)
-
-- **TikTok**: [@realitydrift](https://www.tiktok.com/@realitydrift)
-
-- **Facebook**: [Reality Drift Facebook Page](https://www.facebook.com/p/Reality-Drift-61579158423521/)
-
-- **Pinterest**: [Reality Drift Archive on Pinterest](https://www.pinterest.com/realitydriftarchive/)
+- **YouTube**: [Reality Drift Archive – YouTube](https://www.youtube.com/@therealitydrift
 
 - **Reddit**: [u/LatePiccolo8888](https://www.reddit.com/user/LatePiccolo8888)
 
