@@ -209,8 +209,6 @@ The Reality Drift Project is distributed across multiple repositories and archiv
 
 - **YouTube**: [Reality Drift Archive – YouTube](https://www.youtube.com/@therealitydrift
 
-- 
-
 ---
 
 ## Related Repositories
@@ -223,6 +221,23 @@ The Reality Drift Project is distributed across multiple repositories and archiv
 
 - **Cognitive Drift Institute**  
   [GitHub - therealitydrift/cognitive-drift-institute](https://github.com/therealitydrift/cognitive-drift-institute)
+
+---
+
+### Reality Drift Explained
+
+A collection of short pages answering common questions about modern life through the Reality Drift framework.
+
+Topics include questions such as:
+
+- Why does everything feel fake online?
+- Why does modern life feel overwhelming?
+- Why do conversations feel scripted now?
+- Why does time feel like it's speeding up?
+
+Each explanation introduces key framework concepts including Synthetic Realness, Filter Fatigue, the Optimization Trap, and Reality Drift.
+
+Repository:  [Reality Drift Explained](https://github.com/therealitydrift/reality-drift-explained)
 
 ---
 
