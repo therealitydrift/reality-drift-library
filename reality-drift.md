@@ -35,6 +35,8 @@ Common dynamics include:
 - Representation replacing direct feedback  
 - Processes continuing even as grounding weakens
 
+![reality-drift-representational-failure-cycle..png](C:\Users\austi\Documents\GitHub\reality-drift-library\reality-drift-representational-failure-cycle..png)
+
 ## How It Shows Up
 
 Reality Drift is recognizable across modern life:

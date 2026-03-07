@@ -35,6 +35,10 @@ Feedback remains present, but grows slower, more abstract, or easier to absorb w
 
 Indicators continue updating, but the binding force that once ensured correction loosens. Optimization shifts from responding to reality toward refining internal models, allowing performance to appear stable even as meaning degrades structurally. 
 
+![The Optimization Trap.png](C:\Users\austi\Documents\GitHub\reality-drift-library\The%20Optimization%20Trap.png)
+
+
+
 ## How It Shows Up
 
 The Optimization Trap appears across contemporary life:

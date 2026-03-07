@@ -37,7 +37,11 @@ As filtration layers multiply, users must supply missing context manually by dec
 - what to ignore  
 - what to trust  
 
-The result is cumulative cognitive load. :contentReference[oaicite:1]{index=1}
+The result is cumulative cognitive load. 
+
+
+
+![Filter Fatigue Cycle.png](C:\Users\austi\Documents\GitHub\reality-drift-library\Filter%20Fatigue%20Cycle.png)
 
 ## How It Shows Up
 
@@ -49,7 +53,7 @@ Filter Fatigue is recognizable in everyday life:
 - Feeling pressure to document experiences instead of inhabiting them  
 - Defaulting to algorithmic recommendations because active choice feels exhausting  
 
-Over time, engagement declines and satisfaction drops. Even leisure begins to feel effortful, and curation becomes a cognitive tax. :contentReference[oaicite:2]{index=2}
+Over time, engagement declines and satisfaction drops. Even leisure begins to feel effortful, and curation becomes a cognitive tax. 
 
 ## Cross-Domain Effects
 

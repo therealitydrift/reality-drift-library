@@ -8,11 +8,24 @@ The focus is on cultural distortion, semantic fidelity, and cognitive drift in A
 
 ---
 
+#### Start Here
+
+[What Is Reality Drift?](what-is-reality-drift.md)
+
+![Reality Drift Loop.png](C:\Users\austi\Documents\GitHub\reality-drift-library\Reality%20Drift%20Loop.png)
+
+*Core feedback loop of the Reality Drift framework.*
+
+---
+
 ## Core Concepts
 
-- [Reality Drift](reality-drift.md)
-- [Filter Fatigue](filter-fatigue.md)
-- [Optimization Trap](optimization-trap.md)
+- [Drift Principle](drift-principle.md)  
+- [Reality Drift](reality-drift.md)  
+- [Constraint Collapse](constraint-collapse.md)  
+- [Semantic Fidelity](semantic-fidelity.md)  
+- [Optimization Trap](optimization-trap.md)  
+- [Filter Fatigue](filter-fatigue.md)  
 - [Synthetic Realness](synthetic-realness.md)
 
 ---
