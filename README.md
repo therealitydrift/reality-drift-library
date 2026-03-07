@@ -1,10 +1,19 @@
-# Reality Drift Library
+## Reality Drift Library
 
 The Reality Drift Library is an open, public research archive authored by A. Jacobs (2023–2026).
 
 It consolidates working papers, conceptual frameworks, evaluation datasets, glossaries, and supporting materials developed as part of the Reality Drift framework.
 
 The focus is on cultural distortion, semantic fidelity, and cognitive drift in AI-mediated and scaled symbolic systems.
+
+---
+
+## Core Concepts
+
+- [Reality Drift](reality-drift.md)
+- [Filter Fatigue](filter-fatigue.md)
+- [Optimization Trap](optimization-trap.md)
+- [Synthetic Realness](synthetic-realness.md)
 
 ---
 
@@ -187,7 +196,7 @@ The Reality Drift Project is distributed across multiple repositories and archiv
 
 - **YouTube**: [Reality Drift Archive – YouTube](https://www.youtube.com/@therealitydrift
 
-- **Reddit**: [u/LatePiccolo8888](https://www.reddit.com/user/LatePiccolo8888)
+- 
 
 ---
 

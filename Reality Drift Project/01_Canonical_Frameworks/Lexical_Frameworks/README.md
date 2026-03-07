@@ -1,40 +1,43 @@
-# Lexical Frameworks
 
-## Canonical Lexicons and Taxonomies of the Reality Drift Framework
+
+# Canonical Lexical Frameworks
 
 ### Overview
 
-This directory contains canonical lexical frameworks from the Reality Drift project. These materials define the core vocabulary, taxonomies, and term structures used to describe drift across cultural, cognitive, institutional, and technological domains.
+This directory contains the canonical lexical framework for the Reality Drift project.
 
-The documents in this folder establish shared language for identifying, naming, and distinguishing forms of drift. They function as reference artifacts rather than essays or interpretive commentary.
+The materials here define the core vocabulary used to describe structural drift across cultural, cognitive, institutional, and technological systems. These definitions establish the shared terminology used throughout the Reality Drift framework, including across visual frameworks, conceptual papers, and research artifacts.
+
+The primary document in this folder is the Reality Drift Canonical Glossary, which consolidates and standardizes terminology developed during earlier phases of the project.
 
 ---
 
 ### Contents
 
-This folder includes the following lexical materials:
+This folder contains:
 
-- Reality Drift Core Lexicon  
-  Defines the primary terms and baseline vocabulary of the Reality Drift framework.
+- **Reality Drift Canonical Glossary (RDF-2026)**  
+  The consolidated reference vocabulary of the Reality Drift framework, defining core concepts such as reality drift, synthetic realness, semantic drift, filter fatigue, optimization traps, and cognitive drift.
 
-- Reality Drift Extended Lexicon  
-  Expands the core vocabulary to include emergent and second-order drift phenomena.
-
-- Drift Taxonomy  
-  A structured classification of drift types across culture, cognition, institutions, and systems.
-
-- Cultural Framework Notes  
-  Supporting textual material mapping cultural drift patterns and conceptual groupings.
-
-Each document is versioned and maintained as a fixed reference snapshot.
+This document serves as the authoritative lexical reference for the framework.
 
 ---
 
 ### Role Within the Reality Drift Project
 
-Lexical frameworks serve as the semantic foundation of the Reality Drift project. They provide stable definitions and naming conventions that support consistency across visual frameworks, atlases, papers, datasets, and applied analysis.
+Lexical frameworks form the semantic foundation of the Reality Drift project. They provide stable definitions and naming conventions that support consistency across:
 
-These materials are intended to reduce ambiguity and prevent conceptual drift within the framework itself.
+- conceptual frameworks
+
+- visual atlases
+
+- research papers
+
+- datasets
+
+- applied analysis
+
+Maintaining a shared vocabulary helps ensure conceptual clarity and prevents ambiguity across different applications of the framework.
 
 ---
 
@@ -42,29 +45,35 @@ These materials are intended to reduce ambiguity and prevent conceptual drift wi
 
 These materials may be used for:
 
-- Conceptual clarification and reference  
-- Research and academic citation  
-- Framework alignment across projects  
-- Educational and analytical contexts  
-- Terminology standardization in applied work  
+- conceptual reference
 
-They are not narrative explanations or opinion pieces.
+- research and academic citation
+
+- framework alignment across projects
+
+- analytical and educational contexts
+
+- terminology standardization in applied work
 
 ---
 
 ### Context
 
-This directory is part of the Reality Drift framework archive:  
-[Reality Drift Library](https://github.com/therealitydrift/reality-drift-library)
+This directory is part of the broader Reality Drift framework archive:
+
+[GitHub - therealitydrift/reality-drift-library](https://github.com/therealitydrift/reality-drift-library)
 
 ---
 
 ### Citation
 
-Lexical Frameworks, Reality Drift Project (2025).
+Reality Drift Canonical Glossary (RDF-2026).  
+Reality Drift Project.
 
 ---
 
 ### Notes
 
-Lexical frameworks are maintained as stable reference artifacts. Revisions are released as versioned updates rather than inline edits to preserve semantic continuity.
+Earlier lexical materials and development-stage terminology are preserved in the Archive directory for historical reference.
+
+The glossary in this folder represents the current canonical vocabulary of the Reality Drift framework.
