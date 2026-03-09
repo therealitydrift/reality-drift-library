@@ -30,6 +30,24 @@ The focus is on cultural distortion, semantic fidelity, and cognitive drift in A
 
 ---
 
+## Intellectual Lineage
+
+The Reality Drift framework builds on earlier insights from systems theory, media ecology, and cognitive science.  
+These short concept papers examine how Reality Drift connects to earlier thinkers whose work anticipated aspects of modern cultural and cognitive drift.
+
+- **[Reality Drift and Marshall McLuhan](./reality-drift-and-marshall-mcluhan.md)**  
+  Explores how media environments reshape perception and how accelerated media ecosystems contribute to drift dynamics.
+
+- **[Reality Drift and Gregory Bateson](./reality-drift-and-gregory-bateson.md)**  
+  Examines cybernetics, feedback systems, and how recursive information loops stabilize or destabilize meaning.
+
+- **[Reality Drift and Terrence Deacon](./reality-drift-and-terrence-deacon.md)**  
+  Connects constraint-based theories of meaning to the breakdown of interpretive structure in high-noise environments.
+
+These papers situate Reality Drift within a broader intellectual lineage spanning cybernetics, media theory, and cognitive science.
+
+---
+
 ## Project Overview
 
 Reality Drift describes a systems-level condition in which sustained optimization and environmental acceleration weaken feedback alignment while systems remain operational.
