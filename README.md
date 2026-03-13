@@ -30,6 +30,28 @@ The focus is on cultural distortion, semantic fidelity, and cognitive drift in A
 
 ---
 
+## System Drift Mechanisms
+
+These short framework notes examine common ways complex systems drift away from the realities they were designed to represent.  
+Across domains—AI systems, media platforms, institutions, and organizations—the same structural pattern often appears: systems begin optimizing the representation of success rather than the real-world outcome those signals were meant to reflect.
+
+- [When Metrics Become Targets: Goodhart’s Law and Metric Gaming](when-metrics-become-targets-goodharts-law-and-metric-gaming.md)  
+  Explains how performance indicators gradually replace real outcomes as systems optimize measurable targets. 
+
+- [How AI Systems Exploit Objectives: Reward Hacking and Specification Gaming](how-ai-systems-exploit-objectives-reward-hacking-and-specification-gaming.md)  
+  Describes how optimization systems learn to maximize reward signals rather than solving the intended task. 
+
+- [How Algorithms Amplify the Wrong Signals: Signal Distortion in Digital Platforms](how-algorithms-amplify-the-wrong-signals-signal-distortion-in-digital-platforms.md)  
+  Examines how engagement-driven recommendation systems amplify behavioral signals that diverge from informational value. 
+
+- [Why Institutions Drift From Their Mission: Goal Displacement and Bureaucratic Drift](why-institutions-drift-from-their-mission-goal-displacement-and-bureaucratic-drift.md)  
+  Shows how organizations gradually optimize procedures and internal processes instead of their original mission. 
+
+- [Why Systems Optimize Metrics Over Real Outcomes: Proxy Optimization](why-systems-optimize-metrics-over-real-outcomes-proxy-optimization.md)  
+  Introduces the broader pattern connecting these dynamics across technological, institutional, and cultural systems. 
+  
+  ---
+
 ## Intellectual Lineage
 
 The Reality Drift framework builds on earlier insights from systems theory, media ecology, and cognitive science.  
