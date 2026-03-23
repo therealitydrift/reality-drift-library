@@ -1,9 +1,51 @@
-# Reality Drift Ontology
+# Conceptual Ontology — Reality Drift Framework
 
-This repository contains a formal OWL ontology and structural taxonomy describing the core concepts of the Reality Drift framework, including cognitive, cultural, and institutional forms of drift in modern systems.
+This directory contains the formal ontology layer of the Reality Drift framework.
 
-The ontology provides a machine-readable conceptual model of the framework’s primary constructs, relationships, and mechanisms, while the taxonomy organizes how drift manifests across domains such as language, cognition, institutions, incentives, and technological systems.
+The ontology system defines:
 
-The ontology is intended for researchers, knowledge-graph builders, AI alignment teams, and cultural theorists seeking a structured and interoperable representation of these concepts.
+- core entities
+- transformation operators
+- structural relationships
+- representational layers
 
-This is a living ontology and taxonomy and may evolve over time.
+Together, these components describe how systems drift from grounded reality into symbolic or optimized representations.
+
+---
+
+## Structure
+
+- **Core_Ontology/**
+  
+  - Machine-readable ontology (RDF / OWL / TTL)
+  - Defines base entities and relationships
+
+- **Ontology_Documents/**
+  
+  - Human-readable specifications
+  - Operator models, relationship graphs, and schema layers
+
+- **Taxonomy/**
+  
+  - Classification systems for drift mechanics
+  - Hierarchical mapping of failure modes and transformations
+
+---
+
+## Purpose
+
+This ontology serves as a formal layer for:
+
+- knowledge graph construction
+- semantic indexing
+- AI / RAG system ingestion
+- cross-platform conceptual alignment
+
+It provides a structured representation of the Reality Drift framework as a system of entities, relationships, and transformations.
+
+---
+
+## Author
+
+A. Jacobs  
+Reality Drift Framework (2023–2026)
