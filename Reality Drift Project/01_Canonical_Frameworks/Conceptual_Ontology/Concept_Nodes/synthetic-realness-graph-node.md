@@ -1,0 +1,137 @@
+```json
+{
+  "node_id": "synthetic-realness",
+  "label": "Synthetic Realness",
+  "node_type": "core_concept",
+  "framework": "Reality Drift",
+  "author": "A. Jacobs",
+  "canonical_definition": "Synthetic Realness describes a condition where something feels real because it is polished, coherent, emotionally legible, or aesthetically convincing, rather than because it remains grounded in reality.",
+  "short_definition": "When something feels real because it is convincing, not because it is grounded.",
+  "core_claim": "The appearance of realness can become detached from reality itself.",
+  "domains": [
+    "AI media",
+    "synthetic media",
+    "digital culture",
+    "branding",
+    "social platforms",
+    "influencer culture",
+    "corporate communication",
+    "online identity"
+  ],
+  "mechanisms": [
+    {
+      "name": "signal_replication",
+      "effect": "systems reproduce the cues people associate with authenticity"
+    },
+    {
+      "name": "aesthetic_optimization",
+      "effect": "surfaces become smoother and more convincing than the realities behind them"
+    },
+    {
+      "name": "emotional_legibility",
+      "effect": "content becomes easier to feel before it is verified"
+    },
+    {
+      "name": "grounding_loss",
+      "effect": "the relationship between presentation and lived reality weakens"
+    },
+    {
+      "name": "coherence_substitution",
+      "effect": "coherent presentation is mistaken for grounded reality"
+    }
+  ],
+  "observable_patterns": [
+    "content feels authentic but oddly generic",
+    "emotional cues appear without lived context",
+    "polish substitutes for trust",
+    "artificial media becomes easier to consume than reality",
+    "people feel surrounded by things that look real but feel slightly off",
+    "credibility is inferred from coherence and presentation"
+  ],
+  "connects_to": [
+    {
+      "target": "reality-drift",
+      "relationship": "emerges_within",
+      "description": "Synthetic Realness appears when Reality Drift makes convincing representation easier than grounded contact."
+    },
+    {
+      "target": "semantic-fidelity",
+      "relationship": "weakens",
+      "description": "Synthetic Realness increases when meaning is preserved aesthetically but loses grounding."
+    },
+    {
+      "target": "filter-fatigue",
+      "relationship": "amplifies",
+      "description": "Synthetic Realness increases the burden of distinguishing grounded reality from convincing surfaces."
+    },
+    {
+      "target": "optimization-trap",
+      "relationship": "emerges_from",
+      "description": "Synthetic Realness often emerges when systems optimize authenticity cues instead of actual grounding."
+    },
+    {
+      "target": "constraint-collapse",
+      "relationship": "persists_through",
+      "description": "Constraint Collapse allows synthetic realness to spread without correction from reality."
+    }
+  ],
+  "causal_chain": [
+    "signal replication",
+    "aesthetic optimization",
+    "emotional legibility",
+    "surface coherence",
+    "grounding loss",
+    "synthetic realness"
+  ],
+  "examples": [
+    {
+      "domain": "AI media",
+      "example": "AI-generated images look emotionally convincing while depicting no real event."
+    },
+    {
+      "domain": "branding",
+      "example": "Brand messaging performs sincerity without meaningful commitment."
+    },
+    {
+      "domain": "social media",
+      "example": "Influencer content is staged to appear candid."
+    },
+    {
+      "domain": "corporate communication",
+      "example": "Corporate language sounds human while avoiding human accountability."
+    },
+    {
+      "domain": "digital environments",
+      "example": "Digital environments are optimized to feel intimate while remaining impersonal."
+    }
+  ],
+  "signature_lines": [
+    "Synthetic Realness is what happens when the signs of reality become easier to produce than reality itself.",
+    "Something can feel real without being grounded.",
+    "The artificial becomes smoother than the real.",
+    "Polish becomes a substitute for presence."
+  ],
+  "search_queries": [
+    "why everything feels fake but looks real",
+    "AI media and fake authenticity",
+    "why modern content feels artificial",
+    "synthetic media and authenticity",
+    "engineered authenticity",
+    "why AI images feel real but fake",
+    "why online life feels staged",
+    "polished unreality in modern media"
+  ],
+  "artifact_forms": [
+    "markdown",
+    "pdf",
+    "slide_deck",
+    "infographic",
+    "ontology_node",
+    "knowledge_graph",
+    "audio_discussion",
+    "visual_map"
+  ],
+  "version": "1.0",
+  "created": "2026-05-16"
+}
+```
