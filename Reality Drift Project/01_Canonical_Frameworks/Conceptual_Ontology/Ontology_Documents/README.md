@@ -52,17 +52,7 @@ These documents:
 - establish system-level coherence across components
 - reinforce semantic consistency across platforms
 
----
 
-## Position in Framework
-
-If **Core_Ontology** is the machine layer, this folder is the **interpretation and schema layer**.
-
-It bridges:
-
-- formal ontology (RDF / OWL)
-- conceptual models
-- system-level reasoning
 
 ---
 

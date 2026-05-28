@@ -4,8 +4,6 @@ This directory contains empirical and methodological papers from the Reality Dri
 
 These papers focus on measurement, evaluation, and operationalization of concepts introduced in the broader Reality Drift framework, particularly as they apply to language models and high-entropy information systems.
 
-Each paper is intended as a concrete methodological contribution rather than a purely conceptual or theoretical work.
-
 ---
 
 ## Scope

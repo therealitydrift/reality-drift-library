@@ -1,67 +1,26 @@
-# Framework Atlases
+## Framework Atlases
 
-## Canonical Visual Atlases of the Reality Drift Framework
+Visual reference atlases for the Reality Drift framework.
 
-### Overview
-
-This directory contains canonical framework atlases from the Reality Drift project. Each atlas is a visual reference artifact that consolidates core concepts, mechanics, and diagnostic structures into stable, reusable forms.
-
-These atlases are designed to provide structural orientation rather than narrative explanation. They summarize the internal architecture of the Reality Drift framework in a compact, visual format suitable for reference, citation, and reuse.
+This directory contains condensed visual overviews of core concepts, mechanics, and structural relationships across the framework.
 
 ---
 
-### Contents
+## Contents
 
-This folder includes the following framework atlases:
-
-- Reality Drift Framework Atlas  
-  A high-level structural map of Reality Drift as a systems-level condition.
-
-- Drift Mechanics Atlas  
-  Visual models describing how acceleration, compression, and feedback loops produce drift without system collapse.
-
-- Reality Drift Glossary Atlas  
-  A visual synthesis of key terms used throughout the Reality Drift framework.
-
-Each PDF is versioned and treated as a fixed reference snapshot.
+- [Reality Drift Framework Atlas](./Framework_Atlas_RealityDrift_RDF-2025-V1.pdf)
+- [Drift Mechanics Atlas](./Framework_Atlas_DriftMechanics_RDF-2025-V1.pdf)
+- [Drift Glossary Atlas](./Framework_Atlas_DriftGlossary_RDF-2025-V1.pdf)
 
 ---
 
-### Role Within the Reality Drift Project
+## Related Resources
 
-Framework atlases occupy a distinct layer within the Reality Drift project. They are more formal than individual diagrams, less narrative than essays, and more stable than working papers.
-
-Their purpose is to provide consistent structural reference across research, education, and applied analysis as the broader project evolves.
-
----
-
-### Intended Use
-
-These materials may be used in:
-
-- Systems and cultural research  
-- AI governance and alignment contexts  
-- Organizational diagnostics  
-- Educational reference  
-- Internal analytical briefs  
-
-They are intended for reference and structural orientation.
+- [Reality Drift Library](https://github.com/therealitydrift/reality-drift-library)
+- [Substack](https://therealitydrift.substack.com/)
+- [Glossary](https://offbrandguy.com/reality-drift-glossary/)
+- [DOI](https://dx.doi.org/10.2139/ssrn.6150706)
 
 ---
 
-### Context
-
-This directory is part of the Reality Drift framework archive:  
-[Reality Drift Library](https://github.com/therealitydrift/reality-drift-library)
-
----
-
-### Citation
-
-Framework Atlases, Reality Drift Project (2025–2026).
-
----
-
-### Notes
-
-These atlases are maintained as stable reference artifacts. Updates are versioned rather than overwritten to preserve continuity and traceability.
+Version: 2026.05

@@ -53,3 +53,5 @@ Reality Drift describes this broader condition: systems continue functioning whi
 - [GitHub (full library)](https://github.com/therealitydrift/reality-drift-library)
 - [DOI (research paper)](https://dx.doi.org/10.2139/ssrn.6150706)
 - [Glossary & Definition](https://offbrandguy.com/reality-drift-glossary/)
+
+---

@@ -1,55 +1,57 @@
 # Concept Nodes
 
-Structured ontology and semantic reference files for canonical concepts within the Reality Drift framework.
+This directory contains structured concept node representations used within the Reality Drift ontology system.
 
-## Concepts
-
-### Reality Drift
-
-- [reality-drift.json](./reality-drift.json)  
-  Machine-readable ontology node containing definitions, mechanisms, relationships, and semantic mappings.
-
-- [reality-drift-canonical-concept.md](./reality-drift-canonical-concept.md)  
-  Human-readable canonical concept document combining structured metadata with expanded explanation.
-
-- [reality-drift-graph-node.md](./reality-drift-graph-node.md)  
-  Graph-oriented semantic node format for knowledge graph and ontology integration.
+The files define canonical concepts, graph relationships, and machine-readable exports used for semantic mapping, ontology development, and knowledge graph construction.
 
 ---
 
-### Optimization Trap
+## Structure
 
-- [optimization-trap.json](./optimization-trap.json)  
-  Machine-readable ontology node containing definitions, mechanisms, relationships, and semantic mappings.
+### [canonical-concepts](./canonical-concepts/)
 
-- [optimization-trap-canonical-concept.md](./optimization-trap-canonical-concept.md)  
-  Human-readable canonical concept document combining structured metadata with expanded explanation.
+Canonical concept definitions.
 
-- [optimization-trap-graph-node.md](./optimization-trap-graph-node.md)  
-  Graph-oriented semantic node format for knowledge graph and ontology integration.
+These files describe the core meaning, mechanisms, and structural role of major Reality Drift framework concepts.
 
----
+Examples:
 
-### Filter Fatigue
-
-- [filter-fatigue.json](./filter-fatigue.json)  
-  Machine-readable ontology node containing definitions, mechanisms, relationships, and semantic mappings.
-
-- [filter-fatigue-canonical-concept.md](./filter-fatigue-canonical-concept.md)  
-  Human-readable canonical concept document combining structured metadata with expanded explanation.
-
-- [filter-fatigue-graph-node.md](./filter-fatigue-graph-node.md)  
-  Graph-oriented semantic node format for knowledge graph and ontology integration.
+- Reality Drift
+- Optimization Trap
+- Synthetic Realness
+- Filter Fatigue
 
 ---
 
-### Synthetic Realness
+### [graph-nodes](./graph-nodes/)
 
-- [synthetic-realness.json](./synthetic-realness.json)  
-  Machine-readable ontology node containing definitions, mechanisms, relationships, and semantic mappings.
+Graph-oriented node representations for ontology and relationship modeling.
 
-- [synthetic-realness-canonical-concept.md](./synthetic-realness-canonical-concept.md)  
-  Human-readable canonical concept document combining structured metadata with expanded explanation.
+These files focus on entity structure, conceptual relationships, and network positioning within the broader framework.
 
-- [synthetic-realness-graph-node.md](./synthetic-realness-graph-node.md)  
-  Graph-oriented semantic node format for knowledge graph and ontology integration.
+---
+
+### [json-exports](./json-exports/)
+
+Machine-readable JSON concept exports.
+
+These files support:
+
+- semantic indexing
+- structured retrieval
+- ontology parsing
+- graph ingestion
+- AI and RAG integration
+
+---
+
+## Related Resources
+
+- [Substack](https://therealitydrift.substack.com/)
+- [GitHub Library](https://github.com/therealitydrift/reality-drift-library)
+- [DOI](https://dx.doi.org/10.2139/ssrn.6150706)
+- [Glossary](https://offbrandguy.com/reality-drift-glossary/)
+
+---
+
+Version: 2026.05

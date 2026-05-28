@@ -27,13 +27,7 @@ Datasets in this directory may be used for:
 
 These datasets are not intended to function as exhaustive benchmarks unless explicitly stated.
 
----
 
-## Structure
-
-- Files are maintained in simple, portable formats.
-- Each dataset is accompanied by minimal contextual documentation.
-- Datasets may be expanded or supplemented over time.
 
 ---
 

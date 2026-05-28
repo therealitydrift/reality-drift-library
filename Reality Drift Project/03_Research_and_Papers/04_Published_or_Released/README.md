@@ -16,12 +16,7 @@ This directory includes papers that have been:
 
 These works consolidate and formalize concepts developed across earlier conceptual, theoretical, and empirical stages of the project.
 
----
 
-## Structure
-
-- Each file is a complete, finalized paper in PDF format.
-- Filenames include author name and year for citation clarity.
 
 ---
 

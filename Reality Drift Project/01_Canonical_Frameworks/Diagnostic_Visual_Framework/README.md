@@ -1,23 +1,28 @@
 # Diagnostic Visual Framework
 
-This directory contains visual models that map how systems drift when optimization detaches from reality.
+This directory contains visual models for diagnosing drift patterns across systems, media, institutions, and AI environments.
 
-These diagrams focus on recurring structural patterns:
+These visuals focus on:
 
-- proxy optimization replacing real outcomes
-- constraint weakening and collapse
-- representational drift and meaning degradation
-- feedback loops that reinforce misalignment
+- proxy optimization
+- constraint collapse
+- representational drift
+- semantic degradation
+- feedback-loop misalignment
 
-Rather than isolated examples, these visuals are designed as a coherent diagnostic layer. Each model captures a different expression of the same underlying failure mode across domains such as AI, media, institutions, culture, and politics.
+---
 
-Versioning:
+## Folders
 
-- v1_legacy: early visual explorations and initial formulations
-- v2_refined: current canonical visual language and structure
+- [Infographic Illustrations](./infographic_illustrations/)
+- [Ontology Visuals](./ontology_visuals/)
+- [Legacy Visuals](./v1_legacy/)
+- [Refined Visuals](./v2_refined/)
+- [Visual Diagnostics Expansion](./visual_diagnostics_expansion/)
 
-Use:
-These diagrams can be read individually or as part of a broader map of system behavior. Together, they form a visual ontology of drift: how systems remain operational while gradually losing alignment with the reality they were meant to track.
+---
 
 Part of the Reality Drift framework (2023–2026)  
 A. Jacobs
+
+Version: 2026.05

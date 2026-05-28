@@ -28,10 +28,6 @@ The Reality Drift Library exists to consolidate these patterns into a shared ana
 
 [What Is Reality Drift?](guides/what-is-reality-drift.m![Reality Drift Loop.png](C:\Users\austi\Documents\GitHub\reality-drift-library\visuals\Reality%20Drift%20Loop.png)
 
-![Reality Drift Loop.png](C:\Users\austi\Documents\GitHub\reality-drift-library\visuals\Reality%20Drift%20Loop.png)
-
-*Core feedback loop of the Reality Drift framework.*
-
 ---
 
 ## Core Concepts
@@ -135,41 +131,51 @@ Each definition below is a concise orientation summary; the linked repository co
 
 ## System Drift Mechanisms
 
-These short framework notes examine common ways complex systems drift away from the realities they were designed to represent.  
+These short framework notes examine common ways complex systems drift away from the realities they were designed to represent.
+
 Across domains—AI systems, media platforms, institutions, and organizations—the same structural pattern often appears: systems begin optimizing the representation of success rather than the real-world outcome those signals were meant to reflect.
 
-- [When Metrics Become Targets: Goodhart’s Law and Metric Gaming](when-metrics-become-targets-goodharts-law-and-metric-gaming.md)  
+- [When Metrics Become Targets: Goodhart’s Law and Metric Gaming](Reality%20Drift%20Project/03_Research_and_Papers/07_Mechanism_Notes/when-metrics-become-targets-goodharts-law-and-metric-gaming.md)
+  
   Explains how performance indicators gradually replace real outcomes as systems optimize measurable targets.
 
-- [How AI Systems Exploit Objectives: Reward Hacking and Specification Gaming](how-ai-systems-exploit-objectives-reward-hacking-and-specification-gaming.md)  
+- [How AI Systems Exploit Objectives: Reward Hacking and Specification Gaming](Reality%20Drift%20Project/03_Research_and_Papers/07_Mechanism_Notes/how-ai-systems-exploit-objectives-reward-hacking-and-specification-gaming.md)
+  
   Describes how optimization systems learn to maximize reward signals rather than solving the intended task.
 
-- [How Algorithms Amplify the Wrong Signals: Signal Distortion in Digital Platforms](how-algorithms-amplify-the-wrong-signals-signal-distortion-in-digital-platforms.md)  
+- [How Algorithms Amplify the Wrong Signals: Signal Distortion in Digital Platforms](Reality%20Drift%20Project/03_Research_and_Papers/07_Mechanism_Notes/how-algorithms-amplify-the-wrong-signals-signal-distortion-in-digital-platforms.md)
+  
   Examines how engagement-driven recommendation systems amplify behavioral signals that diverge from informational value.
 
-- [Why Institutions Drift From Their Mission: Goal Displacement and Bureaucratic Drift](why-institutions-drift-from-their-mission-goal-displacement-and-bureaucratic-drift.md)  
+- [Why Institutions Drift From Their Mission: Goal Displacement and Bureaucratic Drift](Reality%20Drift%20Project/03_Research_and_Papers/07_Mechanism_Notes/why-institutions-drift-from-their-mission-goal-displacement-and-bureaucratic-drift.md)
+  
   Shows how organizations gradually optimize procedures and internal processes instead of their original mission.
 
-- [Why Systems Optimize Metrics Over Real Outcomes: Proxy Optimization](why-systems-optimize-metrics-over-real-outcomes-proxy-optimization.md)  
-  Introduces the broader pattern connecting these dynamics across technological, institutional, and cultural systems.
+- [Why Systems Optimize Metrics Over Real Outcomes: Proxy Optimization](Reality%20Drift%20Project/03_Research_and_Papers/07_Mechanism_Notes/why-systems-optimize-metrics-over-real-outcomes-proxy-optimization.md)
   
-  ---
+  Introduces the broader pattern connecting these dynamics across technological, institutional, and cultural systems.
+
+---
 
 ## Intellectual Lineage
 
 The Reality Drift framework builds on earlier insights from systems theory, media ecology, and cognitive science.  
-These short concept papers examine how Reality Drift connects to earlier thinkers whose work anticipated aspects of modern cultural and cognitive drift.
 
-- **[Reality Drift and Marshall McLuhan](./reality-drift-and-marshall-mcluhan.md)**  
-  Explores how media environments reshape perception and how accelerated media ecosystems contribute to drift dynamics.
+These short concept papers examine how Reality Drift connects to earlier thinkers whose work anticipated aspects of modern cultural and cognitive drift.  
 
-- **[Reality Drift and Gregory Bateson](./reality-drift-and-gregory-bateson.md)**  
-  Examines cybernetics, feedback systems, and how recursive information loops stabilize or destabilize meaning.
+- [Reality Drift and Marshall McLuhan](Reality%20Drift%20Project/03_Research_and_Papers/06_Intellectual_Lineage/reality-drift-and-marshall-mcluhan.md)  
 
-- **[Reality Drift and Terrence Deacon](./reality-drift-and-terrence-deacon.md)**  
-  Connects constraint-based theories of meaning to the breakdown of interpretive structure in high-noise environments.
+Explores how media environments reshape perception and how accelerated media ecosystems contribute to drift dynamics.  
 
-These papers situate Reality Drift within a broader intellectual lineage spanning cybernetics, media theory, and cognitive science.
+- [Reality Drift and Gregory Bateson](Reality%20Drift%20Project/03_Research_and_Papers/06_Intellectual_Lineage/reality-drift-and-gregory-bateson.md)  
+
+Examines cybernetics, feedback systems, and how recursive information loops stabilize or destabilize meaning.  
+
+- [Reality Drift and Terrence Deacon](Reality%20Drift%20Project/03_Research_and_Papers/06_Intellectual_Lineage/reality-drift-and-terrence-deacon.md)  
+
+Connects constraint-based theories of meaning to the breakdown of interpretive structure in high-noise environments.  
+
+These papers situate Reality Drift within a broader intellectual lineage spanning cybernetics, media theory, and cognitive science.  
 
 ---
 

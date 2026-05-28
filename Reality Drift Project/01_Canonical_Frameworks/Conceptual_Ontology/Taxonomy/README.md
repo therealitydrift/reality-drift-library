@@ -42,8 +42,7 @@ The taxonomy provides:
 - Ontology = entities + relationships  
 - Taxonomy = classification of mechanisms  
 
-Together they form:
-→ a structured conceptual system
+Together they form a structured conceptual system.
 
 ---
 

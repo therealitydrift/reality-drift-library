@@ -1,51 +1,34 @@
-# Conceptual Ontology — Reality Drift Framework
+# Conceptual Ontology
 
-This directory contains the formal ontology layer of the Reality Drift framework.
+This directory contains the ontology layer of the Reality Drift framework.
 
-The ontology system defines:
-
-- core entities
-- transformation operators
-- structural relationships
-- representational layers
-
-Together, these components describe how systems drift from grounded reality into symbolic or optimized representations.
+It includes concept nodes, core ontology files, ontology documents, and taxonomy materials used to map the framework as a structured system of entities, relationships, and transformations.
 
 ---
 
 ## Structure
 
-- **Core_Ontology/**
-  
-  - Machine-readable ontology (RDF / OWL / TTL)
-  - Defines base entities and relationships
+- [Concept Nodes](./Concept_Nodes/)  
+  Machine-readable and human-readable concept node files.
 
-- **Ontology_Documents/**
-  
-  - Human-readable specifications
-  - Operator models, relationship graphs, and schema layers
+- [Core Ontology](./Core_Ontology/)  
+  RDF / OWL / TTL ontology files defining base entities and relationships.
 
-- **Taxonomy/**
-  
-  - Classification systems for drift mechanics
-  - Hierarchical mapping of failure modes and transformations
+- [Ontology Documents](./Ontology_Documents/)  
+  Human-readable ontology specifications, relationship graphs, operator models, and schema documents.
+
+- [Taxonomy](./Taxonomy/)  
+  Classification materials for Reality Drift mechanics, failure modes, and conceptual groupings.
 
 ---
 
-## Purpose
+## Core Framework Resources
 
-This ontology serves as a formal layer for:
-
-- knowledge graph construction
-- semantic indexing
-- AI / RAG system ingestion
-- cross-platform conceptual alignment
-
-It provides a structured representation of the Reality Drift framework as a system of entities, relationships, and transformations.
+- [Substack](https://therealitydrift.substack.com/)
+- [GitHub Library](https://github.com/therealitydrift/reality-drift-library)
+- [DOI](https://dx.doi.org/10.2139/ssrn.6150706)
+- [Glossary](https://offbrandguy.com/reality-drift-glossary/)
 
 ---
 
-## Author
-
-A. Jacobs  
-Reality Drift Framework (2023–2026)
+Version: 2026.05
