@@ -80,21 +80,25 @@ These interventions rebalance coherence with grounding.
 
 Synthetic Realness is the structural inversion in which optimized coherence outpaces contextual fidelity, causing artificial representations to feel more authentic than lived reality.
 
-## Further Reading & Project Links
+## Core Framework Resources
 
-- - 
-  - [Substack (articles)](https://therealitydrift.substack.com/)
-  - [GitHub (full library)](https://github.com/therealitydrift/reality-drift-library)
-  - [DOI (research paper)](https://dx.doi.org/10.2139/ssrn.6150706)
-  - [Glossary & Definition](https://offbrandguy.com/reality-drift-glossary/)
+- [Substack (articles)](https://therealitydrift.substack.com/)
+- [GitHub (full library)](https://github.com/therealitydrift/reality-drift-library)
+- [DOI (research paper)](https://dx.doi.org/10.2139/ssrn.6150706)
+- [Glossary & Definition](https://offbrandguy.com/reality-drift-glossary/)
 
 ## Related Reality Drift Concepts
 
-- [Reality Drift](https://github.com/therealitydrift/reality-drift)
-- [Semantic Fidelity](https://github.com/therealitydrift/semantic-fidelity)
-- [Cognitive Drift](https://github.com/therealitydrift/cognitive-drift)
-- [Recursive Compression Theory](https://github.com/therealitydrift/recursive-compression-theory)
-- [Constraint Collapse](https://github.com/therealitydrift/constraint-collapse)
-- [Optimization Trap](https://github.com/therealitydrift/optimization-trap)
-- [Filter Fatigue](https://github.com/therealitydrift/filter-fatigue)
-- [Synthetic Realness](https://github.com/therealitydrift/synthetic-realness)
+- Reality Drift
+- Filter Fatigue
+- Optimization Trap
+- 
+- Cognitive Drift
+- Constraint Collapse
+- Semantic Fidelity
+- Recursive Compression
+- Drifted Self
+- Temporal Drift
+- Semantic Drift
+- The Drift Principle
+- Age of Drift

@@ -82,7 +82,7 @@ These interventions restore friction selectively rather than eliminate it entire
 
 Filter Fatigue is the exhaustion that arises when constant relevance optimization forces individuals to continuously filter, curate, and interpret their environment in order to maintain meaning.
 
-## Further Reading & Project Links
+## Core Framework Resources
 
 - [Substack (articles)](https://therealitydrift.substack.com/)
 - [GitHub (full library)](https://github.com/therealitydrift/reality-drift-library)
@@ -91,11 +91,16 @@ Filter Fatigue is the exhaustion that arises when constant relevance optimizatio
 
 ## Related Reality Drift Concepts
 
-- [Reality Drift](https://github.com/therealitydrift/reality-drift)
-- [Semantic Fidelity](https://github.com/therealitydrift/semantic-fidelity)
-- [Cognitive Drift](https://github.com/therealitydrift/cognitive-drift)
-- [Recursive Compression Theory](https://github.com/therealitydrift/recursive-compression-theory)
-- [Constraint Collapse](https://github.com/therealitydrift/constraint-collapse)
-- [Optimization Trap](https://github.com/therealitydrift/optimization-trap)
-- [Filter Fatigue](https://github.com/therealitydrift/filter-fatigue)
-- [Synthetic Realness](https://github.com/therealitydrift/synthetic-realness)
+- Reality Drift
+- 
+- Optimization Trap
+- Synthetic Realness
+- Cognitive Drift
+- Constraint Collapse
+- Semantic Fidelity
+- Recursive Compression
+- Drifted Self
+- Temporal Drift
+- Semantic Drift
+- The Drift Principle
+- Age of Drift

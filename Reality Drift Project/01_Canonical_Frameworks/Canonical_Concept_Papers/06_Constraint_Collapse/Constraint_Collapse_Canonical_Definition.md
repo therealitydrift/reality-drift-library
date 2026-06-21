@@ -80,11 +80,16 @@ Constraint Collapse is the structural condition in which feedback remains presen
 
 ## Related Reality Drift Concepts
 
-- [Reality Drift](https://github.com/therealitydrift/reality-drift)
-- [Semantic Fidelity](https://github.com/therealitydrift/semantic-fidelity)
-- [Cognitive Drift](https://github.com/therealitydrift/cognitive-drift)
-- [Recursive Compression Theory](https://github.com/therealitydrift/recursive-compression-theory)
-- [Constraint Collapse](https://github.com/therealitydrift/constraint-collapse)
-- [Optimization Trap](https://github.com/therealitydrift/optimization-trap)
-- [Filter Fatigue](https://github.com/therealitydrift/filter-fatigue)
-- [Synthetic Realness](https://github.com/therealitydrift/synthetic-realness)
+- Reality Drift
+- Filter Fatigue
+- Optimization Trap
+- Synthetic Realness
+- Cognitive Drift
+- 
+- Semantic Fidelity
+- Recursive Compression
+- Drifted Self
+- Temporal Drift
+- Semantic Drift
+- The Drift Principle
+- Age of Drift
