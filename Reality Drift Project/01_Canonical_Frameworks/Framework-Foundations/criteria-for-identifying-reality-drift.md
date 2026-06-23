@@ -57,4 +57,4 @@ This threshold logic is what distinguishes Reality Drift from general dysfunctio
 
 ## Conclusion
 
-Reality Drift is not a loose metaphor for modern frustration. It is a bounded structural condition with identifiable requirements. These criteria provide the minimum threshold for applying the framework responsibly. Their purpose is not to make the model rigid, but to preserve its precision across domains. As the framework expands into institutional analysis, AI systems, and semantic environments, these criteria become increasingly important. They provide the conditions under which drift can be recognized before it becomes normalized.
+Reality Drift is not a loose metaphor for modern frustration. It is a bounded structural condition with identifiable requirements. These criteria provide the minimum threshold for applying the framework responsibly. Their purpose is to preserve its precision across domains. As the framework expands into institutional analysis, AI systems, and semantic environments, these criteria become increasingly important. They provide the conditions under which drift can be recognized before it becomes normalized.

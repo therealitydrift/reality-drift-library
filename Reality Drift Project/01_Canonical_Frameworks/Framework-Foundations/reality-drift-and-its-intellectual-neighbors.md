@@ -23,7 +23,7 @@ New conceptual frameworks are often challenged through comparison to earlier tra
 
 ## Why Intellectual Lineage Matters
 
-No conceptual framework emerges in isolation. Every serious model inherits vocabulary, assumptions, and methods from earlier thinkers. Acknowledging this is not a weakness. It strengthens the framework by placing it within an intelligible lineage. At the same time, lineage can create interpretive shortcuts. Critics often use prior thinkers to imply that a framework contains nothing new. This move can obscure what is structurally distinct. The purpose of this paper is not to claim originality in absolute terms, but to specify the exact contribution Reality Drift makes within an already crowded conceptual landscape.
+No conceptual framework emerges in isolation. Every serious model inherits vocabulary, assumptions, and methods from earlier thinkers. Acknowledging this is not a weakness. It strengthens the framework by placing it within an intelligible lineage. At the same time, lineage can create interpretive shortcuts. Critics often use prior thinkers to imply that a framework contains nothing new. This move can obscure what is structurally distinct. The purpose of this paper is to specify the exact contribution Reality Drift makes within an already crowded conceptual landscape.
 
 ## Gregory Bateson and Patterned Difference
 

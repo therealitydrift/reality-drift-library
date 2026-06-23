@@ -65,14 +65,8 @@ This is not failure. It is one of the normal outcomes of conceptual success.
 
 But recognizing this pattern changes how provenance can be preserved. It encourages intentional archiving, distributed publication, and stable conceptual anchors.
 
-These are not peripheral activities. They are part of the structural defense of the framework itself.
-
 ## Conclusion
 
 Retrospective compression is one of the most powerful forces in conceptual history because it changes not only what ideas mean, but how their emergence is remembered. It transforms novelty into inevitability and weakens the visibility of early recognition.
 
 For frameworks like Reality Drift, understanding this process is essential. The framework does not only describe external systems. It also predicts how its own trajectory may be absorbed, compressed, and rewritten over time.
-
-Provenance capture is therefore not merely archival.
-
-It is part of maintaining structural integrity across time.

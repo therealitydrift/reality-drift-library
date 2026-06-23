@@ -80,7 +80,3 @@ This is one of the central implications of the framework.
 Reality Drift is not one phenomenon repeated identically across every domain. It is a family of related structural conditions shaped by scale. The mechanism remains consistent: operational continuity persists while alignment weakens. What changes is the architecture of mediation, survivability, and correction.
 
 Understanding scale allows the Reality Drift framework to unify cognitive, semantic, institutional, and technological analysis without collapsing their distinctions. This makes the framework more precise and more expandable.
-
-Drift is not only a property of systems.
-
-It is also a property of scale itself.

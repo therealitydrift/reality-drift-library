@@ -19,11 +19,13 @@
 
 ## Abstract
 
-As conceptual frameworks enter broader discourse, they are often compressed into adjacent or more familiar categories. This process can improve accessibility, but it can also erase important distinctions. Reality Drift is especially vulnerable to this because it intersects with bureaucracy, institutional failure, optimization, technological mediation, and social complexity without being reducible to any of them. This paper clarifies what Reality Drift does not describe. Its purpose is not defensive, but structural. Conceptual boundaries are necessary for interpretive precision. Without them, the framework risks absorbing too much and explaining too little. Reality Drift refers specifically to conditions in which systems remain operational while gradually losing alignment with real-world conditions. Its defining feature is not failure itself, but survivable misalignment.
+As conceptual frameworks enter broader discourse, they are often compressed into adjacent or more familiar categories. This process can improve accessibility, but it can also erase important distinctions. Reality Drift is especially vulnerable to this because it intersects with bureaucracy, institutional failure, optimization, technological mediation, and social complexity without being reducible to any of them. This paper clarifies what Reality Drift does not describe.
+
+Conceptual boundaries are necessary for interpretive precision. Without them, the framework risks absorbing too much and explaining too little. Reality Drift refers specifically to conditions in which systems remain operational while gradually losing alignment with real-world conditions. Its defining feature is not failure itself, but survivable misalignment.
 
 ## Why Boundaries Matter
 
-Conceptual frameworks often weaken not because they are incorrect, but because they become too broad. Once a concept can explain everything, it loses its diagnostic value. Reality Drift depends on constraint in order to remain useful. It does not describe every form of dysfunction, frustration, or complexity. It describes a narrower structural condition in which a system continues functioning, retains legitimacy, and reproduces itself even as its representations, procedures, or outputs become increasingly detached from the realities they are supposed to track. This distinction is central to the framework and determines where it applies and where it does not.
+Conceptual frameworks often weaken because they become too broad. Once a concept can explain everything, it loses its diagnostic value. Reality Drift depends on constraint in order to remain useful. It does not describe every form of dysfunction, frustration, or complexity. It describes a narrower structural condition in which a system continues functioning, retains legitimacy, and reproduces itself even as its representations, procedures, or outputs become increasingly detached from the realities they are supposed to track. This distinction is central to the framework and determines where it applies and where it does not.
 
 ## Reality Drift Is Not Bureaucracy
 

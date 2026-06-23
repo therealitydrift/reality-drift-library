@@ -19,7 +19,7 @@ RD-CX-04 | Reality Drift Criticism Archive**
 
 ## Abstract
 
-Conceptual frameworks are often criticized for lacking empirical precision during their early stages of development. This criticism can be valid, but it can also confuse conceptual architecture with operational measurement. Reality Drift begins as a structural model rather than an experimental one. Its primary function is to identify a recurring pattern in which systems maintain operational continuity while their alignment with reality degrades. This paper examines how such a framework can be evaluated without collapsing it into overly narrow metrics. The goal is not to produce a single measurement for drift, but to identify observable patterns that indicate its presence across systems.
+Conceptual frameworks are often criticized for lacking empirical precision during their early stages of development. This criticism can be valid, but it can also confuse conceptual architecture with operational measurement. Reality Drift begins as a structural model rather than an experimental one. Its primary function is to identify a recurring pattern in which systems maintain operational continuity while their alignment with reality degrades. This paper examines how such a framework can be evaluated without collapsing it into overly narrow metrics. The goal is to identify observable patterns that indicate its presence across systems.
 
 ## Conceptual Models and Measurement
 
@@ -67,10 +67,8 @@ Reality Drift does not currently propose a universal metric. Instead, it propose
 
 The task of future work is not to force a single measurement onto drift, but to develop domain-specific diagnostics that preserve the structural distinctions of the framework. This may include semantic audits, proxy divergence analysis, recursive fidelity tests, and survivability mapping.
 
-These are not external additions to the framework. They are natural extensions of it.
-
 ## Conclusion
 
 Reality Drift is not beyond evaluation. It is simply earlier in its developmental arc than many of the systems it describes. Its claims generate observable consequences, and those consequences can be studied across multiple domains. The challenge is methodological discipline. Evaluation must preserve the structural distinctions of the framework rather than reducing it into narrower existing categories.
 
-The goal is not to prove drift through one number. The goal is to identify the conditions under which systems continue working while becoming progressively less aligned with reality. That condition is increasingly measurable, even if its forms remain domain-specific.
+The goal is to identify the conditions under which systems continue working while becoming progressively less aligned with reality. That condition is increasingly measurable, even if its forms remain domain-specific.

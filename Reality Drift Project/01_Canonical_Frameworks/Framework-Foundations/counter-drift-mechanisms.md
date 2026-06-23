@@ -31,7 +31,7 @@ One of the strongest counter-drift mechanisms is restoring direct contact betwee
 
 ## Proxy Auditing
 
-Because many drifting systems organize themselves around proxies, regular proxy auditing is essential. This means examining whether the indicators being optimized still accurately represent the underlying conditions they were designed to measure. Proxy audits are not simply technical reviews. They are structural checks on whether the system’s symbolic layer remains grounded. When proxies begin diverging from lived, operational, or material reality, intervention must occur before the divergence becomes normalized.
+Because many drifting systems organize themselves around proxies, regular proxy auditing is essential. This means examining whether the indicators being optimized still accurately represent the underlying conditions they were designed to measure. Proxy audits are structural checks on whether the system’s symbolic layer remains grounded. When proxies begin diverging from lived, operational, or material reality, intervention must occur before the divergence becomes normalized.
 
 ## Semantic Fidelity Checks
 
@@ -43,7 +43,7 @@ Many systems drift because they lose the constraints that once enforced correcti
 
 ## Provenance Preservation
 
-Provenance functions as a stabilizer because it preserves the origin, sequence, and transformation history of information. In drifting systems, provenance often weakens as representations circulate and recursively reference one another. Restoring provenance allows systems to reconnect outputs to their source conditions. This is especially important in AI systems, institutional reporting, and distributed knowledge environments. Provenance does not guarantee alignment, but it increases the visibility of how alignment may have degraded.
+Provenance functions as a stabilizer because it preserves the origin, sequence, and transformation history of information. In drifting systems, provenance often weakens as representations circulate and recursively reference one another. Restoring provenance allows systems to reconnect outputs to their source conditions. This is especially important in AI systems, institutional reporting, and distributed knowledge environments. Provenance increases the visibility of how alignment may have degraded.
 
 ## Human Reintroduction
 
