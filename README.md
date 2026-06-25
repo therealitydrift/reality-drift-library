@@ -58,7 +58,7 @@ The repository is organized in layers. Some sections establish provenance and ca
 
 If you are new to the framework, begin here:
 
-→ [What Is Reality Drift?](https://github.com/therealitydrift/reality-drift-library/tree/main/Reality%20Drift%20Project/Start_Here/what-is-reality-drift.md)
+→ [What Is Reality Drift?](https://github.com/therealitydrift/reality-drift-library/blob/main/Start_Here/what-is-reality-drift.md)
 
 For broader framework orientation:
 
