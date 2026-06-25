@@ -14,7 +14,7 @@ This archive is preserved for provenance and conceptual lineage. Quotes remain i
 
 Deep ontology phase. Early work on binding, closure, orientation, and meaning.
 
-- [January Archive](https://chatgpt.com/c/substack-notes-january-2026-archive.md)
+- [January Archive](./Reality%20Drift%20Project/02_Essays/Substack-Notes-Archive/substack-notes-january-2026-archive.md)
 
 ---
 
@@ -22,7 +22,7 @@ Deep ontology phase. Early work on binding, closure, orientation, and meaning.
 
 Mechanism phase. Constraint collapse, correction failure, and continuation dynamics become clearer.
 
-- [February Archive](https://chatgpt.com/c/substack-notes-february-2026-archive.md)
+- [February Archive](./Reality%20Drift%20Project/02_Essays/Substack-Notes-Archive/substack-notes-february-2026-archive.md)
 
 ---
 
@@ -30,7 +30,7 @@ Mechanism phase. Constraint collapse, correction failure, and continuation dynam
 
 Convergence phase. Separate domains begin collapsing into a unified structural pattern.
 
-- [March Archive](https://chatgpt.com/c/substack-notes-march-2026-archive.md)
+- [March Archive](./Reality%20Drift%20Project/02_Essays/Substack-Notes-Archive/substack-notes-march-2026-archive.md)
 
 ---
 
@@ -38,7 +38,7 @@ Convergence phase. Separate domains begin collapsing into a unified structural p
 
 Semantic formalization phase. Meaning, grounding, and representation become central.
 
-- [April Archive](https://chatgpt.com/c/substack-notes-april-2026-archive.md)
+- [April Archive](./Reality%20Drift%20Project/02_Essays/Substack-Notes-Archive/substack-notes-april-2026-archive.md)
 
 ---
 
@@ -46,7 +46,7 @@ Semantic formalization phase. Meaning, grounding, and representation become cent
 
 Canonical stabilization phase. Core definitions become sharper and more internally consistent.
 
-- [May Archive](https://chatgpt.com/c/substack-notes-may-2026-archive.md)
+- [May Archive](./Reality%20Drift%20Project/02_Essays/Substack-Notes-Archive/substack-notes-may-2026-archive.md)
 
 ---
 
