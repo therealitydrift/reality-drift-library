@@ -1,41 +1,53 @@
-# Framework Conditions
+# Framework Foundations (README v2)
 
-This folder contains eight supporting documents that define the conceptual conditions, interpretive boundaries, and structural mechanisms of the Reality Drift framework. Together they form the internal architecture of the broader project, clarifying how Reality Drift should be understood, applied, evaluated, and stabilized across domains.
+This folder contains the supporting conceptual papers that establish the structural boundaries, interpretive criteria, and methodological foundations of the Reality Drift framework.
 
-These papers preserve conceptual precision and reduce semantic flattening as the framework expands into institutional analysis, semantic fidelity research, cognitive systems, and AI-mediated environments.
+These documents extend beyond the core concept papers by clarifying how Reality Drift should be evaluated, where its boundaries begin and end, what adjacent traditions it overlaps with, and what corrective mechanisms may resist drift over time.
 
----
-
-## Documents
-
-**[What Reality Drift Is Not: Boundary Conditions](https://chatgpt.com/c/what-reality-drift-is-not-boundary-conditions.md)**  
-Defines the conceptual perimeter of Reality Drift by distinguishing it from neighboring categories such as bureaucracy, inefficiency, complexity, corruption, collapse, and simulation.
-
-**[Predictable Misreadings of Structural Frameworks](https://chatgpt.com/c/predictable-misreadings-of-structural-frameworks.md)**  
-Examines recurring interpretive distortions that emerge when structural frameworks enter discourse, including semantic flattening, proxy defense, burden shifting, and strategic trivialization.
-
-**[Reality Drift and Its Intellectual Neighbors](https://chatgpt.com/c/reality-drift-and-its-intellectual-neighbors.md)**  
-Situates Reality Drift within a broader intellectual lineage and clarifies its structural distinctions from adjacent traditions in systems theory, cybernetics, media theory, and institutional critique.
-
-**[How Reality Drift Can Be Evaluated](https://chatgpt.com/c/how-reality-drift-can-be-evaluated.md)**  
-Outlines observable structural markers through which Reality Drift can be identified and studied, including proxy divergence, semantic fidelity decay, and recursive compression failure.
-
-**[Retrospective Compression and Provenance Capture](https://chatgpt.com/c/retrospective-compression-and-provenance-capture.md)**  
-Analyzes how structural insights are often absorbed and rewritten after becoming obvious, and why provenance preservation matters for maintaining conceptual continuity.
-
-**[Criteria for Identifying Reality Drift](https://chatgpt.com/c/criteria-for-identifying-reality-drift.md)**  
-Defines the minimum threshold conditions required for applying the framework, including operational continuity, weakened corrective feedback, and proxy substitution.
-
-**[Counter-Drift Mechanisms](https://chatgpt.com/c/counter-drift-mechanisms.md)**  
-Explores the structural mechanisms capable of reducing drift, including feedback restoration, proxy auditing, semantic fidelity checks, and constraint recovery.
-
-**[Scale and Drift](https://chatgpt.com/c/scale-and-drift.md)**  
-Examines how Reality Drift manifests differently across scales, from cognition and language to institutions, AI systems, and broader cultural environments.
+They form the secondary interpretive layer beneath the canonical concept definitions. Where ambiguity exists in earlier essays or developmental materials, these papers provide the stronger interpretive reference.
 
 ---
 
-## Purpose
+## Document Index
 
-These documents form the interpretive support structure of the Reality Drift framework. Their purpose is to preserve distinction, clarify application, and stabilize the conceptual architecture of the broader project.
+- **[Reality Drift Canonical Foundations (PDF)](./reality-drift-canonical-foundations.pdf)**  
+  Primary compiled foundations document.
 
-Read together, they provide the conditions under which Reality Drift can be understood as a bounded framework rather than a loose metaphor for modern dysfunction.
+- **[Counter Drift Mechanisms](./counter-drift-mechanisms.md)**  
+  Structural conditions that resist or reverse drift.
+
+- **[Criteria for Identifying Reality Drift](./criteria-for-identifying-reality-drift.md)**  
+  Conditions for valid drift recognition.
+
+- **[How Reality Drift Can Be Evaluated](./how-reality-drift-can-be-evaluated.md)**  
+  Methods for assessing drift claims.
+
+- **[Predictable Misreadings of Structural Frameworks](./predictable-misreadings-of-structural-frameworks.md)**  
+  Common interpretive distortions and category errors.
+
+- **[Reality Drift and Its Intellectual Neighbors](./reality-drift-and-its-intellectual-neighbors.md)**  
+  Relationship to adjacent theories and traditions.
+
+- **[Retrospective Compression and Provenance Capture](./retrospective-compression-and-provenance-capture.md)**  
+  Framework memory, archive formation, and reconstruction limits.
+
+- **[Scale and Drift](./scale-and-drift.md)**  
+  How drift changes as systems grow.
+
+- **[What Reality Drift Is Not — Boundary Conditions](./what-reality-drift-is-not-boundary-conditions.md)**  
+  Clarifies exclusions and non-drift cases.
+
+---
+
+## Function
+
+This folder provides the interpretive architecture for the Reality Drift framework.
+
+It helps stabilize definitions, preserve conceptual boundaries, and reduce misapplication across future readings.
+
+---
+
+## Metadata
+
+README v2  
+Updated: June 2026

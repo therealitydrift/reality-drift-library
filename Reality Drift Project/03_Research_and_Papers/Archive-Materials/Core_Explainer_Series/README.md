@@ -1,5 +1,7 @@
 # Reality Drift — Core Explainer Series (PDFs)
 
+README v2 - June 2026
+
 *A. Jacobs — Reality Drift Framework (2023–2026)*
 
 ## What is Reality Drift?
@@ -14,7 +16,7 @@ This divergence rarely appears as a sudden failure. It accumulates through small
 
 ## Core Explainer Series (PDFs)
 
-This folder contains the canonical PDF versions of the Reality Drift Core Explainer Series.
+This folder contains the PDF versions of the Reality Drift Core Explainer Series.
 
 Each document presents a core concept within the framework in a structured, portable format, including:
 
@@ -22,16 +24,12 @@ Each document presents a core concept within the framework in a structured, port
 - Mechanism notes
 - Embedded links to source material
 
-These PDFs are designed for distribution, archiving, and long-term reference.
-
-Together, they form a modular breakdown of the core system:
+Thes documents form a modular breakdown of the core system:
 
 - Reality Drift (the overarching pattern)
 - The Optimization Trap (the driver)
 - Synthetic Realness (the output)
 - Filter Fatigue (the cognitive effect)
-
-Each piece can be read independently, but they are designed to connect into a single loop: the Reality Drift cycle.
 
 ---
 
@@ -63,7 +61,7 @@ Each piece can be read independently, but they are designed to connect into a si
 
 ---
 
-## Core Framework and Sources
+## Additional Resources
 
 - [Substack (articles)](https://therealitydrift.substack.com/)
 - [GitHub (full library)](https://github.com/therealitydrift/reality-drift-library)
@@ -71,5 +69,3 @@ Each piece can be read independently, but they are designed to connect into a si
 - [Glossary & Definition](https://offbrandguy.com/reality-drift-glossary/)
 
 ---
-
-*A. Jacobs — Part of the Reality Drift framework (2023–2026)*

@@ -1,93 +1,85 @@
-# Reality Drift Project
+# Reality Drift Library
 
-This repository contains the canonical archive of the Reality Drift framework.
+This repository contains the main structured archive for the Reality Drift framework and its related materials (2023–2026).
 
-Reality Drift is a systems-level framework for analyzing how meaning, reference, and correction degrade in scaled symbolic environments such as institutions, media systems, AI platforms, and modern organizational structures.
-
-The materials archived here were developed between 2023 and 2026 as part of the Reality Drift project.
-
-This project serves as the primary structural record of the work across conceptual frameworks, essays, research papers, datasets, media artifacts, and applied operational briefs.
+The folders below organize the framework into its primary conceptual, archival, research, and applied layers.
 
 ---
 
 ## Repository Structure
 
-01_Canonical_Frameworks  
-Foundational frameworks, taxonomies, glossaries, and visual models that define the core concepts of Reality Drift.
+- **[00_Provenance](https://chatgpt.com/c/00_Provenance)**  
+  Foundational statements, boundary documents, historical records, critical framework defenses, and continuity materials establishing the structure, scope, and development of the Reality Drift framework.
 
-02_Published_Essays  
-Completed long-form essays exploring Reality Drift concepts in cultural, cognitive, and social contexts.
+- **[01_Canonical_Frameworks](https://chatgpt.com/c/01_Canonical_Frameworks)**  
+  Core framework definitions, canonical concept papers, glossary materials, ontology documents, foundational statements, and primary visual models.
 
-03_Research_and_Papers  
-Formal research materials, including concept papers, theory papers, empirical and methods work, released papers, and working materials.
+- **[02_Essays](https://chatgpt.com/c/02_Essays)**  
+  Public-facing essays, explanatory writing, and interpretive materials.
 
-04_Datasets  
-Structured datasets used for analysis, illustration, or empirical grounding of Reality Drift concepts.
+- **[03_Research_and_Papers](https://chatgpt.com/c/03_Research_and_Papers)**  
+  Published preprints, intellectual lineage documents, mechanism notes, drift taxonomies, failure-mode analyses, and supporting research archives.
 
-05_Media_Assets  
-Videos and supporting text artifacts created to explain or communicate Reality Drift concepts in audiovisual form.
+- **[04_Representational_Media](https://chatgpt.com/c/04_Representational_Media)**  
+  Concept visuals, video scripts, Substack article visuals, and public-facing media assets.
 
-06_Book_Project  
-Materials related to the book-length treatment of Reality Drift, including the primary manuscript, chapter excerpts, and appendices.
+- **[05_Visual_Reference_Guides](https://chatgpt.com/c/05_Visual_Reference_Guides)**  
+  Core diagrams, conceptual maps, visual walkthroughs, and reference materials used to support framework understanding.
 
-07_Operational_Briefs  
-Applied diagnostic briefs translating Reality Drift concepts into system-level analysis for organizations, platforms, and institutions.
+- **[06_Age_of_Drift](https://chatgpt.com/c/06_Age_of_Drift)**  
+  Early developmental writings, formative framework documents, and preserved pre-canonical materials.
 
----
+- **[07_Applied_Frameworks](https://chatgpt.com/c/07_Applied_Frameworks)**  
+  Applied diagnostic models, organizational drift briefings, operational drift analyses, AI governance materials, practical Reality Drift applications, and comparative framework studies.
 
-## Format
+- **[08_Origins_2022-2024](https://chatgpt.com/c/08_Origins_2022-2024)**  
+  Early conceptual origins, exploratory materials, and source documents predating the formal canonical structure.
 
-Most materials in this repository are maintained as complete PDF artifacts or structured source files.
+- **[10_Framework_Entry_Points](https://chatgpt.com/c/10_Framework_Entry_Points)**  
+  Introductory recognition guides, framework connections, diagnostic entry points, cross-domain pattern maps, and modern interpretive questions designed for new readers.
 
-Each folder contains its own README where additional context is required.
-
----
-
-## Canonical Source
-
-This repository is the canonical GitHub archive for the Reality Drift project:
-
-https://github.com/therealitydrift/reality-drift-library
+- **[11_Conceptual_Echoes](./11_Conceptual_Echoes)**  
+  Exploratory concept variations, alternate framings, experimental language structures, and adjacent interpretive models used to test how core ideas shift, translate, and evolve across different conceptual environments.
 
 ---
 
-## Publications and Platforms
+## Suggested Reading Order
 
-Publishing & Commentary
+If you are new:
 
-- **Substack**: [Reality Drift Substack](https://therealitydrift.substack.com/)
+→ [10_Framework_Entry_Points](https://chatgpt.com/c/10_Framework_Entry_Points)
 
-- **Medium**: [Reality Drift on Medium](https://medium.com/@therealitydrift)
+For the core framework:
 
-- **SlideShare**: [Reality Drift Archive – Presentations](https://www.slideshare.net/TheRealityDrift)
+→ [01_Canonical_Frameworks](https://chatgpt.com/c/01_Canonical_Frameworks)
 
-- **Archive.org**: [Reality Drift Archive on Internet Archive](https://archive.org/details/@austin_jacobs938)
+For supporting papers:
 
-- **Flickr (Conceptual Diagrams)**: [Reality Drift – Conceptual Frameworks](https://www.flickr.com/photos/204143705@N04/albums/72177720331639355)
+→ [03_Research_and_Papers](https://chatgpt.com/c/03_Research_and_Papers)
 
-- **ORCID**  [ORCID](https://orcid.org/0009-0002-7251-9875)
+For visual models:
 
-- **Academia.edu**  [A. Jacobs - Independent Researcher](https://independent.academia.edu/AJacobs9)
+→ [05_Visual_Reference_Guides](https://chatgpt.com/c/05_Visual_Reference_Guides)
 
-- **Figshare (Core Account)**: [A. Jacobs on Figshare](https://figshare.com/authors/A_Jacobs/22113808)
+For applied examples:
 
----
+→ [07_Applied_Frameworks](https://chatgpt.com/c/07_Applied_Frameworks)
 
-## Related Repositories
+For historical development:
 
-- **Reality Drift Conceptual Echoes**  
-  [GitHub - therealitydrift/reality-drift-conceptual-echos](https://github.com/therealitydrift/reality-drift-conceptual-echos)
-
-- **Semantic Fidelity Lab**  
-  [GitHub - therealitydrift/semantic-fidelity-lab](https://github.com/therealitydrift/semantic-fidelity-lab)
-
-- **Cognitive Drift Institute**  
-  [GitHub - therealitydrift/cognitive-drift-institute](https://github.com/therealitydrift/cognitive-drift-institute)
+→ [06_Age_of_Drift](https://chatgpt.com/c/06_Age_of_Drift)  
+→ [08_Origins_2022-2024](https://chatgpt.com/c/08_Origins_2022-2024)
 
 ---
 
-## Status
+## Archive Status
 
-This repository is actively maintained and expanded.
+Current README version: **v3**
 
-Materials may be added or revised as the framework evolves, but the structure of the archive is intended to remain stable.
+This document reflects the current organizational structure of the Reality Drift Library and may be updated as the archive expands or is reorganized.
+
+---
+
+**A. Jacobs**  
+Reality Drift Framework  
+2023–2026

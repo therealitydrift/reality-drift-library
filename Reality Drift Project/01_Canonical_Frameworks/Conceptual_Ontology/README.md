@@ -1,34 +1,33 @@
 # Conceptual Ontology
 
-This directory contains the ontology layer of the Reality Drift framework.
+This folder contains the structural ontology of the Reality Drift framework.
 
-It includes concept nodes, core ontology files, ontology documents, and taxonomy materials used to map the framework as a structured system of entities, relationships, and transformations.
+These materials map the internal architecture of the framework by defining how concepts relate to one another, how they are organized into higher-order structures, and how drift propagates across those structures. They provide the formal relational layer beneath the framework’s canonical concepts.
+
+The ontology serves as the structural model that organizes and stabilizes the broader conceptual system.
 
 ---
 
 ## Structure
 
-- [Concept Nodes](./Concept_Nodes/)  
-  Machine-readable and human-readable concept node files.
+- **[01_Concept_Structure](./01_Concept_Structure)**  
+  Core concept relationships, taxonomy layers, drift-fidelity indexing, and supporting relational notes used to organize the framework’s conceptual architecture.
 
-- [Core Ontology](./Core_Ontology/)  
-  RDF / OWL / TTL ontology files defining base entities and relationships.
+- **[02_Ontology_Frameworks](./02_Ontology_Frameworks)**  
+  Formal ontology documents, operator libraries, relationship graphs, and representation stack schemas defining the structural logic of the framework.
 
-- [Ontology Documents](./Ontology_Documents/)  
-  Human-readable ontology specifications, relationship graphs, operator models, and schema documents.
-
-- [Taxonomy](./Taxonomy/)  
-  Classification materials for Reality Drift mechanics, failure modes, and conceptual groupings.
+- **[03_Ontology_Model](./03_Ontology_Model)**  
+  Machine-readable ontology model (`.ttl`) representing the formalized conceptual structure of the framework.
 
 ---
 
-## Core Framework Resources
+## Function
 
-- [Substack](https://therealitydrift.substack.com/)
-- [GitHub Library](https://github.com/therealitydrift/reality-drift-library)
-- [DOI](https://dx.doi.org/10.2139/ssrn.6150706)
-- [Glossary](https://offbrandguy.com/reality-drift-glossary/)
+These materials serve as the relational and structural backbone of the Reality Drift archive. They clarify how concepts connect, how abstractions layer, and how drift patterns propagate across systems, cognition, and mediated environments.
 
 ---
 
-Version: 2026.05
+## Status
+
+Version 2  
+June 2026

@@ -1,15 +1,13 @@
 # Reality Drift Archive
 
-**A. Jacobs**  
-*A distributed research archive on system drift, semantic erosion, optimization failure, and modern unreality.*
+README v2
 
----
+
+
 
 ## Overview
 
-Reality Drift is a conceptual framework for understanding how modern systems remain operational while gradually losing alignment with the realities they were built to represent.
-
-The framework examines recurring structural patterns across institutions, AI systems, markets, media, and everyday life.
+Reality Drift is a conceptual framework for understanding how modern systems remain operational while gradually losing alignment with the realities they were built to represent. The framework examines recurring structural patterns across institutions, AI systems, markets, media, and everyday life.
 
 Core premise:
 
@@ -18,8 +16,6 @@ Core premise:
 This archive collects essays, conceptual papers, and working models tracing that pattern across domains.
 
 ---
-
-## Core Sequence
 
 ### Foundations
 
@@ -144,8 +140,6 @@ This archive collects essays, conceptual papers, and working models tracing that
 ---
 
 ## Status
-
-This archive is an active independent research project.
 
 Some concepts are stable.  
 Some remain under active refinement.

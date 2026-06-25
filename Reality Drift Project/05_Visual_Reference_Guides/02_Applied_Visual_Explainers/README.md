@@ -1,8 +1,10 @@
 # Reality Drift Visual Explainers
 
+README v2 - March 2025
+
 A small collection of public visual explainers from the Reality Drift framework by A. Jacobs.
 
-These files translate core Reality Drift concepts into short, accessible diagrams and explanatory texts. They are designed for reference, teaching, indexing, and cross-platform citation. Each explainer focuses on a specific pattern in modern digital systems, including optimization traps, algorithmic amplification, synthetic realness, filter fatigue, and recommendation feedback loops.
+These files translate core Reality Drift concepts into short, accessible diagrams and explanatory texts. Each explainer focuses on a specific pattern in modern digital systems, including optimization traps, algorithmic amplification, synthetic realness, filter fatigue, and recommendation feedback loops.
 
 ## Files
 
@@ -76,7 +78,7 @@ CC BY 4.0 International.
 
 ---
 
-## Core framework and sources
+## Additional Resources
 
 - [Substack (articles)](https://therealitydrift.substack.com/)
 - [GitHub (full library)](https://github.com/therealitydrift/reality-drift-library)

@@ -1,27 +1,58 @@
-## **Instrumentation Frameworks**
+# Instrumentation
 
-This folder contains operational tools derived from the Reality Drift framework.
+**README Version: v2**
 
-These materials focus on measurement and diagnosis rather than conceptual explanation. They provide structured methods for assessing how meaning, reference, and reality alignment change within complex symbolic systems.
+This directory contains early exploratory instrumentation materials from the Reality Drift project.
 
----
+These documents were created during an experimental phase of framework development in which diagnostic markers, technical indices, and evaluative structures were prototyped to test how Reality Drift concepts might be operationalized.
 
-## **Purpose**
+They do not represent formal scientific instruments, validated technical standards, or peer-reviewed measurement systems.
 
-Instrumentation frameworks are designed to:
-
-- Translate conceptual ideas into operational criteria
-
-- Support evaluation of semantic fidelity and epistemic integrity
-
-- Provide diagnostic language for analyzing synthetic or recursive knowledge environments
-
-These artifacts function as technical scaffolding rather than interpretive theory.
+Their primary purpose was conceptual experimentation: building provisional tools to explore how drift, semantic degradation, and representational instability might be identified and described.
 
 ---
 
-## **Relationship to Conceptual Echoes**
+## Scope
 
-While conceptual echoes examine how ideas propagate and transform, instrumentation frameworks focus on how those transformations can be observed, measured, and evaluated.
+The materials in this directory include:
 
-They operate as analytical tools within the broader Reality Drift ecosystem.
+- prototype diagnostic frameworks  
+- speculative semantic measurement systems  
+- conceptual marker models  
+- experimental evaluative structures  
+
+These materials were used as developmental tools for testing operational coherence rather than finalized technical systems.
+
+---
+
+## Archive Status
+
+This directory is preserved as part of the early working archive.
+
+It reflects a period of experimental instrument design where provisional frameworks and speculative standards were used to explore whether Reality Drift concepts could be translated into measurable structures.
+
+Some materials may contain:
+
+- provisional terminology  
+- unvalidated metrics  
+- incomplete diagnostic models  
+- speculative technical framing  
+- experimental standards later revised or abandoned  
+
+These documents are retained for developmental and historical context only.
+
+Where differences exist, later canonical framework materials take precedence.
+
+---
+
+## Document Index
+
+- [reality-drift-markers-diagnostic-framework-v1](./reality-drift-markers-diagnostic-framework-v1.pdf)  
+  A prototype diagnostic model for identifying structural markers of drift.
+
+- [semantic-fidelity-index-technical-standard-v1](./semantic-fidelity-index-technical-standard-v1.pdf)  
+  An exploratory semantic measurement framework for testing fidelity degradation.
+
+---
+
+# 

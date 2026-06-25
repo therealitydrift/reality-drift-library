@@ -57,11 +57,3 @@ Chapters are designed to function both:
 - and as independent entry points into the Reality Drift framework  
 
 ---
-
-## Related
-
-- Full book: see `/full-book`  
-- Front matter: see `/front-matter`  
-- Epilogue: see `/epilogue`  
-
----

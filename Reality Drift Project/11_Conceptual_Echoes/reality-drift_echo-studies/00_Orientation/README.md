@@ -1,47 +1,59 @@
-# Orientation
+# Orientation Materials
 
-This directory contains orientation materials for this repository.
+**README Version: v2**
 
-The materials establish shared terminology and framing to support consistent interpretation across files.
+This directory contains early exploratory orientation materials from the Reality Drift project.
 
-These documents are not original theory and are not intended to extend or revise the Reality Drift framework.
+These documents were created during an experimental phase of development in which conceptual structures were tested through speculative educational framing, fictionalized institutional formats, and prototype study systems.
 
----
+They should not be read as formal academic programs, official curricula, or finalized framework documents.
 
-## Contents
-
-- RD-ECHO-Aphorisms_Reality-Drift.pdf  
-  A compact set of aphorisms derived from Reality Drift concepts, intended to observe how meaning compresses when expressed as minimal statements.
-
-- RD-ECHO-Canonical-Glossary_Reality-Drift.pdf  
-  A glossary adapted from canonical Reality Drift terminology, structured to examine how definitions persist or shift when removed from their original theoretical context.
-
-- RD-ECHO-Index_Modern-Questions.pdf  
-  An index of contemporary questions used as probes for studying conceptual drift, reframing, and institutional uptake.
+Their primary purpose was exploratory. To test how Reality Drift concepts could be translated into teachable structures, compressed learning systems, and alternative interpretive formats.
 
 ---
 
-## Purpose
+## Scope
 
-These materials serve three functions:
+The materials in this directory include:
 
-- Establish baseline vocabulary and framing for echo studies  
-- Provide controlled reference artifacts for comparison  
-- Support analysis of how concepts propagate, simplify, or stabilize outside their source framework
+- Early aphoristic formulations of core concepts  
+- Prototype glossary structures  
+- Question-based conceptual indexing systems  
+- Orientation materials for experimental learning models  
 
----
-
-## Relationship to Reality Drift
-
-The canonical record of the Reality Drift framework is maintained separately in the Reality Drift Library:
-
-https://github.com/therealitydrift/reality-drift-library
-
-Materials in this repository should be read as secondary artifacts derived from that body of work.
+These were used as scaffolding for conceptual stress-testing rather than formal publication.
 
 ---
 
-## Notes
+## Archive Status
 
-This directory is intentionally limited in scope.  
-It is meant to orient readers, not to explain the full framework.
+This directory is preserved as part of the early working archive.
+
+It reflects a period of active experimentation where fictional, speculative, and pedagogical framing devices were used to explore how Reality Drift might transfer across domains such as education, institutions, and cultural systems.
+
+Some materials may contain:
+
+- provisional terminology  
+- outdated definitions  
+- speculative structures  
+- fictional institutional framing  
+- conceptual experiments later abandoned or revised  
+
+These documents are retained for developmental and historical context only. Where differences exist, later canonical framework materials take precedence.
+
+---
+
+## Document Index
+
+- [RD-ECHO-Aphorisms_Reality-Drift](./RD-ECHO-Aphorisms_Reality-Drift.pdf)  
+  Early compressed formulations of core ideas.
+
+- [RD-ECHO-Canonical-Glossary_Reality-Drift](./RD-ECHO-Canonical-Glossary_Reality-Drift.pdf)  
+  Prototype glossary and conceptual vocabulary.
+
+- [RD-ECHO-Index_Modern-Questions](./RD-ECHO-Index_Modern-Questions.pdf)  
+  A question-driven interpretive index for mapping lived experience to early Reality Drift concepts.
+
+---
+
+# 

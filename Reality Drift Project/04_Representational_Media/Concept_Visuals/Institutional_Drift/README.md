@@ -1,8 +1,10 @@
 # Corporate Drift Visual Set (CD01–CD08)
 
+README v2 - October 2025
+
 This folder contains a structured visual series exploring how modern organizations drift away from direct contact with reality through abstraction, process layering, outsourced accountability, and internal symbolic systems.
 
-These diagrams are part of the broader Reality Drift framework and function as visual diagnostic tools for recognizing institutional misalignment, bureaucratic ritual, and operational distance from real-world conditions.
+These diagrams function as visual diagnostic tools for recognizing institutional misalignment, bureaucratic ritual, and operational distance from real-world conditions.
 
 ## Included Visuals
 

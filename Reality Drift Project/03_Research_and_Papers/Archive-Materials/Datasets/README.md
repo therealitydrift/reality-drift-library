@@ -1,5 +1,7 @@
 # Datasets — Reality Drift
 
+README v2 
+
 This directory contains datasets associated with the Reality Drift project.
 
 The datasets are intended to support empirical analysis, illustration, and evaluation of concepts developed across the Reality Drift framework, particularly in relation to semantic drift, meaning degradation, and representational failure.
@@ -27,8 +29,6 @@ Datasets in this directory may be used for:
 
 These datasets are not intended to function as exhaustive benchmarks unless explicitly stated.
 
-
-
 ---
 
 ## Context
@@ -47,7 +47,3 @@ Reality Drift — Datasets.
 Reality Drift Archive.
 
 ---
-
-## Notes
-
-This directory serves as a supporting empirical layer within the broader Reality Drift project.

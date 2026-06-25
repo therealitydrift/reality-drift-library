@@ -16,7 +16,6 @@ This folder includes nineteen essays on:
 - optimization traps and metric substitution
 - temporal dislocation and vapor work
 - language, AI, and recursive compression
-- the “5%” and emergent cognitive stratification
 
 ---
 
@@ -29,8 +28,9 @@ https://github.com/therealitydrift/reality-drift-library
 ## Citation
 
 Reality Drift — Early Published Essays.  
-Reality Drift Archive, 2025–2026.
 
 ---
 
-Version: 2026.05
+Version: README v3
+
+June 2026

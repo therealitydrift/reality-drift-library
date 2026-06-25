@@ -1,62 +1,41 @@
-## Ontology Documents
+# Ontology Frameworks
 
-This folder contains human-readable specifications of the Reality Drift ontology.
+This folder contains the formal structural frameworks of the Reality Drift ontology.
 
-These documents expand the ontology into structured conceptual models and define how entities, relationships, and transformations operate as a system.
+These documents define the higher-order architecture of the framework by mapping entities, operators, relationships, transformations, and representation layers. Together they provide the formal structural logic beneath the broader conceptual system.
 
----
-
-## Contents
-
-- **Canonical Overview and FAQ**
-  
-  - Defines the overall structure and purpose of the framework
-  - Establishes core concepts and system boundaries
-  - Serves as the entry point for understanding the ontology layer
-
-- **Ontology Core Specification**
-  
-  - Defines entities and relationships in structured form
-  - Aligns with the machine-readable ontology (RDF / OWL)
-
-- **Operator Library**
-  
-  - Defines transformation mechanisms
-  - Each operator includes:
-    - input
-    - transformation
-    - output
-    - failure modes
-
-- **Relationship Graph (Explicit Edges)**
-  
-  - Directed system relationships
-  - Example:
-    - Optimization → produces → Synthetic Realness
-    - Synthetic Realness → causes → Filter Fatigue
-
-- **Representation Stack Schema**
-  
-  - Models layered abstraction from reality to representation
-  - Defines where compression and misalignment enter systems
+The materials here define how those concepts interact as a full system.
 
 ---
 
-## Purpose
+## Structure
 
-These documents:
+- **[Ontology Core Spec: Entities and Relationships](./reality-drift-ontology-core-spec-entities-relationships-a-jacobs.pdf)**  
+  The primary structural specification of the ontology, defining core entities and their formal relationships.
 
-- translate ontology into structured, readable systems
-- make relationships explicit for graph extraction
-- define transformation logic (operators)
-- establish system-level coherence across components
-- reinforce semantic consistency across platforms
+- **[Operator Library: Transformations](./reality-drift-operator-library-transformations-a-jacobs.pdf)**  
+  A structured library of the major transformations, operators, and drift-producing mechanisms across the framework.
 
+- **[Relationship Graph: Explicit Edges](./reality-drift-relationship-graph-explicit-edges-a-jacobs.pdf)**  
+  A formal graph mapping explicit conceptual relationships across the ontology.
 
+- **[Representation Stack Overview](./representation-stack-overview-reality-drift-framework-2023-2026-a-jacobs.pdf)**  
+  A layered model showing how representations stack, mediate, and transform reality across systems.
+
+- **[Representation Stack Schema](./representation-stack-schema-reality-drift-framework-a-jacobs.pdf)**  
+  The formal schema underlying the representation stack model.
 
 ---
 
-## Author
+## Function
 
-A. Jacobs  
-Reality Drift Framework (2023–2026)
+These materials serve as the formal structural layer of the Reality Drift ontology.
+
+They define the rules, transformations, and relational architecture through which drift emerges across systems, cognition, media, and institutions.
+
+---
+
+## Status
+
+Version 2  
+June 2026

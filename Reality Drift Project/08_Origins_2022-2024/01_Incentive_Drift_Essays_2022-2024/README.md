@@ -1,5 +1,7 @@
 # Incentive Drift Archive (2023–2025)
 
+README v2
+
 A collection of early essays, conceptual notes, and structural observations written under the *Incentive Drift* label prior to the formal development of the Reality Drift framework.
 
 These writings capture recurring concerns surrounding:
@@ -40,8 +42,6 @@ This archive exists to preserve:
 - pre-framework structural thinking
 - early pattern recognition prior to formalization
 
-The  archive preserves the original developmental process through which later concepts emerged. The goal is to preserve the continuity of recurring structural observations across time.
-
 ---
 
 # Structural Themes Across The Archive
@@ -77,14 +77,6 @@ Many of the concepts explored in these essays later evolved into parts of the Re
 - Synthetic Meaning
 - Narrative Drift
 - Institutional Drift
-
-The archive documents the transition from:
-
-- isolated observations
-  to
-- recurring structural patterns
-  to
-- formalized conceptual systems.
 
 ---
 
@@ -145,7 +137,7 @@ The archive intentionally preserves partiality, repetition, and conceptual evolu
 
 ---
 
-## Core framework and sources
+## Additonal Resources
 
 - [Substack (articles)](https://therealitydrift.substack.com/)
 - [GitHub (full library)](https://github.com/therealitydrift/reality-drift-library)
@@ -153,5 +145,3 @@ The archive intentionally preserves partiality, repetition, and conceptual evolu
 - [Glossary & Definition](https://offbrandguy.com/reality-drift-glossary/)
 
 ---
-
-

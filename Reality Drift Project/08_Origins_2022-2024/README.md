@@ -1,8 +1,8 @@
 # Origins 2022–2024 — Reality Drift
 
-This directory contains early developmental materials connected to the origins of the Reality Drift framework.
+README v2
 
-These folders preserve exploratory writing, structural notes, and symbolic fragments created prior to the formalization of the framework architecture.
+This directory contains early developmental materials connected to the origins of the Reality Drift framework. These folders preserve exploratory writing, structural notes, and symbolic fragments created prior to the formalization of the framework architecture.
 
 ---
 

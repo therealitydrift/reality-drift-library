@@ -1,79 +1,42 @@
+# Canonical Glossary
 
+This folder contains the current canonical glossary of the Reality Drift framework.
 
-# Canonical Lexical Frameworks
+The glossary serves as the primary reference index for the framework’s core concepts, terms, and related definitions. It provides the most stable terminology used across canonical papers, visual guides, research documents, and applied materials.
 
-### Overview
-
-This directory contains the canonical lexical framework for the Reality Drift project.
-
-The materials here define the core vocabulary used to describe structural drift across cultural, cognitive, institutional, and technological systems. These definitions establish the shared terminology used throughout the Reality Drift framework, including across visual frameworks, conceptual papers, and research artifacts.
-
-The primary document in this folder is the Reality Drift Canonical Glossary, which consolidates and standardizes terminology developed during earlier phases of the project.
+Where earlier glossaries or developmental definitions differ in wording, structure, or scope, the glossary in this folder takes precedence. Earlier glossary versions remain preserved below as part of the archive for developmental continuity and provenance.
 
 ---
 
-### Contents
+## Current Canonical Glossary
 
-This folder contains:
-
-- **Reality Drift Canonical Glossary (RDF-2026)**  
-  The consolidated reference vocabulary of the Reality Drift framework, defining core concepts such as reality drift, synthetic realness, semantic drift, filter fatigue, optimization traps, and cognitive drift.
-
-This document serves as the authoritative lexical reference for the framework.
+- **[Reality Drift Framework Canonical Glossary (2026)](./Reality-Drift-Framework-Canonical-Glossary-RDF-2026.pdf)**  
+  The current stable glossary containing the primary conceptual vocabulary of the framework.
 
 ---
 
-### Role Within the Reality Drift Project
+## Archived Glossary Materials
 
-Lexical frameworks form the semantic foundation of the Reality Drift project. They provide stable definitions and naming conventions that support consistency across:
+- **[RDF-2025-CG01 Canonical Glossary Proto v1](./Archive_Materials/RDF-2025-CG01_Canonical_Glossary_Proto-v1.pdf)**  
+  Early prototype glossary establishing the first structured lexical foundation.
 
-- conceptual frameworks
+- **[RDF-2025-DG02 Glossary Taxonomy v2](./Archive_Materials/RDF-2025-DG02_Glossary_Taxonomy-v2.pdf)**  
+  Expanded taxonomy version introducing broader category organization.
 
-- visual atlases
-
-- research papers
-
-- datasets
-
-- applied analysis
-
-Maintaining a shared vocabulary helps ensure conceptual clarity and prevents ambiguity across different applications of the framework.
+- **[RDF-2025-DG03 Glossary Expanded v3](./Archive_Materials/RDF-2025-DG03_Glossary_Expanded-v3.pdf)**  
+  Developmental expanded glossary preceding the current canonical version.
 
 ---
 
-### Intended Use
+## Function
 
-These materials may be used for:
+The glossary serves as the primary lexical reference layer of the Reality Drift archive.
 
-- conceptual reference
-
-- research and academic citation
-
-- framework alignment across projects
-
-- analytical and educational contexts
-
-- terminology standardization in applied work
+It standardizes terminology, preserves conceptual consistency, and provides stable reference definitions across the broader framework.
 
 ---
 
-### Context
+## Status
 
-This directory is part of the broader Reality Drift framework archive:
-
-[GitHub - therealitydrift/reality-drift-library](https://github.com/therealitydrift/reality-drift-library)
-
----
-
-### Citation
-
-Reality Drift Canonical Glossary (RDF-2026).  
-Reality Drift Project.
-
----
-
-### Notes
-
-Earlier lexical materials and development-stage terminology are preserved in the Archive directory for historical reference.
-
-The glossary in this folder represents the current canonical vocabulary of the Reality Drift framework.
+Version 2 
+June 2026

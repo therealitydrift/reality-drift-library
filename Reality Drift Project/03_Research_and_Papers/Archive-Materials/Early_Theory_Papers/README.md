@@ -1,43 +1,28 @@
-# Theory Papers — Reality Drift
+## Theory Papers — Reality Drift
 
-This directory contains theory papers from the Reality Drift project.
+README v2
 
-These papers operate at a higher level of abstraction than concept papers. They propose general models, unifying hypotheses, and formal frameworks intended to organize and explain multiple phenomena within accelerated symbolic, cognitive, and cultural systems.
+This directory contains early working theory papers from the Reality Drift project.
 
+These documents preserve formative attempts to develop general models, unifying hypotheses, and larger structural frameworks for understanding accelerated symbolic, cognitive, and cultural systems.
 
+They represent an early stage in the framework’s theoretical development and capture the process of concept formation before later refinement into more stable canonical structures.
 
 ---
 
 ## Scope
 
-The theory papers in this directory focus on:
+The papers in this directory explore:
 
-- General models of meaning formation and degradation  
-- Systems-level hypotheses describing reality drift  
-- Cross-domain frameworks spanning cognition, culture, and symbolic systems  
-- Formalization of mechanisms introduced in earlier concept papers  
+- Early models of meaning formation and degradation
+- Structural hypotheses about how reality drift emerges across systems
+- Cross-domain frameworks spanning cognition, culture, and symbolic systems
+- Preliminary formalizations of mechanisms later clarified in canonical concept papers
 
-These works aim to provide integrative structure rather than applied analysis or narrative development.
-
----
-
-## Context
-
-This directory is part of the Reality Drift framework archive:
-
-https://github.com/therealitydrift/reality-drift-library
+Where concepts differ from later Reality Drift definitions, the canonical materials in `01_Canonical_Frameworks` supersede them.
 
 ---
 
-## Citation
+## Archive Status
 
-These papers may be cited individually by title and year, or collectively as:
-
-Reality Drift — Theory Papers.  
-Reality Drift Archive, 2025.
-
----
-
-## Notes
-
-This directory is maintained as a stable theoretical layer within the broader Reality Drift project.
+This folder is preserved as part of the project’s developmental record. It documents the intellectual construction process and preserves theoretical pathways that shaped the current framework, including ideas that were revised, expanded, or abandoned.

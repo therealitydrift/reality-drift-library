@@ -1,89 +1,106 @@
 # The Age of Drift
 
+**Archive README v3**  
+**Formative Essays and Notes (2023–2024)**
+
 **The Age of Drift: Why Modern Life Feels Fake — and What Reality Drift Reveals About the Modern Mind**  
 A. Jacobs  
-ISBN: 979-8276826493  
+ISBN: 979-8276826493
+
+---
+
+## Archive Note
+
+This repository preserves the original book manuscript *The Age of Drift* as a formative collection of essays, notes, and conceptual explorations written between 2023 and 2024. These writings capture the early developmental phase of what later became the Reality Drift framework.
+
+Many of the core ideas introduced here remain active, but several concepts, boundaries, and definitions have since been revised, expanded, or formalized in later canonical documents.
+
+This archive is maintained as a historical record of the framework’s evolution. For current definitions and canonical materials, refer to the Reality Drift Framework Library.
 
 ---
 
 ## Overview
 
-This repository contains the full book *The Age of Drift*, along with individual chapter PDFs and supporting materials.
+*The Age of Drift* explores a recurring modern pattern:
 
-The book explores a simple but increasingly visible pattern:
+> systems can continue functioning while gradually losing alignment with reality.
 
-> modern systems can continue functioning while gradually losing alignment with reality.
+This pattern became the foundational basis for what would later be formalized as Reality Drift.
 
-This pattern is described as Reality Drift.
-
-Across media, institutions, AI systems, and everyday experience, outputs become optimized, coherent, and persuasive — but increasingly detached from the underlying conditions they are meant to reflect.
+Across media, institutions, AI systems, and everyday life, these early essays trace how outputs can become optimized, coherent, and persuasive while drifting away from the conditions they once reflected.
 
 ---
 
 ## Structure
 
-- `/front-matter` — Prelude, Preface, Table of Contents  
-- `/chapters` — Individual chapters as standalone PDFs  
-- `/full-book` — Complete compiled book  
-- `/epilogue` — Closing section  
-- `/appendices` — Supporting documents and extensions  
+- `/front-matter` — Prelude, Preface, Table of Contents
 
-Each chapter is structured to function both as part of the full narrative and as an independent entry point into the broader framework.
+- `/chapters` — Individual chapter PDFs
 
----
+- `/full-book` — Complete compiled manuscript
 
-## Core Themes
+- `/epilogue` — Closing section
 
-- Reality Drift  
-- Synthetic Realness  
-- Filter Fatigue  
-- The Optimization Trap  
-- Cognitive Drift  
-- Semantic Fidelity  
-- Recursive Compression  
-- Co-Cognition and the Mirror Effect  
-- Institutional Drift  
-- AI Alignment and the Fidelity Crisis  
+- `/appendices` — Supporting notes and extensions
+
+Each chapter functions as both a narrative piece and an early conceptual artifact.
 
 ---
 
-## Relationship to the Reality Drift Framework
+## Developmental Themes
 
-This book is a narrative synthesis of the broader Reality Drift framework.
+This archive contains early formulations of:
 
-Where the framework defines the mechanisms,  
-*The Age of Drift* shows how those mechanisms manifest across modern life.
+- Reality Drift
+
+- Synthetic Realness
+
+- Filter Fatigue
+
+- The Optimization Trap
+
+- Cognitive Drift
+
+- Semantic Fidelity
+
+- Recursive Compression
+
+- Institutional Drift
+
+- AI Alignment and Fidelity Failure
+
+Some themes appear here in pre-canonical form.
+
+---
+
+## Relationship to the Framework
+
+This book predates the formal Reality Drift archive.
+
+It should be understood as developmental groundwork rather than final framework documentation.
+
+Where the canonical archive defines the structure, this book preserves the emergence of that structure.
 
 ---
 
 ## Use
 
-This repository is designed for:
+This repository is maintained for:
 
-- reading the full book  
-- referencing individual chapters  
-- citation and distribution  
-- indexing and retrieval across systems  
+- historical reference
 
-Each file is intentionally structured to function as a standalone unit while reinforcing the larger system.
+- conceptual provenance
+
+- archival continuity
+
+- chapter-level retrieval and citation
+
+- documenting framework evolution
 
 ---
 
 ## Author
 
-A. Jacobs  
+A. Jacobs
 
-An ongoing project exploring cognitive ecology, media environments, and the structural forces shaping modern unreality.
-
----
-
-## Availability
-
-Full book: see `/full-book`  
-
-Additional writing and ongoing work:  
-https://substack.com/@therealitydrift
-
----
-
-The Age of Drift — a book exploring why modern life feels increasingly unreal, and the underlying systems that drive Reality Drift.
+An ongoing body of work examining cognition, symbolic systems, institutional behavior, and modern representational drift.

@@ -1,8 +1,10 @@
 # YouTube Transcripts
 
+README v2 - December 2025
+
 A collection of transcript-based explainers exploring the core concepts of the Reality Drift framework, Cognitive Drift Institute, and Semantic Fidelity Lab.
 
-These transcripts were generated from long-form discussions and adapted into reference documents. Together they examine how optimization, abstraction, AI systems, institutional structures, and modern information environments shape human cognition, meaning, and reality perception.
+Together they examine how optimization, abstraction, AI systems, institutional structures, and modern information environments shape human cognition, meaning, and reality perception.
 
 ## Contents
 
@@ -27,11 +29,3 @@ These transcripts were generated from long-form discussions and adapted into ref
 
 - [How AI Creates Cognitive Debt](./How_AI_Creates_Cognitive_Debt.md)  
   Explores cognitive outsourcing, semantic scaffolding, exocortex systems, and the hidden costs of AI-assisted thinking.
-
-## Related Resources
-
-- [Reality Drift Framework](https://offbrandguy.com/reality-drift/)
-- [The Age of Drift (Chapter PDF)](https://offbrandguy.com/the-age-of-drift-chapter-pdf/)
-- [Reality Drift Briefing Series: Organizational Drift and Institutional Misalignment](https://offbrandguy.com/organizational-drift/)
-
----

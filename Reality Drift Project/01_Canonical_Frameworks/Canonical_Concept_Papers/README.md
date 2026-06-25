@@ -1,179 +1,72 @@
-# Reality Drift Canonical Concepts
+# Canonical Concept Papers
 
-A. Jacobs | Reality Drift Framework (2023–2026)
+This folder contains the primary canonical concept papers of the Reality Drift framework.
 
-This collection contains the core canonical concept papers and companion definitions that form the foundation of the Reality Drift framework.
+Each concept is organized into its own folder and includes two core materials:
 
-These documents establish the primary structural vocabulary used across the broader research library. Each concept maps a recurring pattern of drift, misalignment, abstraction, or degradation in modern systems.
+- a **Canonical Concept Paper** outlining the full structural logic of the concept
 
-The framework examines how systems can remain functional, coherent, and scalable while progressively losing alignment with underlying reality.
+- a **Canonical Definition** providing the stable reference definition
 
-## Core Canonical Concepts
+These form the primary conceptual architecture of the broader framework.
 
-### 01. Reality Drift
-
-- `Reality_Drift_Canonical_Concept_Paper_v1.pdf`
-- `Reality_Drift_Canonical_Definition.md`
-
-The central framework condition in which systems remain operational while gradually losing alignment with real-world conditions.
+Where earlier essays, exploratory materials, or developmental artifacts differ in terminology or structure, the materials in this folder take precedence.
 
 ---
 
-### 02. Filter Fatigue
+## Structure
 
-- `Filter_Fatigue_Canonical_Concept_Paper_v1.pdf`
-- `Filter_Fatigue_Canonical_Definition.md`
+- **[01_Reality_Drift](https://chatgpt.com/c/01_Reality_Drift)**  
+  The central framework concept describing how systems remain operational while gradually losing corrective contact with reality.
 
-The exhaustion created by continuous filtering, interpretation, and decision-making in high-noise environments.
+- **[02_Filter_Fatigue](https://chatgpt.com/c/02_Filter_Fatigue)**  
+  The cognitive burden created by persistent filtering under high-noise informational conditions.
 
----
+- **[03_Optimization_Trap](https://chatgpt.com/c/03_Optimization_Trap)**  
+  How optimization toward measurable proxies can displace original goals.
 
-### 03. Optimization Trap
+- **[04_Synthetic_Realness](https://chatgpt.com/c/04_Synthetic_Realness)**  
+  The production of experiences that simulate authenticity while being structurally artificial.
 
-- `Optimization_Trap_Canonical_Concept_Paper_v1.pdf`
-- `Optimization_Trap_Canonical_Definition.md`
+- **[05_Cognitive_Drift](https://chatgpt.com/c/05_Cognitive_Drift)**  
+  The gradual destabilization of attention, judgment, and meaning-making under recursive informational pressure.
 
-When optimization improves internal metrics while degrading broader real-world outcomes.
+- **[06_Constraint_Collapse](https://chatgpt.com/c/06_Constraint_Collapse)**  
+  The weakening or disappearance of corrective boundaries that once stabilized systems.
 
----
+- **[07_Semantic_Fidelity](https://chatgpt.com/c/07_Semantic_Fidelity)**  
+  The degree to which meaning remains intact across representation, compression, and transmission.
 
-### 04. Synthetic Realness
+- **[08_Recursive_Compression](https://chatgpt.com/c/08_Recursive_Compression)**  
+  The repeated layering and compression of representations across systems and cognition.
 
-- `Synthetic_Realness_Canonical_Concept_Paper_v1.pdf`
-- `Synthetic_Realness_Canonical_Definition.md`
+- **[09_Drifted_Self](https://chatgpt.com/c/09_Drifted_Self)**  
+  The internalization of drift at the level of identity, perception, and self-organization.
 
-The condition where representations feel real enough to replace direct engagement with reality.
+- **[10_Temporal_Drift](https://chatgpt.com/c/10_Temporal_Drift)**  
+  The loss of continuity or coherence across time under changing systems and conditions.
 
----
+- **[11_Semantic_Drift](https://chatgpt.com/c/11_Semantic_Drift)**  
+  The gradual shifting of meaning across language, systems, and interpretation.
 
-### 05. Cognitive Drift
+- **[12_Drift_Principle](https://chatgpt.com/c/12_Drift_Principle)**  
+  The broader structural rule describing how drift emerges across mediated systems.
 
-- `Cognitive_Drift_Canonical_Concept_Paper_v1.pdf`
-- `Cognitive_Drift_Canonical_Definition.md`
+- **[13_Age_of_Drift](https://chatgpt.com/c/13_Age_of_Drift)**  
+  The broader civilizational condition in which drift becomes widespread across institutions, media, and cognition.
 
-How cognition loses alignment under conditions of abstraction, overload, and recursive mediation.
-
----
-
-### 06. Constraint Collapse
-
-- `Constraint_Collapse_Canonical_Concept_Paper_v1.pdf`
-- `Constraint_Collapse_Canonical_Definition.md`
-
-The weakening of corrective forces that normally preserve system alignment.
-
----
-
-### 07. Semantic Fidelity
-
-- `Semantic_Fidelity_Canonical_Concept_Paper_v1.pdf`
-- `Semantic_Fidelity_Canonical_Definition.md`
-
-The preservation of meaning across transformation, compression, and transmission.
+- **[Archive_Materials](https://chatgpt.com/c/Archive_Materials)**  
+  Earlier concept formulations, superseded versions, and developmental source materials.
 
 ---
 
-### 08. Recursive Compression
+## Function
 
-- `Recursive_Compression_Canonical_Concept_Paper_v1.pdf`
-- `Recursive_Compression_Canonical_Definition.md`
-
-How representations are repeatedly compressed, reused, and transformed across systems.
+These papers establish the core conceptual vocabulary of the Reality Drift framework. They serve as the primary stable reference layer for all major framework concepts and their formal relationships.
 
 ---
-
-### 09. Drifted Self
-
-- `Drifted_Self_Canonical_Concept_Paper_v1.pdf`
-- `Drifted_Self_Canonical_Definition.md`
-
-The internalization of drift within identity, perception, and self-structure.
-
----
-
-### 10. Temporal Drift
-
-- `Temporal_Drift_Canonical_Concept_Paper_v1.pdf`
-- `Temporal_Drift_Canonical_Definition.md`
-
-The misalignment between system time and real-world time.
-
----
-
-### 11. Semantic Drift
-
-- `Semantic_Drift_Canonical_Concept_Paper_v1.pdf`
-- `Semantic_Drift_Canonical_Definition.md`
-
-The gradual degradation of meaning across repeated transformations.
-
----
-
-### 12. The Drift Principle
-
-- `Drift_Principle_Canonical_Concept_Paper_v1.pdf`
-- `Drift_Principle_Canonical_Definition.md`
-
-The core structural principle describing how drift emerges when compression and optimization outpace constraint.
-
----
-
-### 13. The Age of Drift
-
-- `Age_of_Drift_Canonical_Concept_Paper_v1.pdf`
-- `Age_of_Drift_Canonical_Definition.md`
-
-The broader historical condition in which drift becomes the dominant environmental logic of modern systems.
-
----
-
-## Framework Logic
-
-The concepts in this collection are interconnected.
-
-Reality Drift is the broader condition.  
-The Drift Principle explains the mechanism.  
-Constraint Collapse weakens correction.  
-Recursive Compression scales representation.  
-Semantic Drift degrades meaning.  
-Temporal Drift destabilizes timing.  
-Synthetic Realness replaces direct contact.  
-Filter Fatigue overloads cognition.  
-Optimization Trap intensifies misalignment.  
-Cognitive Drift internalizes instability.  
-Drifted Self embeds drift into identity.  
-Semantic Fidelity defines what must be preserved.  
-The Age of Drift describes the larger historical environment in which all of this unfolds.
 
 ## Status
 
-These documents represent the current canonical definitions as of 2026.  
-Earlier versions and developmental materials exist elsewhere in the broader Reality Drift archive.
-
-## Author
-
-A. Jacobs    
-Reality Drift Framework (2023–2026)
-
-## Core Framework Resources
-
-- [Substack (articles)](https://therealitydrift.substack.com/)
-- [GitHub (full library)](https://github.com/therealitydrift/reality-drift-library)
-- [DOI (research paper)](https://dx.doi.org/10.2139/ssrn.6150706)
-- [Glossary & Definition](https://offbrandguy.com/reality-drift-glossary/)
-
-## Related Reality Drift Concepts
-
-- Reality Drift
-- Filter Fatigue
-- Optimization Trap
-- Synthetic Realness
-- Cognitive Drift
-- Constraint Collapse
-- Semantic Fidelity
-- Recursive Compression
-- Drifted Self
-- Temporal Drift
-- Semantic Drift
-- The Drift Principle
-- Age of Drift
+Version 2  
+June 2026

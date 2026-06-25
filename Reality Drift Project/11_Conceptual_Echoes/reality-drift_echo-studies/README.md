@@ -1,93 +1,49 @@
-# Reality Drift — Conceptual Study Materials
+# Reality Drift Echo Studies
 
-This repository collects a set of study guides, conceptual notes, and representational documents exploring Reality Drift — a framework for understanding how meaning erodes under conditions of acceleration, optimization, and mediation.
+**README Version: v2**
 
-The materials here function as reference artifacts rather than formal publications. They are used across informal research, teaching contexts, and independent analysis as tools for naming and examining patterns that feel increasingly common in modern systems.
+This directory contains exploratory educational and conceptual modeling materials from an early developmental phase of the Reality Drift framework. These documents were created to test how Reality Drift concepts could be translated into structured teaching formats, study systems, and interpretive learning models.
 
-## What’s in this repository
+They should be understood as experimental conceptual exercises rather than finalized educational frameworks or formal instructional programs.
 
-The documents include:
+---
 
-- Study guides and glossaries outlining the core Reality Drift framework
+## Scope
 
-- Aphorisms and compressed conceptual notes
+The materials in this directory explore:
 
-- Seminar readers and systems analysis materials
+- Introductory conceptual orientation  
+- Study guides for early framework understanding  
+- Teaching structures for presenting Reality Drift concepts  
+- Experimental educational scaffolding for broader conceptual access  
 
-- Example-based frameworks and flashcard-style prompts
+Their purpose was to examine how the framework could be learned, taught, and transferred.
 
-- Course-style syllabi and applied UX/system design lenses
+---
 
-- Supplemental study notes and thematic indexes
+## Archive Status
 
-Together, these form a loosely coherent conceptual toolkit for exploring:
+This directory is preserved as part of the early working archive. It reflects an exploratory phase where educational formats were used as a way to stress-test conceptual clarity, internal consistency, and portability across learning environments.
 
-- Synthetic Realness
+Some materials may contain outdated terminology, provisional framing, or early structural assumptions later revised in canonical documents. Where differences exist, later canonical definitions should take precedence.
 
-- Filter Fatigue
+---
 
-- Semantic Drift
+## Folder Index
 
-- Optimization Traps
+- [00_Orientation](./00_Orientation/)  
+  Introductory framing materials and foundational orientation documents.
 
-- Constraint Loss
+- [01_Study_Guides](./01_Study_Guides/)  
+  Structured study materials for early Reality Drift concepts.
 
-- Cognitive and Institutional Drift
+- [02_Course_and_Teaching](./02_Course_and_Teaching/)  
+  Experimental teaching models and educational applications of the framework.
 
-## How to read these materials
+---
 
-These documents are representational, not empirical. They operate more like:
+## Interpretation Note
 
-- Conceptual maps
+These materials document how the framework was tested through pedagogical structure before later refinement.
 
-- Diagnostic lenses
-
-- Cultural and cognitive field notes
-
-- Teaching artifacts
-
-- Exploratory frameworks
-
-They are meant to help surface patterns that are difficult to quantify but easy to recognize once named.
-
-The style is intentionally hybrid — somewhere between:
-
-- Academic notes
-
-- UX and systems design theory
-
-- Cultural analysis
-
-- Philosophical field guides
-
-## Intended use
-
-People typically use these materials to:
-
-- Generate discussion prompts or seminar topics
-
-- Reflect on modern cognitive and cultural conditions
-
-- Develop vocabulary for system-level failure patterns
-
-- Prototype new conceptual frameworks
-
-- Teach or explore meaning, mediation, and technology
-
-They are not meant to assert fixed truth claims so much as provide language for experience.
-
-## About “Reality Drift”
-
-Reality Drift is a working term describing a condition where:
-
-> Systems remain functional and coherent on the surface,  
-> while gradually losing their ability to preserve meaning, context, and human-scale orientation.
-
-In this sense, Reality Drift is treated less as a theory and more as a naming device — a way to stabilize attention around recurring structural patterns.
-
-## Status
-
-This repository is part of an ongoing body of exploratory work.  
-Concepts may evolve, merge, or dissolve over time.
-
-Think of it as a living conceptual archive, not a finished model.
+They are best read as developmental scaffolding rather than finalized doctrine.

@@ -1,10 +1,8 @@
 # Institutional Artifacts
 
-A collection of pseudo-institutional visual documents from the Reality Drift framework.
+README v2 - May 2025
 
-These artifacts simulate internal compliance forms, audit sheets, organizational self-checks, and procedural posters. Their purpose is to expose how modern institutions often formalize drift, normalize abstraction, and maintain operational coherence even as alignment with real-world outcomes weakens.
-
-These documents mimic the language and structure of bureaucratic systems themselves.
+A collection of pseudo-institutional visual documents from the Reality Drift framework. These artifacts simulate internal compliance forms, audit sheets, organizational self-checks, and procedural posters. Their purpose is to expose how modern institutions often formalize drift, normalize abstraction, and maintain operational coherence even as alignment with real-world outcomes weakens.
 
 ---
 
@@ -76,11 +74,8 @@ Internal-style awareness poster for recognizing common signs of institutional dr
 
 ## Notes
 
-These are representational artifacts.
-
-They are not official organizational documents, nor empirical instruments. They function as conceptual simulations designed to make structural drift easier to recognize across institutions, systems, and everyday life.
+These are representational artifacts. They are not official organizational documents, nor empirical instruments. They function as conceptual simulations designed to make structural drift easier to recognize across institutions, systems, and everyday life.
 
 Part of the broader Reality Drift framework.
 
 A. Jacobs  
-2026

@@ -1,8 +1,8 @@
 # Reality Drift: Core Drift Types
 
-This collection outlines the primary structural pathways through which systems lose alignment with reality while continuing to operate.
+README v2 - June 2026
 
-Each document defines a specific drift pattern observed across organizations, institutions, and AI systems. These are atomic components of the broader Reality Drift framework.
+This collection outlines the primary structural pathways through which systems lose alignment with reality while continuing to operate. Each document defines a specific drift pattern observed across organizations, institutions, and AI systems. 
 
 ---
 
@@ -51,11 +51,9 @@ Reality Drift describes this broader pattern: systems continue to function, but 
 
 ---
 
-## Core framework and sources
+## Additional Resources
 
 - [Substack (articles)](https://therealitydrift.substack.com/)
 - [GitHub (full library)](https://github.com/therealitydrift/reality-drift-library)
 - [DOI (research paper)](https://dx.doi.org/10.2139/ssrn.6150706)
 - [Glossary & Definition](https://offbrandguy.com/reality-drift-glossary/)
-
-

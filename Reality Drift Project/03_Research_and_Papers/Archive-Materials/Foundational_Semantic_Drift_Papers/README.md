@@ -1,8 +1,12 @@
-# Empirical and Methods Papers — Reality Drift
+# Applied and Methods Papers — Reality Drift
 
-This directory contains empirical and methodological papers from the Reality Drift project.
+README v2
 
-These papers focus on measurement, evaluation, and operationalization of concepts introduced in the broader Reality Drift framework, particularly as they apply to language models and high-entropy information systems.
+This directory contains early working applied and methodological papers from the Reality Drift project.
+
+These documents explore how Reality Drift concepts can be operationalized, evaluated, and used as diagnostic tools, particularly in language systems, symbolic architectures, and high-entropy information environments.
+
+They preserve an early phase of methodological development, where core concepts were being tested, translated into practical frameworks, and extended into adjacent technical domains.
 
 ---
 
@@ -10,41 +14,24 @@ These papers focus on measurement, evaluation, and operationalization of concept
 
 The papers in this directory address:
 
-- Empirical analysis of semantic drift and meaning degradation  
-- Measurement approaches for semantic fidelity in language systems  
-- Evaluation frameworks for large language models  
-- Practical methods for diagnosing representational failure modes  
-- Benchmarks and applied metrics derived from Reality Drift concepts  
+- Early analyses of semantic drift and representational degradation
 
-The emphasis is on testable structure, reproducible reasoning, and methodological clarity.
+- Working models for semantic fidelity in language systems
 
----
+- Evaluation structures for large language models and retrieval systems
 
-## Structure
+- Diagnostic methods for identifying representational failure modes
 
-- Files are numbered sequentially for reference and citation.
-- Each PDF represents a complete empirical or methods paper.
-- 
+- Applied frameworks derived from Reality Drift concepts
 
 ---
 
-## Context
+## Archive Status
 
-This directory is part of the Reality Drift framework archive:
+These papers are preserved as part of the developmental research record. They document early attempts to formalize, test, and apply Reality Drift concepts in technical contexts.
 
-https://github.com/therealitydrift/reality-drift-library
-
----
-
-## Citation
-
-These papers may be cited individually by title and year, or collectively as:
-
-Reality Drift — Empirical and Methods Papers.  
-Reality Drift Archive, 2025.
+Where concepts differ from later canonical materials, the documents in `01_Canonical_Frameworks` supersede these formulations.
 
 ---
 
-## Notes
 
-This directory serves as the empirical and methodological layer of the Reality Drift project, complementing the conceptual and theoretical papers elsewhere in the archive.

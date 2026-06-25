@@ -1,61 +1,29 @@
-# Core Ontology
+# Ontology Model
 
-This folder contains the machine-readable ontology for the Reality Drift framework.
+This folder contains the machine-readable ontology model of the Reality Drift framework.
 
----
+The ontology model formalizes the conceptual architecture of the framework into a structured semantic format, allowing concepts, relationships, and operators to be represented as a computable system.
 
-## Contents
-
-- **reality-drift-core.owl.ttl**
-  - RDF/OWL representation of core entities and relationships
+This layer translates the broader conceptual ontology into a formal model for structured reasoning, mapping, and potential external integration.
 
 ---
 
-## Scope
+## Structure
 
-Defines foundational elements including:
-
-- system
-- signal
-- proxy
-- representation
-- constraint
-- optimization process
-- drift state
-
-Also encodes relationships such as:
-
-- produces
-- transforms
-- degrades
-- depends on
+- **[Reality Drift Core OWL Model](./reality-drift-core.owl.ttl)**  
+  The primary machine-readable ontology file containing the formalized conceptual structure of the Reality Drift framework in Turtle/OWL format.
 
 ---
 
-## Purpose
+## Function
 
-This ontology enables:
+This model serves as the formal semantic layer of the Reality Drift ontology.
 
-- graph-based reasoning
-- semantic querying (SPARQL)
-- integration into knowledge graphs
-- structured ingestion by AI systems
+It preserves the framework as a structured relational system that can be queried, extended, and interpreted computationally while maintaining alignment with the broader canonical archive.
 
 ---
 
-## Notes
+## Status
 
-This is the canonical machine layer of the framework.
-
-Other folders provide human-readable expansions of:
-
-- operators
-- taxonomies
-- structural schemas
-
----
-
-## Author
-
-A. Jacobs  
-Reality Drift Framework (2023–2026)
+Version 2  
+June 2026

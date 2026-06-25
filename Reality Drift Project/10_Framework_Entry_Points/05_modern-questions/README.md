@@ -1,14 +1,12 @@
 # Modern Questions
 
+README v2
+
 ## Everyday Questions Explained Through the Reality Drift Framework
 
 ### Overview
 
-This directory contains short explanatory papers focused on common modern experiences, cultural observations, and recurring questions about digital life, institutions, media, cognition, and technology.
-
-Each document begins with a recognizable modern question and connects it to broader structural dynamics described throughout the Reality Drift framework.
-
-These materials are designed to make abstract concepts more accessible by grounding them in familiar experiences and observable patterns.
+This directory contains short explanatory papers focused on common modern experiences, cultural observations, and recurring questions about digital life, institutions, media, cognition, and technology. Each document begins with a recognizable modern question and connects it to broader structural dynamics described throughout the Reality Drift framework.
 
 ---
 
@@ -66,20 +64,6 @@ Questions exploring cultural convergence, symbolic flattening, and broader shift
 
 ## Role Within Reality Drift Explained
 
-Modern question papers function as accessible entry points into the broader Reality Drift framework.
-
-They are intended to connect familiar experiences and public questions to deeper structural patterns operating across modern technological, institutional, and symbolic systems.
+Modern question papers function as accessible entry points into the broader Reality Drift framework. They are intended to connect familiar experiences and public questions to deeper structural patterns operating across modern technological, institutional, and symbolic systems.
 
 ---
-
-## Context
-
-This directory is part of the [Reality Drift Explained GitHub repository](https://github.com/therealitydrift/reality-drift-explained).
-
----
-
-## Notes
-
-Modern question papers are maintained as short-form explanatory reference documents.
-
-README version: v1.0

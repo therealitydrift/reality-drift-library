@@ -1,26 +1,14 @@
 # Essay Maps
 
+README v1
+
 A collection of reading guides, essay maps, thematic indexes, and navigation documents for the Reality Drift framework.
 
-These materials are designed to help readers navigate the broader essay ecosystem by organizing concepts, themes, reading paths, and relationships between individual works.
+This guide is designed to help readers navigate the broader essay ecosystem by organizing concepts, themes, reading paths, and relationships between individual works.
 
-These documents provide structure and orientation across the published essays. They connect related topics, identify major themes, and highlight recommended entry points for different areas of the framework.
+The guide connects related topics, identifies major themes, and highlights recommended entry points for different areas of the framework.
 
-Contents may include:
-
-- Canonical essay maps
-
-- Reading guides
-
-- Thematic collections
-
-- Framework overviews
-
-- Essay indexes
-
-- Suggested reading paths
-
-These documents function as navigational tools for exploring the Reality Drift framework and its related concepts.
+This document function as a navigational tool for exploring the Reality Drift framework and its related concepts.
 
 Author: A. Jacobs
 

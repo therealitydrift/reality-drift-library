@@ -1,6 +1,8 @@
 # Reality Drift — Video Scripts
 
-*A. Jacobs — Reality Drift Framework*
+README v2 - October 2025
+
+A. Jacobs — Reality Drift Framework
 
 ## What is Reality Drift?
 
@@ -27,8 +29,6 @@ Together, these form a modular breakdown of the core system:
 - The Optimization Trap (the driver)
 - Synthetic Realness (the output)
 - Filter Fatigue (the cognitive effect)
-
-Each piece can be understood individually, but they are designed to connect into a single loop: the Reality Drift cycle.
 
 ---
 

@@ -1,8 +1,8 @@
 # Mechanism Notes — Reality Drift Framework
 
-This section documents specific mechanisms through which systems drift away from the realities they are meant to represent.
+README v2 - June 2026
 
-Each paper isolates a recurring pattern observed across AI systems, organizations, and decision environments.
+This section documents specific mechanisms through which systems drift away from the realities they are meant to represent. Each paper isolates a recurring pattern observed across AI systems, organizations, and decision environments.
 
 ## Included Papers
 
@@ -51,5 +51,3 @@ These notes can be used to:
 - identify failure modes in AI and decision systems  
 - analyze where metrics no longer reflect reality  
 - design systems that maintain alignment under optimization pressure  
-
-Each document includes both a Markdown version and a PDF version for distribution and indexing.

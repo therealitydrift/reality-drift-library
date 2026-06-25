@@ -1,53 +1,55 @@
-## Research and Papers — Reality Drift
+# Research and Papers
 
-This directory contains the research corpus of the Reality Drift project.
+**README Version: v2**
 
-It organizes written work by level of abstraction, maturity, and intended use.
+This folder contains the formal research layer of the Reality Drift project.
 
----
+This section contains structured papers, technical notes, taxonomies, and analytical models that support the framework’s deeper theoretical architecture.
 
-## Directory Structure
+These materials extend the canonical framework into adjacent research domains, comparative traditions, and specific operational mechanisms.
 
-- [01_Concept_Papers](./01_Concept_Papers/)  
-  Concept papers that introduce, test, or clarify core ideas within the Reality Drift framework.
+Some documents are formalized preprints. Others preserve technical working notes or specialized model expansions.
 
-- [04_Published_or_Released](./04_Published_or_Released/)  
-  Finalized papers that have been publicly released or formally published.
-
-- [06_Intellectual_Lineage](./06_Intellectual_Lineage/)  
-  Short papers connecting Reality Drift to earlier thinkers in systems theory, media ecology, and cognitive science.
-
-- [07_Mechanism_Notes](./07_Mechanism_Notes/)  
-  Framework notes on recurring drift mechanisms across AI systems, institutions, media, and culture.
-
-- [08_Reality_Drift_Types](./08_Reality_Drift_Types/)  
-  Documents describing distinct forms and subtypes of Reality Drift.
-
-- [09_Comparative_Framework_Briefings](./09_Comparative_Framework_Briefings/)  
-  Briefings comparing Reality Drift concepts with adjacent frameworks and established ideas.
-
-- [Supporting-Materials](./Supporting-Materials/)  
-  Supplemental theory papers, evaluation methods, datasets, and framework development materials.
+Where conflicts exist, `01_Canonical_Frameworks` remains the highest interpretive authority.
 
 ---
 
-## Context
+## Folder Index
 
-This directory is part of the Reality Drift framework archive:
+- [01_Published_PrePrint_Papers](./01_Published_PrePrint_Papers/)  
+  Formal research papers and structured preprint publications.
 
-https://github.com/therealitydrift/reality-drift-library
+- [02_Intellectual_Lineage](./02_Intellectual_Lineage/)  
+  Papers tracing conceptual ancestry, adjacent thinkers, and historical influences.
+
+- [03_Mechanism_Notes](./03_Mechanism_Notes/)  
+  Technical notes on how drift operates across systems, cognition, and institutions.
+
+- [04_Drift_Taxonomy](./04_Drift_Taxonomy/)  
+  Classification structures for different drift types, patterns, and categories.
+
+- [05_Reality_Drift_Failure_Modes](./05_Reality_Drift_Failure_Modes/)  
+  Specific failure-mode analyses, especially in AI, semantic systems, and representational breakdown.
+
+- [Archive-Materials](./Archive-Materials/)  
+  Earlier drafts, experimental papers, and developmental research artifacts.
 
 ---
 
-## Citation
+## Hierarchy Note
 
-Individual papers should be cited by title, author, and year.
+This folder expands the Reality Drift framework into research form.
 
-The research corpus as a whole may be referenced as:
+For canonical definitions, ontology structures, and formal conceptual boundaries, see:
 
-Reality Drift — Research and Papers.  
-Reality Drift Archive.
+`../01_Canonical_Frameworks/`
+
+For narrative essays and public-facing articulation, see:
+
+`../02_Essays/`
 
 ---
 
-Version: 2026.05
+## Metadata
+
+Updated: June 2026

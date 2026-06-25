@@ -1,8 +1,8 @@
 # System Language Cards
 
-A collection of recurring institutional phrases that appear across customer support, compliance systems, bureaucracy, and digital platforms.
+README v2 - March 2025
 
-These cards map how ordinary system language functions as a structural layer of Reality Drift.
+A collection of recurring institutional phrases that appear across customer support, compliance systems, bureaucracy, and digital platforms. These cards map how ordinary system language functions as a structural layer of Reality Drift.
 
 These phrases shape expectations, distribute responsibility, soften friction, and normalize procedural opacity.
 
@@ -104,4 +104,3 @@ They soften contradiction without resolving it.
 
 **Reality Drift Archive**  
 A. Jacobs  
-

@@ -37,11 +37,3 @@ And sets up the central idea that:
 > systems can continue functioning while gradually losing alignment with reality.
 
 ---
-
-## Related
-
-- Chapters: see `/chapters`  
-- Full book: see `/full-book`  
-- Epilogue: see `/epilogue`  
-
----

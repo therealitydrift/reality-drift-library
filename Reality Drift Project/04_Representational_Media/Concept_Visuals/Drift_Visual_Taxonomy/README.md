@@ -1,8 +1,8 @@
 # Drift Taxonomy
 
-A structured visual taxonomy of recurring drift patterns across modern systems.
+README v2 - January 2026
 
-These are repeatable structural tendencies that emerge when systems remain operational while gradually losing alignment with reality.
+A structured visual taxonomy of recurring drift patterns across modern systems. These are repeatable structural tendencies that emerge when systems remain operational while gradually losing alignment with reality.
 
 Each drift type captures a distinct mechanism. The collection forms a practical taxonomy for recognizing how systems change without visibly breaking.
 
@@ -82,4 +82,3 @@ Without taxonomy, everything feels like isolated frustration. With taxonomy, str
 
 **Reality Drift Archive**  
 A. Jacobs  
-

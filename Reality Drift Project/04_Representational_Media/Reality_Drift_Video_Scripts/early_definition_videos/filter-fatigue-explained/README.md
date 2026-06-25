@@ -1,8 +1,8 @@
 # Filter Fatigue Explained — Reality Drift
 
-This folder contains the video and transcript for the “Filter Fatigue Explained” concept video.
+README v2 - July 2025
 
-The video introduces filter fatigue as a structural condition produced by continuous relevance filtering, optimization pressure, and high-noise information environments.
+This folder contains the video and transcript for the “Filter Fatigue Explained” concept video. The video introduces filter fatigue as a structural condition produced by continuous relevance filtering, optimization pressure, and high-noise information environments.
 
 ---
 
@@ -23,5 +23,3 @@ This directory is part of the Reality Drift framework archive:
 https://github.com/therealitydrift/reality-drift-library
 
 ---
-
-Version: 2026.05

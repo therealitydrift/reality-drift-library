@@ -1,10 +1,8 @@
 # Drift Archetypes (BS01–BS09)
 
-This folder contains a visual archetype series mapping recurring roles inside modern systems of optimization, retention, abstraction, and procedural control.
+README v2
 
-Each archetype represents a structural function rather than an individual person. These are recurring behavioral roles that emerge inside institutions, platforms, service systems, and organizations under conditions of Reality Drift.
-
-Together they form part of the broader Reality Drift visual taxonomy.
+This folder contains a visual archetype series mapping recurring roles inside modern systems of optimization, retention, abstraction, and procedural control. Each archetype represents a structural function rather than an individual person. These are recurring behavioral roles that emerge inside institutions, platforms, service systems, and organizations under conditions of Reality Drift.
 
 ---
 
@@ -68,9 +66,7 @@ Protects perception, manages narrative, and stabilizes image over substance.
 
 ## Notes
 
-These archetypes are part of the Reality Drift framework’s broader representational system.
-
-They function as symbolic diagnostics for recurring structural patterns across institutions, services, digital systems, and culture.
+These archetypes are part of the Reality Drift framework’s broader representational system. They function as symbolic diagnostics for recurring structural patterns across institutions, services, digital systems, and culture.
 
 Framework attribution:  
 **A. Jacobs — Reality Drift Framework**

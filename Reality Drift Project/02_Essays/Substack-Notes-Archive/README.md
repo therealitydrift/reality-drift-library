@@ -1,5 +1,7 @@
 # Substack Notes Archive
 
+README v1
+
 A chronological archive of conceptual notes, fragments, and early formulations from the Reality Drift framework.
 
 These notes preserve the evolution of core concepts across 2026, including Reality Drift, Semantic Fidelity, Constraint Collapse, Synthetic Realness, Filter Fatigue, Institutional Drift, and Co-Cognition.

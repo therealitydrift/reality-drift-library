@@ -1,58 +1,83 @@
-# Reality Drift — Visual & Conceptual Echoes
+# Institutional Echoes
 
-This repository contains **derivative, visual, and explanatory artifacts** related to the *Reality Drift* project.
+**README Version: v2**
 
-The materials collected here include slide decks, short papers, interviews, FAQs, and applied analyses that **translate, restate, or operationalize** core ideas across different domains (education, healthcare, civic life, wellness, AI, and culture).
+This directory contains early exploratory institutional modeling materials from the Reality Drift project.
 
-These artifacts exist to explore how concepts **change as they move across formats, audiences, and explanatory styles**.
+These documents were created during an experimental phase of framework development in which Reality Drift concepts were tested through fictionalized institutions, speculative case structures, composite examples, and hypothetical organizational scenarios.
 
----
+They do not represent real institutions, formal partnerships, policy programs, or empirical institutional analysis.
 
-## Purpose
-
-The purpose of this repository is to:
-
-- Preserve **downstream representations** of Reality Drift concepts
-
-- Study **semantic transmission** across media formats
-
-- Examine how frameworks are interpreted when adapted to applied or domain-specific contexts
-
-- Support visual, pedagogical, and policy-facing communication
-
-This repository should be understood as an **artifact archive**, not a collection of primary theoretical work.
+Their primary purpose was conceptual experimentation. Using institutional simulation as a way to explore how drift mechanisms might emerge across different social, organizational, and symbolic domains.
 
 ---
 
-## Relationship to Primary Work
+## Scope
 
-Primary essays, theory development, and original conceptual framing for *Reality Drift* are published elsewhere (e.g. long-form writing, academic-style papers, and public commentary).
+The materials in this directory explore:
 
-The documents in this repository are **not intended to function as original research or authoritative sources**. They are **representational echoes** — summaries, adaptations, and interpretive materials that reflect how ideas circulate once they leave their initial container.
+- institutional structure and internal drift dynamics  
+- language systems and meaning degradation  
+- educational and learning environments  
+- health and clinical abstraction systems  
+- culture and wellness models  
+- civic and political symbolic systems  
+- cognitive systems and artificial intelligence  
 
----
-
-## On Authorship and Attribution
-
-Some documents in this repository use **synthetic, archival, or composite authorship conventions** to reflect different representational contexts (e.g. interview format, institutional briefing, applied review).
-
-These conventions are used for **organizational and exploratory purposes**, not to assert independent institutional authority or academic provenance.
-
----
-
-## How to Use This Repository
-
-- Reference for **visual or applied explanations** of Reality Drift–related concepts
-
-- Source material for **diagrams, teaching, or discussion**
-
-- Archive of how ideas are **translated across domains and formats**
-
-If you are looking for the original formulation of the framework, this repository is **downstream**, not upstream.
+These materials use speculative and fictionalized framing as developmental tools rather than real-world claims.
 
 ---
 
-## License / Use
+## Archive Status
 
-Materials are provided for reference, discussion, and non-deceptive reuse.  
-Do not cite these artifacts as primary research without appropriate context.
+This directory is preserved as part of the early working archive.
+
+It reflects a formative period where institutional simulation was used to test how Reality Drift concepts might generalize across multiple domains.
+
+Many materials employ:
+
+- fictional institutions  
+- composite scenarios  
+- speculative policy environments  
+- hypothetical teaching systems  
+- synthetic organizational structures  
+
+These were constructed for conceptual testing only.
+
+Some documents may contain:
+
+- provisional terminology  
+- outdated conceptual boundaries  
+- incomplete theoretical structures  
+- speculative applications later revised or abandoned  
+
+These materials are retained for developmental and historical context only. Where differences exist, later canonical framework materials take precedence.
+
+---
+
+## Folder Index
+
+- [01_Institutional_Overviews](./01_Institutional_Overviews/)  
+  Foundational speculative institutional models.
+
+- [02_Language_and_Meaning](./02_Language_and_Meaning/)  
+  Exploratory models of semantic drift and symbolic degradation.
+
+- [03_Education_and_Learning](./03_Education_and_Learning/)  
+  Fictional educational systems and learning environments.
+
+- [04_Health_and_Clinical](./04_Health_and_Clinical/)  
+  Hypothetical clinical and health-system drift models.
+
+- [05_Culture_and_Wellness](./05_Culture_and_Wellness/)  
+  Cultural and wellness-based conceptual simulations.
+
+- [06_Civic_and_Political_Life](./06_Civic_and_Political_Life/)  
+  Speculative civic and governance models.
+
+- [07_Cognitive_Systems_and_AI](./07_Cognitive_Systems_and_AI/)  
+  Early conceptual applications to AI and distributed cognition.
+
+---
+
+# 

@@ -1,12 +1,10 @@
 # Reality Drift Connections
 
-## Connecting Modern Questions to the Reality Drift Framework
+README v2 
 
 ### Overview
 
-This directory contains short papers connecting widely discussed cultural, technological, and institutional topics to the Reality Drift framework.
-
-Each document begins with a familiar modern issue or public conversation and explains how it relates to deeper structural dynamics involving optimization, mediation, semantic instability, and representational drift.
+This directory contains short papers connecting widely discussed cultural, technological, and institutional topics to the Reality Drift framework. Each document begins with a familiar modern issue or public conversation and explains how it relates to deeper structural dynamics involving optimization, mediation, semantic instability, and representational drift.
 
 These materials are intended to bridge recognizable modern experiences with the broader conceptual structure of Reality Drift.
 
@@ -56,20 +54,6 @@ Examines how platforms and institutions degrade over time as optimization pressu
 
 ## Role Within Reality Drift Explained
 
-These connection papers function as interpretive bridges between the Reality Drift framework and existing cultural, technological, and institutional discussions.
-
-They are intended to help readers recognize how seemingly separate modern problems may emerge from shared structural dynamics.
+These connection papers function as interpretive bridges between the Reality Drift framework and existing cultural, technological, and institutional discussions. They are intended to help readers recognize how seemingly separate modern problems may emerge from shared structural dynamics.
 
 ---
-
-## Context
-
-This directory is part of the [Reality Drift Explained GitHub repository](https://github.com/therealitydrift/reality-drift-explained).
-
----
-
-## Notes
-
-Connection papers are maintained as short-form explanatory reference documents.
-
-README version: v1.0

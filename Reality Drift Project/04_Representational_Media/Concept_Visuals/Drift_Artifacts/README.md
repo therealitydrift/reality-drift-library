@@ -1,8 +1,8 @@
 # Artifacts
 
-A collection of ordinary digital objects that reveal how modern systems have drifted into new forms of friction, abstraction, and behavioral conditioning.
+README v2
 
-Small interface objects that shape behavior, extract attention, or transfer labor back onto the user.
+A collection of ordinary digital objects that reveal how modern systems have drifted into new forms of friction, abstraction, and behavioral conditioning. Small interface objects that shape behavior, extract attention, or transfer labor back onto the user.
 
 Most are now so common they appear neutral. That is precisely why they matter.
 
@@ -96,4 +96,3 @@ Artifacts matter because they are where abstraction touches the body. They are t
 
 **Reaity Drift Archive**  
 A. Jacobs  
-

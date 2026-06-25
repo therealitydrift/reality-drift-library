@@ -1,12 +1,8 @@
 # Modern Rituals
 
-A collection of small recurring behaviors that have become normalized in digital life.
+README v2 - June 2026
 
-These are not formal procedures or institutional phrases. They are behavioral adaptations to modern systems.
-
-Most are minor in isolation. Together they form a ritual layer of contemporary life.
-
-
+A collection of small recurring behaviors that have become normalized in digital life. They are behavioral adaptations to modern systems. Most are minor in isolation. Together they form a ritual layer of contemporary life.
 
 ---
 
@@ -87,17 +83,9 @@ Within the Reality Drift framework:
 - **Archetypes** = who enacts drift  
 - **System Language** = how drift legitimizes itself  
 
-Modern rituals capture the behavioral side of drift.
-
-They emerge when people repeatedly adapt to environments shaped by abstraction, friction, and synthetic feedback.
-
-What begins as convenience often stabilizes into habit.  
-What stabilizes into habit often becomes invisible.
-
-That is where drift becomes cultural.
+Modern rituals capture the behavioral side of drift. They emerge when people repeatedly adapt to environments shaped by abstraction, friction, and synthetic feedback. What begins as convenience often stabilizes into habit. What stabilizes into habit often becomes invisible. That is where drift becomes cultural.
 
 ---
 
 **Reality Drift Archive**  
 A. Jacobs  
-

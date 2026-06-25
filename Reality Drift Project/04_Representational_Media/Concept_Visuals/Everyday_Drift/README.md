@@ -1,12 +1,10 @@
 # Everyday Drift
 
-A visual archive of ordinary modern friction.
+README v2 - October 2025
 
-These scenes capture the small, recurring points where systems remain operational but become increasingly disconnected from human time, effort, and attention. They focus on the lived experience of Reality Drift: hidden fees, choice overload, app dependency, administrative burden, endless setup, and procedural friction.
+A visual archive of ordinary modern friction. These scenes capture the small, recurring points where systems remain operational but become increasingly disconnected from human time, effort, and attention. 
 
-
-
-They are snapshots of modern life under optimization.
+They focus on the lived experience of Reality Drift. Hidden fees, choice overload, app dependency, administrative burden, endless setup, and procedural friction.
 
 ---
 
@@ -86,11 +84,8 @@ Products that now require onboarding, permissions, and software dependency.
 
 ## Notes
 
-These are representational scenes.
-
-They are designed to make visible the ordinary structural burdens of contemporary life: the friction, abstraction, and hidden labor embedded inside systems optimized for scale.
+These are representational scenes. They are designed to make visible the ordinary structural burdens of contemporary life. The friction, abstraction, and hidden labor embedded inside systems optimized for scale.
 
 Part of the broader Reality Drift framework.
 
 A. Jacobs  
-2026

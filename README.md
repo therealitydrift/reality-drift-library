@@ -1,299 +1,185 @@
-## Reality Drift Library
+# Reality Drift Library (v3)
 
-The Reality Drift Library is an open, public research archive authored by A. Jacobs (2023–2026).
+The Reality Drift Library is the central public repository for the Reality Drift framework and its current canonical archive.
 
-It consolidates working papers, conceptual frameworks, evaluation datasets, glossaries, and supporting materials developed as part of the Reality Drift framework.
+The framework examines a recurring structural pattern across institutions, AI systems, media environments, organizations, and cognition. Systems built to track, organize, or optimize reality often become increasingly dependent on internal representations of that reality. These representations make scale possible, but over time they can begin to substitute for the realities they were meant to reflect.
 
-The focus is on cultural distortion, semantic fidelity, and cognitive drift in AI-mediated and scaled symbolic systems.
+As modern systems become increasingly mediated, optimized, and abstracted, the ability to recognize drift becomes a practical problem across governance, AI, media, and everyday life.
 
----
+When this happens, systems often remain coherent. They continue functioning, producing outputs, and sometimes even improving by their own internal measures. Yet their relationship to external constraint weakens. Metrics replace feedback, proxies replace outcomes, symbols replace reference, and optimization replaces judgment. What emerges is not immediate collapse, but a gradual loss of alignment.
 
-## Project Overview
+This condition is what the framework calls Reality Drift.
 
-Reality Drift describes a systems-level condition in which sustained optimization and environmental acceleration weaken feedback alignment while systems remain operational.
-
-Over time, cognitive, cultural, and algorithmic systems can drift from the real-world constraints they were designed to reflect, often without a single point of failure.
+> Most systems do not break. They drift.
 
 ---
 
-## Why This Exists
+## What This Repository Contains
 
-Drift dynamics appear across cognitive, cultural, and algorithmic domains, but they are typically studied in isolation, under different vocabularies and disciplinary boundaries.
+This repository serves as the main archive for the Reality Drift framework. It brings together canonical definitions, formal papers, working notes, visual reference guides, applied models, and historical source materials developed across multiple years of work.
 
-The Reality Drift Library exists to consolidate these patterns into a shared analytical framework, enabling cross-domain comparison, formal modeling, and cumulative research.
+Some materials represent stable conceptual formulations. Others preserve earlier developmental stages and exploratory drafts. Together they form both an active framework library and a historical record of the project’s evolution.
+
+The goal of the repository is to present a broader conceptual architecture for understanding how drift emerges across systems, cognition, symbolic environments, and modern digital life.
 
 ---
 
-## Start Here
+## Public Writing
 
-[What Is Reality Drift?](guides/what-is-reality-drift.m![Reality Drift Loop.png](C:\Users\austi\Documents\GitHub\reality-drift-library\visuals\Reality%20Drift%20Loop.png)
+Ongoing essays, shorter conceptual explorations, and public-facing applications of the framework are published through the Reality Drift Substack.
+
+**Reality Drift Substack**  
+[Read on Substack](https://therealitydrift.substack.com/)
+
+---
+
+## Repository Structure
+
+```text
+00_Provenance
+01_Canonical_Frameworks
+02_Essays
+03_Research_and_Papers
+04_Representational_Media
+05_Visual_Reference_Guides
+06_Age_of_Drift
+07_Applied_Frameworks
+08_Origins_2022-2024
+10_Framework_Entry_Points
+11_Conceptual_Echoes
+Start_Here
+```
+
+The repository is organized in layers. Some sections establish provenance and canonical structure, while others preserve essays, applied work, visual materials, and earlier source documents. The archive reflects both the conceptual architecture of the framework and the historical path through which it developed.
+
+---
+
+## Recommended Starting Points
+
+If you are new to the framework, begin here:
+
+→ [What Is Reality Drift?](https://chatgpt.com/c/Start_Here/what-is-reality-drift.md)
+
+For broader framework orientation:
+
+→ [10_Framework_Entry_Points](https://chatgpt.com/c/10_Framework_Entry_Points)
+
+For canonical definitions:
+
+→ [01_Canonical_Frameworks](https://chatgpt.com/c/01_Canonical_Frameworks)
+
+For research papers and mechanism notes:
+
+→ [03_Research_and_Papers](https://chatgpt.com/c/03_Research_and_Papers)
+
+For visual models and conceptual diagrams:
+
+→ [05_Visual_Reference_Guides](https://chatgpt.com/c/05_Visual_Reference_Guides)
+
+For applied examples and domain-specific extensions:
+
+→ [07_Applied_Frameworks](https://chatgpt.com/c/07_Applied_Frameworks)
+
+For historical development and earlier formulations:
+
+→ [06_Age_of_Drift](https://chatgpt.com/c/06_Age_of_Drift)  
+→ [08_Origins_2022-2024](https://chatgpt.com/c/08_Origins_2022-2024)
 
 ---
 
 ## Core Concepts
 
-- [Drift Principle](canonical/drift-principle.md)
-- [Reality Drift](canonical/reality-drift.md)
-- [Constraint Collapse](canonical/constraint-collapse.md)
-- [Semantic Fidelity](canonical/semantic-fidelity.md)
-- [Optimization Trap](canonical/optimization-trap.md)
-- [Filter Fatigue](canonical/filter-fatigue.md)
-- [Synthetic Realness](canonical/synthetic-realness.md)
+The Reality Drift framework is organized around a set of related concepts that describe different aspects of drift across systems, cognition, and symbolic environments.
+
+These include:
+
+- Reality Drift
+
+- Drift Principle
+
+- Optimization Trap
+
+- Synthetic Realness
+
+- Filter Fatigue
+
+- Constraint Collapse
+
+- Semantic Fidelity
+
+- Cognitive Drift
+
+- Recursive Compression
+
+While distinct, these concepts are structurally related. Together they describe how systems scale through abstraction while gradually weakening the corrective relationship between representation and reality.
 
 ---
 
-## How to Use This Library
+## Areas of Application
 
-- **Researchers** may cite canonical definitions, papers, and datasets.
-
-- **Practitioners** may adapt frameworks, diagnostics, and diagrams for applied analysis.
-
-- **Educators** may reuse concepts and visuals with attribution for teaching and discussion.
+The Reality Drift framework is applied across multiple domains because the structural conditions that produce drift are not confined to any single system. In institutions and organizations, it helps describe how procedures, incentives, and internal metrics gradually displace original mission or purpose. In AI systems, it provides a way to analyze how model outputs, retrieval systems, benchmarks, and compressed representations can preserve coherence while weakening grounding or semantic fidelity. In media environments, it examines how platforms optimize engagement, relevance, and authenticity until the environment itself becomes increasingly synthetic. In cognition, it describes how high-noise informational conditions alter attention, judgment, and meaning-making through recursive filtering, overload, and compression. While these domains differ in form, the underlying dynamics often repeat, making drift a broader structural pattern rather than an isolated domain-specific problem.
 
 ---
 
-## Repository Contents
+## Scope
 
-This repository hosts:
+Reality Drift is a descriptive framework. It is not a political theory, anti-technology position, or institutional critique by default, though it may be applied across those domains.
 
-- **Core Papers & Whitepapers**  
-  Archived copies intended for citation and reference
-
-- **Datasets**  
-  Semantic fidelity examples and reality-drift signal collections
-
-- **Working Notes**  
-  Early fragments and drafts shared for open feedback
-
-- **Visuals & Diagrams**  
-  Figures used in Substack, SlideShare, and public research materials
-
-You are welcome to clone or fork for research and citation.  
-If citing, please attribute **A. Jacobs (Reality Drift Project)**.
+Its purpose is structural analysis. Identifying where systems preserve operational coherence while gradually losing corrective contact with reality.
 
 ---
 
-## Canonical Definitions
+#### Archive Structure
 
-The following concepts form the core vocabulary of the Reality Drift framework.  
-Each definition below is a concise orientation summary; the linked repository contains the canonical formulation.
+This repository represents **Version 3** of the Reality Drift Library and contains both canonical and archival material.
 
----
+Canonical materials represent the current framework and its most stable conceptual formulations.
 
-### Drift Principle
-
-**Definition:** Describes how systems lose coherence when acceleration or complexity outpaces the human capacity to integrate meaning—even while performance metrics remain stable. Drift emerges not from collapse, but from sustained mismatch between system dynamics and cognitive limits.  
-**Repository:** https://github.com/therealitydrift/drift-principle-reference
+Archival materials preserve earlier drafts, exploratory formulations, and developmental source material. 
 
 ---
 
-### Recursive Compression Theory
+## External Archive Mirrors
 
-**Definition:** Proposes that intelligence arises from the ability to compress information, while consciousness emerges from recursive self-modeling within that compression process. Meaning, identity, and perception stabilize through feedback loops between representation, memory, and self-reference.  
-**Repository:** https://github.com/therealitydrift/recursive-compression-reference
-
----
-
-### Semantic Fidelity
-
-**Definition:** The degree to which meaning is preserved across compression, translation, repetition, or abstraction. Semantic fidelity degrades when symbols remain technically correct while drifting away from their original referents.  
-**Repository:** https://github.com/therealitydrift/semantic-fidelity-reference
-
----
-
-### Reality Drift
-
-**Definition:** A systems-level condition in which environmental acceleration outpaces the mind’s ability to integrate meaning, producing fragmentation, disorientation, and a sense that life feels unreal—without any single point of failure.  
-**Repository:** https://github.com/therealitydrift/reality-drift-reference
-
----
-
-### Optimization Trap
-
-**Definition:** A failure mode where systems optimized for narrow metrics or proxies erode broader human meaning, trust, and adaptability over time, as incentives replace judgment and local efficiency gains produce long-term degradation.  
-**Repository:** https://github.com/therealitydrift/optimization-trap-reference
-
----
-
-### Synthetic Realness
-
-**Definition:** The experience of environments that feel emotionally or socially real while being structurally simulated, optimized, or incentive-driven. Surface authenticity is preserved while underlying human grounding and continuity are degraded by design.  
-**Repository:** https://github.com/therealitydrift/synthetic-realness-reference
-
----
-
-### Filter Fatigue
-
-**Definition:** Cognitive exhaustion caused by continuous relevance filtering in high-entropy information environments, where attention is repeatedly taxed by choice, evaluation, and signal triage, increasing load while degrading meaning.  
-**Repository:** https://github.com/therealitydrift/filter-fatigue-reference
-
----
-
-## System Drift Mechanisms
-
-These short framework notes examine common ways complex systems drift away from the realities they were designed to represent.
-
-Across domains—AI systems, media platforms, institutions, and organizations—the same structural pattern often appears: systems begin optimizing the representation of success rather than the real-world outcome those signals were meant to reflect.
-
-- [When Metrics Become Targets: Goodhart’s Law and Metric Gaming](Reality%20Drift%20Project/03_Research_and_Papers/07_Mechanism_Notes/when-metrics-become-targets-goodharts-law-and-metric-gaming.md)
-  
-  Explains how performance indicators gradually replace real outcomes as systems optimize measurable targets.
-
-- [How AI Systems Exploit Objectives: Reward Hacking and Specification Gaming](Reality%20Drift%20Project/03_Research_and_Papers/07_Mechanism_Notes/how-ai-systems-exploit-objectives-reward-hacking-and-specification-gaming.md)
-  
-  Describes how optimization systems learn to maximize reward signals rather than solving the intended task.
-
-- [How Algorithms Amplify the Wrong Signals: Signal Distortion in Digital Platforms](Reality%20Drift%20Project/03_Research_and_Papers/07_Mechanism_Notes/how-algorithms-amplify-the-wrong-signals-signal-distortion-in-digital-platforms.md)
-  
-  Examines how engagement-driven recommendation systems amplify behavioral signals that diverge from informational value.
-
-- [Why Institutions Drift From Their Mission: Goal Displacement and Bureaucratic Drift](Reality%20Drift%20Project/03_Research_and_Papers/07_Mechanism_Notes/why-institutions-drift-from-their-mission-goal-displacement-and-bureaucratic-drift.md)
-  
-  Shows how organizations gradually optimize procedures and internal processes instead of their original mission.
-
-- [Why Systems Optimize Metrics Over Real Outcomes: Proxy Optimization](Reality%20Drift%20Project/03_Research_and_Papers/07_Mechanism_Notes/why-systems-optimize-metrics-over-real-outcomes-proxy-optimization.md)
-  
-  Introduces the broader pattern connecting these dynamics across technological, institutional, and cultural systems.
-
----
-
-## Intellectual Lineage
-
-The Reality Drift framework builds on earlier insights from systems theory, media ecology, and cognitive science.  
-
-These short concept papers examine how Reality Drift connects to earlier thinkers whose work anticipated aspects of modern cultural and cognitive drift.  
-
-- [Reality Drift and Marshall McLuhan](Reality%20Drift%20Project/03_Research_and_Papers/06_Intellectual_Lineage/reality-drift-and-marshall-mcluhan.md)  
-
-Explores how media environments reshape perception and how accelerated media ecosystems contribute to drift dynamics.  
-
-- [Reality Drift and Gregory Bateson](Reality%20Drift%20Project/03_Research_and_Papers/06_Intellectual_Lineage/reality-drift-and-gregory-bateson.md)  
-
-Examines cybernetics, feedback systems, and how recursive information loops stabilize or destabilize meaning.  
-
-- [Reality Drift and Terrence Deacon](Reality%20Drift%20Project/03_Research_and_Papers/06_Intellectual_Lineage/reality-drift-and-terrence-deacon.md)  
-
-Connects constraint-based theories of meaning to the breakdown of interpretive structure in high-noise environments.  
-
-These papers situate Reality Drift within a broader intellectual lineage spanning cybernetics, media theory, and cognitive science.  
-
----
-
-## External Links & Archival
-
-The Reality Drift Project is distributed across multiple repositories and archives for long-term accessibility, citation stability, and redundancy.
-
----
-
-## The Age of Drift - Collected Writings
-
-**The Age of Drift: Why Modern Life Feels Fake — and What Reality Drift Reveals About the Modern Mind**
-
-- **Amazon**: [The Age of Drift on Amazon](https://www.amazon.com/Age-Drift-Modern-Reality-Reveals/dp/B0G5JV6GFQ)
-
----
-
-## Core Academic Papers
-
-- **Reality Drift: How Symbolic Systems Lose the Ability to Correct Themselves**  
-  [PhilArchive](https://philarchive.org/rec/JACRDH)
-
-- **Cognitive Compression Styles: A Conceptual Framework for Differential System Failure in High-Noise Environments**  
-  [PhilPapers](https://philpapers.org/rec/JACCCS-3)
-
-- **The Drift Principle: An Information-Theoretic Model of Culture, Cognition, and Meaning in High-Entropy Digital Environments**  
-  [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5958795)
-
----
-
-## Research & Archives
-
-- **GitHub Library**  
-  [Reality Drift Library](https://github.com/therealitydrift/reality-drift-library)
-
-- **Academia.edu**  
-  [A. Jacobs - Independent Researcher](https://independent.academia.edu/AJacobs9)
-
----
-
-## Technical Resources
-
-- **Hugging Face Dataset**  
-  [Datasets at Hugging Face](https://huggingface.co/datasets/realitydriftproject/semantic-fidelity-examples)
-
----
-
-## Publishing & Commentary
-
-- **Substack**: [Reality Drift Substack](https://therealitydrift.substack.com/)
-
-- **Archive.org**: [Reality Drift Archive on Internet Archive](https://archive.org/details/@austin_jacobs938)
-
-- **Flickr (Conceptual Diagrams)**: [Reality Drift – Conceptual Frameworks](https://www.flickr.com/photos/204143705@N04/albums/72177720331639355)
-
----
-
-## Social Channels
-
-- **YouTube**: [Reality Drift Archive – YouTube](https://www.youtube.com/@therealitydrift
+Selected materials are mirrored across public archives for preservation, redundancy, and citation stability, including Internet Archive, OSF, Zenodo, and Figshare.
 
 ---
 
 ## Related Repositories
 
+The broader Reality Drift project includes several related repositories focused on specialized conceptual layers and supporting domains:
+
 - **Semantic Fidelity Lab**  
-  [GitHub - therealitydrift/semantic-fidelity-lab](https://github.com/therealitydrift/semantic-fidelity-lab)
+  [View Repository](https://github.com/therealitydrift/semantic-fidelity-lab)
 
 - **Cognitive Drift Institute**  
-  [GitHub - therealitydrift/cognitive-drift-institute](https://github.com/therealitydrift/cognitive-drift-institute)
+  [View Repository](https://github.com/therealitydrift/cognitive-drift-institute)
+
+These repositories extend the broader framework into narrower areas of analysis while remaining structurally connected to the central Reality Drift archive.
 
 ---
-
-### Reality Drift Explained
-
-A collection of short pages answering common questions about modern life through the Reality Drift framework.
-
-Topics include questions such as:
-
-- Why does everything feel fake online?
-- Why does modern life feel overwhelming?
-- Why do conversations feel scripted now?
-- Why does time feel like it's speeding up?
-
-Each explanation introduces key framework concepts including Synthetic Realness, Filter Fatigue, the Optimization Trap, and Reality Drift.
-
-Repository:  [Reality Drift Explained](https://github.com/therealitydrift/reality-drift-explained)
-
----
-
-## Archived by OffbrandGuy
-
-OffbrandGuy maintains an external archival layer for Reality Drift framework materials:
-
-- [Reality Drift Glossary](https://offbrandguy.com/reality-drift-glossary/)
-
-- [Reality Drift Academic Paper Index](https://offbrandguy.com/reality-drift-academic-paper/)
-
-- [Reality Drift Whitepaper Series](https://offbrandguy.com/the-reality-drift-whitepaper-series/)
-
-- [The Age of Drift (2025 Reader Edition)](https://offbrandguy.com/the-age-of-drift-2025-reader-edition/)
-  
-  ---
 
 ## Citation
 
-If referencing this work, please cite:
+If referencing this repository, cite:
 
-> Jacobs, A. (2025). *The Reality Drift Project*.
+**Jacobs, A. (2026). *Reality Drift Library***
+
+GitHub:  
+[View Repository](https://github.com/therealitydrift/reality-drift-library)
 
 ---
 
 ## License
 
-Distributed under **Creative Commons CC BY-NC-SA 4.0**.
+This repository is distributed under the **Creative Commons CC BY-NC-SA 4.0** license.
 
-You are free to share and adapt this material with attribution, for non-commercial purposes, under the same license terms.
+Materials may be shared and adapted with attribution for non-commercial use under the same terms.
 
 ---
 
-*README version: v2.0 (canonical)*
+## Authorship
+
+Reality Drift Library  
+Authored and maintained by **A. Jacobs**  
+Research Archive (2023–2026)

@@ -1,5 +1,7 @@
 # Operational Drift — Reality Drift
 
+README v2
+
 This directory contains operational briefings examining how systems remain functional while gradually losing corrective grounding, semantic alignment, and feedback integrity.
 
 The documents focus on organizational drift, optimization pressure, recursive compression, semantic degradation, and failure modes emerging in high-complexity environments.

@@ -1,10 +1,10 @@
 # Modern Questions
 
-A collection of recurring questions that emerge in contemporary life as systems grow more optimized, more mediated, and more abstract.
+README v2 - December 2024
 
-These are diagnostic questions. Each points toward a structural pattern beneath the surface.
+A collection of recurring questions that emerge in contemporary life as systems grow more optimized, more mediated, and more abstract. These are diagnostic questions. Each points toward a structural pattern beneath the surface.
 
-The question itself is often the first signal that drift is being felt before it is fully understood.
+
 
 ---
 
@@ -64,4 +64,3 @@ Most people feel drift long before they can name it.
 
 **Reality Drift Archive**  
 A. Jacobs  
-

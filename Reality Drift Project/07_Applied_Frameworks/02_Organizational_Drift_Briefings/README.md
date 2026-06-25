@@ -1,10 +1,10 @@
 # Reality Drift: Organizational Drift Briefings
 
+README v2 - August 2025
+
 This collection contains operational briefing notes focused on organizational drift patterns within institutions, companies, governance systems, and leadership structures.
 
 Each document describes a distinct mechanism through which organizations remain operational, coherent, and formally functional while gradually losing alignment with their original purpose, real-world conditions, or intended outcomes.
-
-These briefing notes are part of the broader Reality Drift framework.
 
 ---
 
@@ -47,7 +47,7 @@ Reality Drift describes this broader condition: systems continue functioning whi
 
 ---
 
-## Core framework and sources
+## Additional Resources
 
 - [Substack (articles)](https://therealitydrift.substack.com/)
 - [GitHub (full library)](https://github.com/therealitydrift/reality-drift-library)

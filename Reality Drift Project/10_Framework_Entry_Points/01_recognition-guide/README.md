@@ -1,12 +1,12 @@
 # Recognition Guides
 
+README v2
+
 ## Recognition Guides for the Reality Drift Framework
 
 ### Overview
 
-This directory contains short recognition guides related to the Reality Drift framework.
-
-These documents help readers identify recurring structural patterns associated with reality drift, optimization pressure, semantic instability, and digitally mediated environments.
+This directory contains short recognition guides related to the Reality Drift framework. These documents help readers identify recurring structural patterns associated with reality drift, optimization pressure, semantic instability, and digitally mediated environments.
 
 Each guide begins with recognizable experiences in everyday life and connects them to broader systemic dynamics described throughout the Reality Drift framework.
 
@@ -48,20 +48,6 @@ A recognition guide describing how systems optimized around narrow metrics and i
 
 ## Role Within Reality Drift Explained
 
-Recognition guides function as accessible entry points into the broader Reality Drift framework.
-
-They are intended to help readers recognize structural dynamics operating beneath familiar experiences in modern technological, institutional, and symbolic environments.
+Recognition guides function as accessible entry points into the broader Reality Drift framework. They are intended to help readers recognize structural dynamics operating beneath familiar experiences in modern technological, institutional, and symbolic environments.
 
 ---
-
-## Context
-
-This directory is part of the [Reality Drift Explained GitHub repository](https://github.com/therealitydrift/reality-drift-explained).
-
----
-
-## Notes
-
-Recognition guides are maintained as short-form explanatory reference documents.
-
-README version: v1.0

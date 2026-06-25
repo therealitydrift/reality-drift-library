@@ -1,8 +1,8 @@
 # Optimization Trap Explained — Reality Drift
 
-This folder contains the video and transcript for the “Optimization Trap Explained” concept video.
+README v2 - July 2025
 
-The video introduces the optimization trap as a structural condition where systems optimize measurable proxies while degrading the broader outcomes those metrics were meant to support.
+This folder contains the video and transcript for the “Optimization Trap Explained” concept video. The video introduces the optimization trap as a structural condition where systems optimize measurable proxies while degrading the broader outcomes those metrics were meant to support.
 
 ---
 
@@ -23,5 +23,3 @@ This directory is part of the Reality Drift framework archive:
 https://github.com/therealitydrift/reality-drift-library
 
 ---
-
-Version: 2026.05

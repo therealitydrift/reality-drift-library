@@ -1,5 +1,7 @@
 # Reality Drift: Comparative Framework Briefings
 
+README v2
+
 This collection contains comparative briefing documents designed to distinguish related concepts that are often conflated in discussions about AI systems, digital environments, optimization, and institutional behavior.
 
 Each document contrasts two adjacent concepts while explaining the deeper structural pattern underneath them through the Reality Drift framework.
@@ -29,7 +31,7 @@ These comparative briefings describe recurring patterns across AI systems, media
 - Information environments becoming cognitively exhausting to navigate  
 - Trust shifting from reality to surface-level coherence and fluency  
 
-Reality Drift describes this broader condition: systems continue functioning while gradually losing alignment with the reality they were originally built to represent, measure, or respond to.
+Reality Drift describes this broader condition. Systems continue functioning while gradually losing alignment with the reality they were originally built to represent, measure, or respond to.
 
 ---
 
@@ -46,7 +48,7 @@ Reality Drift describes this broader condition: systems continue functioning whi
 
 ---
 
-## Core framework and sources
+## Additional Resources
 
 - [Substack (articles)](https://therealitydrift.substack.com/)
 - [GitHub (full library)](https://github.com/therealitydrift/reality-drift-library)

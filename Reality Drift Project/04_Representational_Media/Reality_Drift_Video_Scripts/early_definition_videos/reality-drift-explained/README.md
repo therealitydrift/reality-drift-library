@@ -1,8 +1,8 @@
 # Reality Drift Explained — Reality Drift
 
-This folder contains the video and transcript for the “Reality Drift Explained” concept video.
+README v2 - May 2025
 
-The video introduces Reality Drift as a condition in which systems remain operational and internally coherent while gradually losing alignment with external reality, lived experience, and corrective feedback.
+This folder contains the video and transcript for the “Reality Drift Explained” concept video. The video introduces Reality Drift as a condition in which systems remain operational and internally coherent while gradually losing alignment with external reality, lived experience, and corrective feedback.
 
 ---
 
@@ -23,5 +23,3 @@ This directory is part of the Reality Drift framework archive:
 https://github.com/therealitydrift/reality-drift-library
 
 ---
-
-Version: 2026.05

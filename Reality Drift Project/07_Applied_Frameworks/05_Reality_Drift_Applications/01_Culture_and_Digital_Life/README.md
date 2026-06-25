@@ -1,5 +1,7 @@
 # Culture
 
+README v2
+
 A collection of Reality Drift framework notes examining how culture, media, platforms, and digital environments gradually lose alignment with the realities they were designed to represent.
 
 These notes explore how representations become increasingly optimized, measurable, and scalable while becoming harder to connect to the underlying realities they originally reflected.
@@ -27,10 +29,9 @@ These notes explore how representations become increasingly optimized, measurabl
 - Synthetic realness
 - Semantic fidelity
 
-## Core Framework and Sources
+## Additional Resources
 
 - [Reality Drift Github Repo](https://github.com/therealitydrift/reality-drift-library)
 - [Reality Drift Archive - Substack Articles](https://therealitydrift.substack.com/)
-- [What Is Reality Drift?](https://offbrandguy.com/what-is-reality-drift/)
-- [Visual Frameworks](https://offbrandguy.com/reality-drift/)
-- [Reality Drift Explained](https://offbrandguy.com/reality-drift-explained-questions-about-modern-life/)
+  
+  

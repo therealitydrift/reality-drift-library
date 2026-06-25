@@ -1,5 +1,7 @@
 # Reality Drift Failure Modes
 
+README v2
+
 A collection of briefing papers examining recurring failure modes that emerge as AI systems become increasingly dependent on representations, optimization, and abstraction.
 
 These papers explore the structural mechanisms through which systems can remain coherent, functional, and seemingly successful while gradually losing alignment with meaning, reality, and corrective feedback.
@@ -41,6 +43,4 @@ Describes how systems lose the ability to self-correct when constraints weaken, 
 - Cognitive Drift
 - Reality Drift
 
----
-
-*A. Jacobs | Reality Drift Framework*
+A. Jacobs | Reality Drift Framework

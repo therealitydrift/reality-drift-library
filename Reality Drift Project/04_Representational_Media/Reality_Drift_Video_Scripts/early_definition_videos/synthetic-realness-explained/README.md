@@ -1,8 +1,8 @@
 # Synthetic Realness Explained — Reality Drift
 
-This folder contains the video and transcript for the “Synthetic Realness Explained” concept video.
+README v2 - May 2025
 
-The video examines synthetic realness as a condition where optimized representations, performances, and mediated environments feel emotionally authentic while becoming increasingly detached from grounded human experience.
+This folder contains the video and transcript for the “Synthetic Realness Explained” concept video. The video examines synthetic realness as a condition where optimized representations, performances, and mediated environments feel emotionally authentic while becoming increasingly detached from grounded human experience.
 
 ---
 
@@ -23,5 +23,3 @@ This directory is part of the Reality Drift framework archive:
 https://github.com/therealitydrift/reality-drift-library
 
 ---
-
-Version: 2026.05

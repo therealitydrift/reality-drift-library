@@ -1,5 +1,7 @@
 # Old Thinkers and the Intellectual Foundations of Reality Drift
 
+README v2
+
 This collection explores thinkers whose work helps illuminate different dimensions of Reality Drift. While none of these authors used the term, each identified mechanisms through which representations, institutions, media systems, technologies, and symbolic environments become increasingly detached from the realities they were intended to reflect.
 
 ## Papers
@@ -121,15 +123,4 @@ Across these thinkers, several recurring themes emerge:
 - authenticity and alienation
 - model–reality divergence
 
-Together these works provide intellectual foundations for understanding Reality Drift as a broader pattern that appears across technological, institutional, cultural, and cognitive systems.
-
-## Core Framework and Sources
-
-- [Reality Drift Github Repo](https://github.com/therealitydrift/reality-drift-library)
-- [Reality Drift Archive - Substack Articles](https://therealitydrift.substack.com/)
-- [What Is Reality Drift?](https://offbrandguy.com/what-is-reality-drift/)
-- [Visual Frameworks](https://offbrandguy.com/reality-drift/)
-- [Academic Papers](https://offbrandguy.com/reality-drift-academic-paper/)
-- [Intellectual Lineage and Conceptual Foundations](https://offbrandguy.com/reality-drift-intellectual-lineage/)
-
----
+These works provide intellectual foundations for understanding Reality Drift as a broader pattern that appears across technological, institutional, cultural, and cognitive systems.

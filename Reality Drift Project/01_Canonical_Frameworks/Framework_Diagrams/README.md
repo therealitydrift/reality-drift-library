@@ -1,28 +1,35 @@
-# Diagnostic Visual Framework
+# Framework Diagrams (README v2)
 
-This directory contains visual models for diagnosing drift patterns across systems, media, institutions, and AI environments.
+This folder contains the primary visual architecture of the Reality Drift framework.
 
-These visuals focus on:
+These materials translate the framework’s conceptual structures into visual form, making the relationships between concepts, systems, and mechanisms easier to interpret. They function as the visual layer of the broader canonical archive.
 
-- proxy optimization
-- constraint collapse
-- representational drift
-- semantic degradation
-- feedback-loop misalignment
+The diagrams in this folder range from formal canonical visual models to simplified definition visuals and earlier archived diagram sets.
 
 ---
 
-## Folders
+## Structure
 
-- [Infographic Illustrations](./infographic_illustrations/)
-- [Ontology Visuals](./ontology_visuals/)
-- [Legacy Visuals](./v1_legacy/)
-- [Refined Visuals](./v2_refined/)
-- [Visual Diagnostics Expansion](./visual_diagnostics_expansion/)
+- **[Canonical_Visual_Diagrams](./Canonical_Visual_Diagrams)**  
+  The current primary visual diagrams of the Reality Drift framework, including canonical models, systems maps, and formal visual structures.
+
+- **[Wikipedia-Definition_Visuals](./Wikipedia-Definition_Visuals)**  
+  Simplified definition-based visual references designed for conceptual clarity, accessibility, and quick orientation.
+
+- **[Archive_Materials](./Archive_Materials)**  
+  Earlier framework diagrams, ontology visuals, and infographic illustrations preserved for developmental continuity and provenance.
 
 ---
 
-Part of the Reality Drift framework (2023–2026)  
-A. Jacobs
+## Function
 
-Version: 2026.05
+These materials serve as the visual interpretive layer of the Reality Drift archive.
+
+They provide diagrammatic representations of the framework’s conceptual architecture, helping translate abstract structures into navigable visual models.
+
+---
+
+## Status
+
+README Version 2  
+June 2026

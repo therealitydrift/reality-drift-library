@@ -1,10 +1,12 @@
 # Diagnostics and Workflows
 
+README v2 - May 2025
+
 Part of the Reality Drift framework (2023–2026) by A. Jacobs
 
 This section contains practical tools for identifying and reducing misalignment in decision systems.
 
-These documents operate at the applied layer of the Reality Drift framework. They are designed to move from recognizing drift to structuring how decisions are made under conditions of incomplete or indirect information.
+These documents operate at the applied layer of the Reality Drift framework. 
 
 ---
 

@@ -1,110 +1,105 @@
-# Reality Drift Visual Framework
+# Legacy Framework Diagrams (README v4)
 
-## Conceptual Models of Synthetic Systems and Cognitive Compression
+This folder preserves the earliest visual architecture of the Reality Drift framework.
 
-### Overview
-
-This repository contains a collection of visual conceptual models from the Reality Drift framework. It focuses on the *visual modeling* of how modern cognitive, organizational, and AI-mediated systems transition from reality-tracking behavior into self-referential symbolic regimes.
-
-The diagrams in this repository function as formal models for reasoning about epistemic degradation, semantic collapse, and recursive symbolic systems. They are intended to make structural dynamics legible—not illustrative or metaphorical.
+These diagrams represent the first major visual attempts to map the framework’s concepts, mechanisms, and recursive structures. Many of the ideas here were later refined, expanded, or reorganized in subsequent versions, but these materials remain important as part of the framework’s developmental history.
 
 ---
 
-### Framework Concepts Referenced
+## Diagram Index
 
-The visual models in this repository engage the following core concepts from the Reality Drift framework:
+- **[Age of Drift: Why Modern Life Feels Fake](./age-of-drift-why-modern-life-feels-fake.png)**  
+  Early civilizational framing of drift as a broader modern condition.
 
-- **Reality Drift**  
-  Systems-level decoupling of symbolic processes from external constraints.
+- **[Cognitive Architectures of Drift](./cognitive-architectures-of-drift-mind-types.png)**  
+  Early model of cognitive patterns and recursive mind structures.
 
-- **Cognitive Compression**  
-  Reduction of complex environments into symbolic abstractions that lose grounded reference.
+- **[Cognitive Compression Styles](./cognitive-compression-styles-high-noise.png)**  
+  Visual model of how cognition compresses under informational overload.
 
-- **Semantic Fidelity**  
-  Preservation or degradation of meaning across compression, translation, and abstraction.
+- **[Cognitive Drift Cycle (Algorithmic Curation)](./cognitive-drift-cycle-algorithmic-curation.png)**  
+  Early recursive loop model for attention and cognitive drift.
 
-- **Filter Fatigue**  
-  Cognitive overload produced by continuous algorithmic mediation.
+- **[Constraint Axioms](./constraint-axioms-continuation-legibility-compression.png)**  
+  Foundational constraint logic for stability and drift.
 
-- **Optimization Trap**  
-  Metric optimization replacing real-world outcomes and judgment.
+- **[Drift Map: Entropy Compression Zones](./drift-map-entropy-compression-zones.png)**  
+  Early mapping of system drift through compressed zones.
 
-- **Synthetic Realness**  
-  Symbolic representations treated as reality itself.
+- **[Drift Principle: Compression vs Fidelity](./drift-principle-compression-vs-fidelity.png)**  
+  Early structural articulation of the Drift Principle.
 
-- **Recursive Symbolic Systems**  
-  Feedback environments where outputs recursively shape future inputs, increasing internal coherence while reducing external grounding.
+- **[Drift Principle: Recursive Compression](./drift-principle-recursive-compression.png)**  
+  Funnel model of recursive abstraction.
 
----
+- **[Filter Fatigue: Decision Algorithmic Information](./filter-fatigue-decision-algorithmic-information.png)**  
+  Early model of filtering as cognitive labor.
 
-### What the Models Represent
+- **[Filter Fatigue: Information Overload Cycle](./filter-fatigue-information-overload-cycle.png)**  
+  Recursive cycle showing overload and fatigue accumulation.
 
-Each diagram illustrates a specific structural pattern or failure mode observed in synthetic systems, including:
+- **[Meaning Equation: Context Fidelity Drift Meaning](./meaning-equation-context-fidelity-drift.png)**  
+  Early semantic equation for meaning stability.
 
-- Semantic collapse and reference loss  
-- Metric substitution and performativity drift  
-- Recursive compression loops  
-- Institutional simulation dynamics  
-- Symbolic coherence without material grounding  
-- Epistemic insulation and model collapse  
+- **[Nothing Feels Right Anymore](./Nothing%20Feels%20Right%20Anymore.png)**  
+  Simplified visual of experiential drift.
 
-The models are designed as analytical tools for structural diagnosis, not as explanatory metaphors.
+- **[Optimization Trap: Effort vs Meaning](./optimization-trap-effort-vs-meaning.png)**  
+  Early proxy-optimization model.
 
----
+- **[Performativity Drift: Lived vs Performed](./performativity-drift-lived-vs-performed.png)**  
+  Early authenticity/performance split.
 
-### Intended Use
+- **[Reality Drift: Representational Failure in Scaled Symbolic Systems](./Reality%20Drift%20-%20Representational%20Failure%20in%20Scaled%20Symbolic%20Systems.png)**  
+  Foundational statement of representational drift.
 
-This framework is intended for use in:
+- **[Reality Drift Engine](./reality-drift-engine-filter-fatigue-optimization-trap.png)**  
+  Combined system model linking multiple mechanisms.
 
-- Systems research  
-- AI governance and alignment work  
-- Knowledge infrastructure design  
-- Organizational analysis  
-- Human–machine cognition research  
-- Education and conceptual modeling  
+- **[Recursive Compression Loop](./recursive-compression-loop-culture-ai-mind.png)**  
+  Compression across mind, culture, and AI systems.
 
-Applicable domains include:
+- **[Second Order Constraint Collapse](./second-order-constraint-collapse-optimization.png)**  
+  Structural failure under recursive optimization.
 
-- Large language models  
-- Algorithmic decision systems  
-- Institutional dashboards  
-- Enterprise knowledge platforms  
-- High-reflexivity organizations  
+- **[Semantic Fidelity Collapse](./semantic-fidelity-collapse-meaning-compression.png)**  
+  Early fidelity degradation funnel.
 
----
+- **[Semantic Fidelity Compass](./semantic-fidelity-compass-coherence-accuracy.png)**  
+  Mapping coherence against semantic accuracy.
 
-### Relationship to Other Reality Drift Materials
+- **[Synthetic Realness Framework](./synthetic-realness-framework-genuine-to-simulation.png)**  
+  Early continuum of authenticity simulation.
 
-This repository contains the **visual layer** of the Reality Drift framework.
+- **[Synthetic Realness Gradient: Genuine to Hyperreal](./synthetic-realness-gradient-genuine-to-hyperreal.png)**  
+  Structural map of synthetic realism.
 
-Related materials may include:
+- **[Synthetic Realness Gradient: Lived to Optimized](./synthetic-realness-gradient-lived-to-optimized.png)**  
+  Behavioral drift toward optimization.
 
-- Canonical definitions  
-- Diagnostic rubrics  
-- Technical standards  
-- Conceptual essays  
-- Research preprints  
-- Visual datasets  
+- **[The Reality Drift Checklist](./The%20Reality%20Drift%20Checklist.png)**  
+  Early heuristic diagnostic checklist.
 
-Together, these artifacts form a multi-layer system for analyzing synthetic environments under conditions of acceleration and symbolic mediation.
+- **[UX Optimization Trap Feedback Loop](./ux-optimization-trap-feedback-loop.png)**  
+  User-interface optimization as drift mechanism.
 
----
+- **[When Stopping Costs More Than Continuing](./When_Stopping_Costs_More_Than_Continuing.png)**  
+  Lock-in dynamics under drift.
 
-### Context
-
-Part of the Reality Drift framework:  
-https://github.com/therealitydrift/reality-drift-library
+- **[Why Does Everything Sound the Same Online](./Why%20Does%20Everything%20Sound%20the%20Same%20Online.png)**  
+  Linguistic convergence under optimization.
 
 ---
 
-### Citation
+## Function
 
-Reality Drift Visual Framework (2026).
+These materials preserve the earliest visual architecture of the Reality Drift framework.
+
+They provide historical reference for how the framework’s visual and conceptual structures first emerged.
 
 ---
 
-### Notes
+## Status
 
-This repository is intended as a long-term conceptual reference. The models are designed to remain semantically stable across future technological shifts. The goal is not prediction, but structural diagnosis.
-
-Reality Drift is not a critique of specific technologies. It is a systems-level description of how symbolic environments evolve when meaning becomes increasingly mediated by internal representations rather than constrained by external reality.
+README Version 4  
+2025–2026

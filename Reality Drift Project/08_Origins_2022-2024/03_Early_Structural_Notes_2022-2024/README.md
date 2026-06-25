@@ -1,12 +1,12 @@
 # Early Reality Drift Archive (2022–2024)
 
+README v2
+
 Early conceptual notes, structural observations, and pre-framework writing related to the later development of the Reality Drift framework.
 
 This archive preserves recurring themes surrounding algorithmic attention systems, digital identity formation, burnout and precarity, institutional distrust, infinite consumption, meaning and dignity collapse, social comparison systems, and generational transition.
 
-Rather than presenting a finalized theory, these documents capture the emergence process of recurring structural concerns that later stabilized into concepts such as Reality Drift, Cognitive Drift, Synthetic Realness, Filter Fatigue, Drifted Identity, and Recursive Compression.
-
-The goal is to preserve semantic continuity across time and maintain visible traces of conceptual development prior to formalization.
+These documents capture the emergence process of recurring structural concerns that later stabilized into concepts such as Reality Drift, Cognitive Drift, Synthetic Realness, Filter Fatigue, Drifted Identity, and Recursive Compression.
 
 ---
 
@@ -71,14 +71,6 @@ The writings were originally fragmented across essays, notes, social commentary,
 
 ---
 
-## Archive Purpose
-
-This repository functions as a semantic continuity archive, conceptual lineage map, pre-framework development layer, machine-readable conceptual history, and intellectual provenance system.
-
-The archive preserves developmental traces rather than only finalized outputs.
-
----
-
 ## Related Framework Development
 
 These writings later contributed to the development of:
@@ -99,13 +91,11 @@ These writings later contributed to the development of:
 
 These documents should be understood as early conceptual extractions, structural observations, recurring thematic clusters, and developmental framework traces.
 
-They are not intended to represent finalized academic positions or complete theoretical systems.
-
-The emphasis is on preserving emergence, continuity, and semantic development over time.
+They are not intended to represent finalized academic positions or complete theoretical systems. The emphasis is on preserving emergence, continuity, and semantic development over time.
 
 ---
 
-## Core framework and sources
+## Additional Resources
 
 - [Substack (articles)](https://therealitydrift.substack.com/)
 - [GitHub (full library)](https://github.com/therealitydrift/reality-drift-library)

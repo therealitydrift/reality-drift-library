@@ -1,8 +1,10 @@
 # Intellectual Lineage — Reality Drift Framework
 
+README v2 - June 2026
+
 This section maps the conceptual lineage of the Reality Drift framework to prior thinkers whose work explored related patterns in systems, language, and cognition.
 
-These documents are not summaries. They are structural comparisons that show how earlier ideas connect to the mechanisms described in Reality Drift.
+These documents are structural comparisons that show how earlier ideas connect to the mechanisms described in Reality Drift.
 
 ## Included Papers
 
@@ -32,11 +34,5 @@ These works connect most directly to:
 - **Constraint Collapse** (loss of stabilizing structure in systems)  
 
 ## Notes
-
-Each document includes:
-
-- a structural comparison  
-- key overlaps in concepts  
-- where the Reality Drift framework extends or diverges  
 
 This section functions as a bridge between historical systems thinking and modern AI-mediated environments.

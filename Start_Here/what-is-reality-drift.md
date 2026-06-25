@@ -1,38 +1,42 @@
-# What Is Reality Drift?
+## What Is Reality Drift? (v3)
 
-Part of the Reality Drift framework (2023–2026) by A. Jacobs.
+**Canonical Definition**  
+
+---
 
 ## Overview
 
-Reality Drift is a framework for understanding how modern systems can continue functioning while gradually losing alignment with reality.
+Reality Drift is a framework for understanding how systems can remain operational and internally coherent while gradually losing corrective contact with the realities they were designed to represent. Across technology, institutions, media, and everyday life, modern systems increasingly rely on representations of reality rather than direct contact with reality itself. Metrics, models, dashboards, algorithms, categories, and symbolic abstractions make scale possible by allowing systems to scale beyond direct human feedback.
 
-Across technology, institutions, media, and everyday life, optimization increasingly replaces judgment, metrics replace meaning, and processes continue operating even as their connection to real outcomes weakens.
+But over time, these representations can begin to substitute for the realities they were originally meant to track. As this happens, metrics replace feedback, proxies replace outcomes, representations replace reference, and optimization replaces judgment. Nothing visibly breaks. Outputs remain coherent, performance indicators continue improving, and the system appears stable by its own internal measures. Yet its relationship to external reality gradually weakens, drifting away from the conditions it was originally designed to reflect or support. Reality Drift describes this gradual divergence.
 
-Nothing visibly breaks. Outputs remain coherent. Performance indicators continue improving. Yet the system slowly moves away from the conditions it was originally meant to track or support. :contentReference[oaicite:2]{index=2}
-
-Reality Drift describes this gradual divergence.
+---
 
 ## How Reality Drift Happens
 
 Reality Drift typically emerges under three interacting conditions:
 
-**Optimization Pressure**
+**Representation Layering**
 
-Systems increasingly optimize for measurable outputs such as engagement, efficiency, or compliance rather than for underlying goals.
+As systems grow, they increasingly depend on abstract representations of reality rather than direct interaction with the conditions they manage. Decisions become mediated through models, indicators, dashboards, and categories.
 
-**Abstraction and Scale**
+**Proxy Dependence**
 
-As systems grow, direct feedback from reality weakens. Decision-making becomes mediated through simplified indicators, dashboards, and models.
+Over time, the measurable indicators used to track reality can begin to replace the underlying goals themselves. Systems optimize what can be measured, even when those measures only partially reflect the original objective.
 
 **Recursive Mediation**
 
-Information passes through repeated layers of filtering — algorithms, interfaces, institutions, and media — compressing nuance and reshaping meaning at each step. :contentReference[oaicite:3]{index=3}
+Information passes through repeated layers of filtering, compression, and interpretation through algorithms, interfaces, institutions, and media. Each layer reshapes meaning, often preserving coherence while reducing fidelity.
 
-These forces gradually separate system behavior from the real-world conditions the system was originally designed to reflect.
+Together, these forces gradually separate system behavior from the real-world conditions the system was originally designed to reflect.
+
+---
 
 ## Why It Is Difficult to Detect
 
 Reality Drift rarely produces obvious failure signals.
+
+Drift does not require malfunction.
 
 Systems experiencing drift often show:
 
@@ -46,50 +50,60 @@ The divergence instead appears in subtler ways:
 - declining trust
 - distorted incentives
 - weakening meaning
-- increasing reliance on narrative rather than outcomes
+- increasing reliance on narrative over outcomes
+- growing difficulty reconstructing original reference points
 
-By the time the gap becomes visible, the original reference point may already be difficult to reconstruct. :contentReference[oaicite:4]{index=4}
+By the time the gap becomes visible, the original conditions the system was built to track may already be difficult to recover.
+
+---
 
 ## Where It Appears
 
-Reality Drift can appear across multiple domains.
+Reality Drift can emerge across multiple domains.
 
 **Technology**
 
-AI systems produce fluent outputs that remain technically coherent while drifting from user intent or real-world grounding.
+AI systems can produce fluent, coherent outputs while gradually drifting from user intent, source fidelity, or real-world grounding.
 
 **Institutions**
 
-Organizations prioritize reporting metrics and procedural compliance over actual performance outcomes.
+Organizations can optimize for reporting, compliance, and procedural consistency while losing alignment with mission or actual outcomes.
 
 **Media and Communication**
 
-Information ecosystems optimize for engagement and attention rather than accuracy or shared understanding.
+Information ecosystems can optimize for engagement, relevance, and speed while weakening shared reference and semantic stability.
 
 **Everyday Life**
 
-Individuals adapt behavior to algorithmic incentives, gradually shifting from lived experience toward system-shaped actions. :contentReference[oaicite:5]{index=5}
+Individuals increasingly adapt behavior to system incentives, interfaces, and algorithmic environments, gradually shifting from direct lived experience toward mediated behavioral loops.
+
+---
 
 ## Relationship to Other Forms of Drift
 
-Reality Drift functions as an umbrella framework describing several related forms of divergence:
+Reality Drift functions as a higher-order structural framework that helps organize several related forms of divergence.
 
-- **Semantic Drift** – changes in the meaning of language across systems  
-- **Cognitive Drift** – shifts in how individuals perceive and interpret reality  
-- **Institutional Drift** – misalignment between organizational goals and outcomes  
+These include:
 
-These forms of drift interact and reinforce one another within complex systems. :contentReference[oaicite:6]{index=6}
+- **Semantic Drift** — changes in meaning as language moves across systems
+- **Cognitive Drift** — shifts in perception, judgment, and interpretive stability
+- **Institutional Drift** — divergence between organizational mission and operational behavior
+- **Representation Drift** — growing separation between models and what they represent
+
+These forms of drift often interact and reinforce one another within complex systems.
+
+---
 
 ## Purpose of the Framework
 
-The Reality Drift framework provides a vocabulary for identifying these dynamics before they become normalized.
+The Reality Drift framework provides a vocabulary for identifying these structural patterns before they become normalized.
 
-Its goal is not to eliminate drift, which is a natural feature of complex systems, but to make it visible early enough to allow correction before divergence becomes structural. 
+Its goal is not to eliminate drift, since drift is a natural feature of complex systems, but to make it visible early enough for correction. The aim is to restore corrective contact before divergence becomes structural, self-reinforcing, or difficult to reverse.
+
+---
 
 ## Learn More
 
-Canonical definitions of the framework’s core concepts are available in this repository.
+Canonical definitions of the framework’s core concepts are available in the main 
 
-Full framework library:
-
-[Reality Drift Library](https://github.com/therealitydrift/reality-drift-library)
+Part of the Reality Drift framework (2023–2026) by A. Jacobs

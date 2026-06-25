@@ -1,44 +1,32 @@
-# Infographic Illustrations
+# Infographic Illustrations Archive (v2)
 
-Minimal infographic-style visuals for introducing core concepts within the Reality Drift framework.
+This folder contains archived infographic-style visual summaries of the Reality Drift framework.
 
-These illustrations condense major framework dynamics into simplified educational graphics designed for rapid comprehension, sharing, and public-facing explanation.
+These materials translate core framework structures into simplified visual reference sheets designed for broader readability, educational use, and high-level orientation. 
 
----
-
-## Contents
-
-- [Reality Drift Framework — Handdrawn Minimal Infographic](./reality-drift-framework-handdrawn-minimal-infographic.png)
+They preserve an earlier phase of visual simplification and public-facing interpretation.
 
 ---
 
-## Focus Areas
+## Illustration Index
 
-This visual introduces:
+- **[Reality Drift Framework Canonical Map v2](./reality-drift-framework-canonical-map-v2.png)**  
+  A structured infographic summarizing the major concepts, relationships, and layers of the framework.
 
-- Reality Drift
-- Optimization Trap
-- Synthetic Realness
-- Filter Fatigue
-- Semantic Fidelity
-
-It also connects these dynamics to broader domains including:
-
-- social media
-- digital platforms
-- AI systems
-- institutional systems
-- recommendation environments
+- **[Reality Drift Framework Handdrawn Minimal Infographic](./reality-drift-framework-handdrawn-minimal-infographic.png)**  
+  Minimalist compressed visual reference of the framework for simplified conceptual orientation.
 
 ---
 
-## Related Resources
+## Function
 
-- [Reality Drift Library](https://github.com/therealitydrift/reality-drift-library)
-- [Substack](https://therealitydrift.substack.com/)
-- [Glossary](https://offbrandguy.com/reality-drift-glossary/)
-- [DOI](https://dx.doi.org/10.2139/ssrn.6150706)
+These infographics preserve the explanatory compression layer of the framework, translating deeper conceptual systems into lighter visual forms for quick interpretation and reference.
 
 ---
 
-Version: 2026.05
+## Status
+
+Archived Developmental Materials  
+2026
+
+v2

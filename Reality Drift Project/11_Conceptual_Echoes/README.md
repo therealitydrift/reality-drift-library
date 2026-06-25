@@ -1,45 +1,49 @@
 # Conceptual Echoes
 
-This repository contains secondary artifacts derived from the Reality Drift framework, originally articulated by A. Jacobs.
+**README Version: v2**
 
-Conceptual echoes are intentionally partial restatements, reframings, or institutionalized versions of core ideas. They are designed to test how concepts propagate, stabilize, or distort when removed from their original context.
+This directory contains exploratory conceptual extensions from the early development of the Reality Drift framework. These materials were created as speculative working documents to test how Reality Drift patterns might appear across different domains, institutions, and systems.
 
----
+In several cases, fictional organizations, hypothetical structures, or intentionally stylized institutional framings were used as scaffolding for conceptual experimentation.
 
-## Purpose
-
-Conceptual Echoes exists to study second-order effects of meaning:
-
-- How ideas change when translated into different institutional, academic, or cultural forms
-- How terminology persists, mutates, or detaches from original constraints
-- How frameworks acquire apparent authority through repetition and structure
-
-The materials here should be read as observations of propagation, not as primary theory.
+They should not be read as empirical case studies, formal claims, or finalized framework documents.
 
 ---
 
-## Relationship to Reality Drift
+## Scope
 
-The canonical record of the Reality Drift framework is maintained separately.
+The materials in this directory explore:
 
-For definitions, primary essays, formal frameworks, and stable references, see:
+- Cross-domain pattern transfer  
+- Institutional analogs and structural echoes  
+- Experimental applications of Reality Drift concepts  
+- Early attempts at modeling how drift scales through systems  
 
-https://github.com/therealitydrift/reality-drift-library
-
-This repository operates downstream of that archive.
-
----
-
-## Repository Structure
-
-- `reality-drift_echo-studies/`  
-  Focused examinations of how specific concepts echo, fragment, or recombine across contexts.
-
-- `reality-drift_institutional-echoes/`  
-  Artifacts that model how Reality Drift concepts appear when embedded in institutional or formal systems.
+Their purpose was to stress-test conceptual portability.
 
 ---
 
-## Notes
+## Archive Status
 
-Materials in this repository may be incomplete, provisional, or intentionally schematic.
+This directory is preserved as part of the developmental archive. It documents an exploratory phase of framework construction where analogical reasoning, fictionalized settings, and speculative institutional forms were used to identify recurring structural patterns.
+
+Many ideas here were later refined, formalized, or replaced by stronger canonical documents. Where differences exist, the canonical framework should take precedence.
+
+---
+
+## Folder Index
+
+- [reality-drift_echo-studies](./reality-drift_echo-studies/)  
+  Experimental comparative studies tracing similar drift mechanics across unrelated domains.
+
+- [reality-drift_institutional-echoes](./reality-drift_institutional-echoes/)  
+  Fictionalized and stylized institutional scenarios used to model structural drift dynamics.
+
+- [reality-drift_instrumentation](./reality-drift_instrumentation/)  
+  Early diagnostic tools and interpretive instruments for identifying drift conditions.
+
+---
+
+## Interpretation Note
+
+These materials are best understood as conceptual scaffolding. They show how the framework was tested, stretched, and clarified before later consolidation.

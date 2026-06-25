@@ -1,33 +1,33 @@
-# Ontology Visuals
+# Ontology Visuals Archive (v2)
 
-Visual ontology maps for the Reality Drift framework.
+This folder contains archived ontology maps from earlier developmental phases of the Reality Drift framework.
 
-These diagrams organize the major concepts, mechanisms, and relationships across the Reality Drift framework into large-scale structural maps.
-
-They are intended as reference visuals for understanding how drift dynamics connect across cognition, systems, media environments, and AI-mediated reality.
+These visuals represent previous attempts to diagram the structural relationships between core concepts, cognitive systems, and broader framework mechanics. They preserve earlier visual ontologies before the current canonical ontology structure was formalized.
 
 ---
 
-## Contents
+## Visual Index
 
-- [Age of Drift Visual Ontology Map](./age-of-drift-visual-ontology-map.png)  
-  High-level environmental map showing how Reality Drift becomes an ambient operating condition across domains.
+- **[Age of Drift Visual Ontology Map](./age-of-drift-visual-ontology-map.png)**  
+  Early ontology model focused on Age of Drift structures and domain relationships.
 
-- [Cognitive Drift & Co-Cognition Visual Ontology Map](./cognitive-drift-co-cognition-visual-ontology-map.png)  
-  Structural map of AI-mediated cognition, recursive compression, co-cognition, semantic fidelity, and cognitive drift dynamics.
+- **[Cognitive Drift Co-Cognition Visual Ontology Map](./cognitive-drift-co-cognition-visual-ontology-map.png)**  
+  Developmental ontology map centered on cognitive drift and distributed cognition structures.
 
-- [Reality Drift Framework Visual Ontology Map](./reality-drift-framework-visual-ontology-map.png)  
-  Core framework ontology showing relationships between drift mechanics, cognitive effects, institutional dynamics, and representational degradation.
-
----
-
-## Related Resources
-
-- [Reality Drift Library](https://github.com/therealitydrift/reality-drift-library)
-- [Substack](https://therealitydrift.substack.com/)
-- [Glossary](https://offbrandguy.com/reality-drift-glossary/)
-- [DOI](https://dx.doi.org/10.2139/ssrn.6150706)
+- **[Reality Drift Framework Visual Ontology Map](./reality-drift-framework-visual-ontology-map.png)**  
+  Broader conceptual ontology showing early framework-wide structural relationships.
 
 ---
 
-Version: 2026.05
+## Function
+
+These visual ontologies preserve the conceptual mapping phase of framework development and document how structural relationships were first modeled before later refinement.
+
+---
+
+## Status
+
+Archived Developmental Materials  
+2025–2026
+
+v2

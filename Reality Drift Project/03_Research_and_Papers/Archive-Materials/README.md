@@ -1,33 +1,50 @@
-# Supporting Materials — Reality Drift
+# Archive Materials
 
-This directory contains supplemental materials related to the Reality Drift framework.
+**README Version: v1**
 
-These folders include theory development documents, evaluation structures, datasets, and supporting framework materials.
+This folder preserves the earlier research artifacts, developmental papers, experimental datasets, and foundational exploratory materials that contributed to the formation of the Reality Drift framework.
+
+These materials document the intellectual construction process before later consolidation into the canonical framework and formal research collections.
+
+Some concepts in these folders may appear incomplete, differently named, or structurally superseded. They are preserved for provenance, historical continuity, and developmental transparency.
+
+Where conflicts exist, later materials in:
+
+`../01_Published_PrePrint_Papers/`
+
+and the canonical framework in:
+
+`../../01_Canonical_Frameworks/`
+
+take precedence.
 
 ---
 
-## Directory Structure
+## Folder Index
+
+- [Core_Explainer_Series](./Core_Explainer_Series/)  
+  Early explanatory documents written to simplify and communicate emerging framework ideas.
 
 - [Datasets](./Datasets/)  
-  Example datasets and supporting reference materials.
+  Structured datasets, supporting reference material, and experimental conceptual exports.
 
-- [Evaluation_and_Methods](./Evaluation_and_Methods/)  
-  Evaluation frameworks, diagnostic methods, and operational approaches.
+- [Early_Theory_Papers](./Early_Theory_Papers/)  
+  Initial theoretical papers documenting early formulations and structural hypotheses.
+
+- [Foundational_Semantic_Drift_Papers](./Foundational_Semantic_Drift_Papers/)  
+  Early semantic fidelity and semantic drift research that later fed into the broader framework.
 
 - [Framework_Development](./Framework_Development/)  
-  Development notes and supporting conceptual materials related to framework construction.
-
-- [Theory_Papers](./Theory_Papers/)  
-  Supplemental theoretical papers and exploratory research documents.
+  Transitional working papers showing the assembly and refinement of the framework itself.
 
 ---
 
-## Context
+## Archive Status
 
-This directory is part of the Reality Drift framework archive:
-
-https://github.com/therealitydrift/reality-drift-library
+These materials remain part of the project record but should be treated as developmental artifacts rather than final interpretive authorities. They preserve how the framework was built.
 
 ---
 
-Version: 2026.05
+## Metadata
+
+Updated: June 2026

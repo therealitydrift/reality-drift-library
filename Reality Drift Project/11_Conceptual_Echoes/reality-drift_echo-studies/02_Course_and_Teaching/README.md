@@ -1,42 +1,53 @@
-# Course and Teaching Materials
+# Course and Teaching
 
-This directory contains teaching-oriented materials derived from concepts in this repository.
+**README Version: v2**
 
-The documents here adapt existing ideas into formats suitable for coursework, workshops, or instructional settings. They translate conceptual frameworks into structured learning artifacts without introducing new theory.
+This directory contains early exploratory teaching materials from the Reality Drift project.
 
----
+These materials were developed during an experimental phase in which Reality Drift concepts were tested through fictionalized course structures, speculative syllabi, and prototype instructional frameworks.
 
-## Contents
+They do not represent formal academic courses, accredited programs, or institutional affiliations.
 
-- RD-ECHO-Course-Syllabus_UX-Design-in-the-Age-of-Drift.pdf  
-  A course syllabus outlining how concepts related to drift, constraint loss, and meaning erosion apply to modern UX design practice.
-
----
-
-## Purpose
-
-Materials in this directory are intended to:
-
-- Support formal or informal instruction  
-- Provide scaffolding for teaching complex systems concepts  
-- Explore how theoretical ideas behave when translated into educational contexts
-
-These documents emphasize clarity, structure, and applicability.
+Their purpose was conceptual experimentation: testing whether Reality Drift could be translated into structured educational formats and applied to specific domains.
 
 ---
 
-## Relationship to Source Material
+## Scope
 
-The canonical definitions, frameworks, and primary essays are maintained separately in the Reality Drift Library:
+The materials in this directory include:
 
-https://github.com/therealitydrift/reality-drift-library
+- speculative course syllabi  
+- prototype teaching frameworks  
+- domain-specific educational applications  
+- conceptual curriculum experiments  
 
-Teaching materials in this directory are secondary derivatives. They are instructional interpretations, not authoritative statements of the framework itself.
+These materials were created as developmental exercises to explore transferability, pedagogical structure, and conceptual coherence.
 
 ---
 
-## Notes
+## Archive Status
 
-This directory may expand to include additional syllabi, lesson structures, or teaching outlines.
+This directory is preserved as part of the early working archive.
 
-All materials here should be read as pedagogical adaptations rather than original research contributions.
+It reflects a period of experimental educational modeling where fictional instructional formats were used to stress-test the Reality Drift framework in practical and domain-specific contexts.
+
+Some materials may contain:
+
+- provisional terminology  
+- simplified teaching structures  
+- speculative applications  
+- fictional institutional framing  
+- experimental curriculum models later revised or abandoned  
+
+These documents are retained for developmental and historical context only. Where differences exist, later canonical framework materials take precedence.
+
+---
+
+## Document Index
+
+- [RD-ECHO-Course-Syllabus_UX-Design-in-the-Age-of-Drift](./RD-ECHO-Course-Syllabus_UX-Design-in-the-Age-of-Drift.pdf)  
+  A speculative syllabus exploring how Reality Drift concepts map onto modern UX systems.
+
+---
+
+# 

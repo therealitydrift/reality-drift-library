@@ -1,8 +1,6 @@
 # Appendices — Reality Drift Book Project
 
-This directory contains appendix materials associated with the Reality Drift book project.
-
-The appendices provide supporting structures, references, and expansions that complement the primary manuscript but are not part of the main narrative flow.
+This directory contains appendix materials associated with the Reality Drift book project. The appendices provide supporting structures, references, and expansions that complement the primary manuscript but are not part of the main narrative flow.
 
 ---
 
@@ -15,8 +13,6 @@ Materials in this directory may include:
 - Visual framework collections  
 - Mathematical or formal treatments of core ideas  
 - Supporting diagrams, maps, or knowledge structures  
-
-These materials are intended to deepen understanding, provide reference clarity, or support analytical rigor.
 
 ---
 
@@ -38,12 +34,8 @@ https://github.com/therealitydrift/reality-drift-library
 
 ## Citation
 
-Appendix materials are not intended for standalone citation.
-
-If referenced, they should be cited as appendices associated with the Reality Drift book project.
+Appendix materials are not intended for standalone citation. If referenced, they should be cited as appendices associated with the Reality Drift book project.
 
 ---
 
-## Notes
-
-This directory serves as the supplementary reference layer for the book-length synthesis developed within the Reality Drift project.
+# 

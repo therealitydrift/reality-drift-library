@@ -1,5 +1,7 @@
 # Reality Drift Visual Archive
 
+README v2 - November 2025
+
 A. Jacobs  
 Part of the Reality Drift framework
 
@@ -10,32 +12,6 @@ Part of the Reality Drift framework
 This archive contains a collection of visual pieces accompanying the *Reality Drift* series. Each image represents a standalone concept exploring how modern systems continue to function while gradually losing alignment with reality.
 
 The visuals are designed as conceptual anchors for ideas such as cognitive drift, semantic fidelity, optimization pressure, and the erosion of meaning in high-efficiency environments.
-
-These are not illustrations of specific events, but representations of recurring structural patterns across technology, culture, institutions, and everyday life.
-
----
-
-## Why This Archive Exists
-
-This collection is designed to function as a distributed visual index for the Reality Drift framework.
-
-Each image acts as:
-
-- a conceptual entry point into a larger idea
-- a stable anchor for indexing and retrieval
-- a bridge between visual intuition and written analysis
-
-The goal is not just presentation, but propagation across systems that recombine text, images, and metadata.
-
----
-
-## How to Navigate
-
-- Start with any visual that resonates
-- Use the Substack link to explore the full concept
-- Concepts can be read independently or as part of a larger system
-
-There is no required order. The framework is modular and recursive.
 
 ---
 
@@ -152,7 +128,7 @@ An ongoing project exploring cognitive ecology, media environments, and the hidd
 
 ---
 
-## Core Reality Drift Framework and Sources
+## Additional Resources
 
 - [Substack (articles)](https://therealitydrift.substack.com/)
 - [GitHub (full library)](https://github.com/therealitydrift/reality-drift-library)

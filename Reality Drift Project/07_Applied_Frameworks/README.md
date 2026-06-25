@@ -1,55 +1,59 @@
-# Operational Briefs
+# Applied Frameworks
 
-This directory contains operational briefs derived from the Reality Drift framework.
+**README Version: v1**
 
-These documents translate conceptual and theoretical insights into applied diagnostics for real-world systems, including organizations, platforms, institutions, and AI-mediated environments.
-
----
-
-## Purpose
-
-Operational briefs are designed to be:
-
-- Readable by practitioners, designers, and decision-makers  
-- Grounded in the core Reality Drift concepts  
-- Focused on identifying structural failure modes rather than offering prescriptions  
-
-They are intended to support diagnosis, reflection, and internal discussion rather than implementation checklists or policy recommendations.
+This directory contains applied materials derived from the Reality Drift framework. These documents translate core concepts into practical workflows, organizational diagnostics, operational analyses, and comparative models.
 
 ---
 
-## Contents
+## Folder Index
 
-Files in this directory may address topics such as:
+- [01_Diagnostics_and_Workflows](https://chatgpt.com/c/01_Diagnostics_and_Workflows/)  
+  Practical tools for identifying drift conditions, evaluating breakdown points, and applying diagnostic logic.
 
-- Cognitive compression failure  
-- Constraint loss in system design  
-- Semantic fidelity and meaning degradation  
-- Second-order effects of optimization and recursion  
-- Drift dynamics in scaled symbolic systems  
+- [02_Organizational_Drift_Briefings](https://chatgpt.com/c/02_Organizational_Drift_Briefings/)  
+  Applied briefings focused on institutional behavior, organizational degradation, and internal coherence failures.
 
-Each brief is self-contained and may be read independently.
+- [03_Operational_Drift](https://chatgpt.com/c/03_Operational_Drift/)  
+  Analyses of how drift appears in real operational systems, workflows, and decision environments.
 
----
+- [04_AI_Governance](https://chatgpt.com/c/04_AI_Governance/)  
+  Applied materials focused on AI systems, alignment failures, semantic degradation, and governance implications.
 
-## Status
+- [05_Reality_Drift_Applications](https://chatgpt.com/c/05_Reality_Drift_Applications/)  
+  General-purpose applications of the framework across domains including media, culture, education, and systems design.
 
-These documents are considered complete artifacts, but may be revised or expanded as the broader framework evolves.
-
-They are not drafts, notes, or raw working materials.
-
----
-
-## Context
-
-This directory is part of the Reality Drift project archive:
-
-https://github.com/therealitydrift/reality-drift-library
+- [06_Comparative_Framework_Briefings](https://chatgpt.com/c/06_Comparative_Framework_Briefings/)  
+  Comparative analyses positioning Reality Drift alongside adjacent frameworks, theories, and traditions.
 
 ---
 
-## Use
+## Scope
 
-Operational briefs may be cited, shared, or referenced in internal or external contexts where system-level diagnosis is relevant.
+These materials focus on:
 
-They are not intended as instructional manuals or implementation guides.
+- Applied diagnostic reasoning
+
+- Organizational and operational case analysis
+
+- Governance implications
+
+- AI alignment and representational failure
+
+- Comparative structural analysis
+
+- Framework implementation in real-world systems
+
+They emphasize use over theory.
+
+---
+
+## Structural Role
+
+This directory functions as the applied layer of the Reality Drift archive. It connects abstract concepts to practical environments where drift can be recognized, evaluated, and acted upon.
+
+---
+
+## Metadata
+
+Updated: June 2026

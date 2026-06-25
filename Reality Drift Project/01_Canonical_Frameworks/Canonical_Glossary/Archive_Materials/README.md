@@ -1,74 +1,35 @@
-# Archived Lexical Frameworks
+# Archived Glossary Materials
 
-# 
+This folder preserves earlier developmental versions of the Reality Drift glossary.
 
-### Overview
+These documents record the lexical evolution of the framework before the current canonical glossary was established. They contain earlier taxonomies, expanded definitions, and prototype conceptual structures that contributed to the present vocabulary.
 
-This directory contains archived lexical materials from the early development phases of the Reality Drift framework (2025). These documents represent earlier attempts to define the core vocabulary, taxonomies, and conceptual structures used to describe drift across cultural, cognitive, institutional, and technological domains.
-
-They are preserved for historical reference and documentation of the framework’s evolution.
-
-These materials have been superseded by the consolidated canonical glossary and lexical frameworks maintained elsewhere in the project.
+These materials are preserved for provenance, continuity, and historical reference. They should not be treated as the current stable glossary.
 
 ---
 
-### Contents
+## Structure
 
-This folder includes the following archived lexical materials:
+- **[RDF-2025-CG01 Canonical Glossary Proto v1](./RDF-2025-CG01_Canonical_Glossary_Proto-v1.pdf)**  
+  The earliest structured prototype glossary of the framework.
 
-- **Reality Drift Core Lexicon**  
-  Early definition set establishing baseline vocabulary for the framework.
+- **[RDF-2025-DG02 Glossary Taxonomy v2](./RDF-2025-DG02_Glossary_Taxonomy-v2.pdf)**  
+  Expanded taxonomy version introducing broader lexical organization.
 
-- **Reality Drift Extended Lexicon**  
-  Expansion of the core lexicon including second-order and emergent drift phenomena.
-
-- **Drift Taxonomy**  
-  Initial classification system for mapping drift across cultural, cognitive, institutional, and systemic domains.
-
-- **Cultural Framework Notes**  
-  Supporting textual material used during early development to map cultural drift patterns and conceptual relationships.
-
-Each document represents a versioned snapshot of the framework during its development stage.
+- **[RDF-2025-DG03 Glossary Expanded v3](./RDF-2025-DG03_Glossary_Expanded-v3.pdf)**  
+  A later developmental glossary with expanded terminology and pre-canonical refinements.
 
 ---
 
-### Role Within the Reality Drift Project
+## Function
 
-These documents illustrate the lexical development process of the Reality Drift framework. They show how terminology, classification structures, and conceptual groupings evolved before consolidation into the current canonical vocabulary.
+These archived glossaries preserve the developmental history of the framework’s conceptual vocabulary.
 
-They are retained to preserve the historical lineage of the framework’s terminology.
-
----
-
-### Intended Use
-
-These archived materials may be used for:
-
-- Historical reference
-
-- Documentation of framework development
-
-- Comparative analysis of terminology evolution
-
-- Research transparency
-
-They should not be treated as the current canonical definitions of Reality Drift terminology.
+They provide historical continuity and show how definitions and term structures evolved prior to canonical stabilization.
 
 ---
 
-### Context
+## Status
 
-These archived lexical materials are part of the broader Reality Drift research archive:  
-[GitHub - therealitydrift/reality-drift-library](https://github.com/therealitydrift/reality-drift-library)
-
----
-
-### Citation
-
-Archived Lexical Frameworks, Reality Drift Project (2025).
-
----
-
-### Notes
-
-Current definitions and terminology for the Reality Drift framework are maintained in the Canonical Lexical Frameworks directory. 
+Version 3  
+June 2026
