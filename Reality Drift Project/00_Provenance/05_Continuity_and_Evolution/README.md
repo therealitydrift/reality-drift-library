@@ -6,13 +6,13 @@ These materials examine how concepts emerge, shift, compress, and reorganize ove
 
 ---
 
-## Structure
+#### Structure
 
-- **[Conceptual Drift](https://chatgpt.com/c/reality-drift-framework-canonical-conceptual-drift.pdf)**  
-  Examines how concepts themselves evolve, mutate, and shift across developmental stages.
+- **[Conceptual Drift](https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/00_Provenance/05_Continuity_and_Evolution/reality-drift-framework-canonical-conceptual-drift.pdf)**  
+  Examines how concepts evolve, stabilize, and shift across the life of the framework while maintaining continuity.
 
-- **[Process, Compression, and Concept Formation](https://chatgpt.com/c/reality-drift-framework-canonical-process-compression-and-concept-formation.pdf)**  
-  Explores the structural process through which concepts form, stabilize, and compress into higher-order frameworks.
+- **[Process Compression and Concept Formation](https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/00_Provenance/05_Continuity_and_Evolution/reality-drift-framework-canonical-process-compression-and-concept-formation.pdf)**  
+  Explains how repeated processes compress into stable concepts, and how those concepts later structure interpretation, extension, and revision.
 
 ---
 

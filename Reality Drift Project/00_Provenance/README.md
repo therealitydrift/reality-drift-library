@@ -8,19 +8,19 @@ These documents establish the highest-precedence interpretive layer of the broad
 
 ## Structure
 
-- **[01_Foundational_Statements](https://chatgpt.com/c/01_Foundational_Statements)**  
+- **[01_Foundational_Statements](https://github.com/therealitydrift/reality-drift-library/tree/main/Reality%20Drift%20Project/00_Provenance/01_Foundational_Statements)**  
   Core declarations establishing intent, scope, method, and conceptual foundations.
 
-- **[02_Boundary_and_Governance](https://chatgpt.com/c/02_Boundary_and_Governance)**  
+- **[02_Boundary_and_Governance](https://github.com/therealitydrift/reality-drift-library/tree/main/Reality%20Drift%20Project/00_Provenance/02_Boundary_and_Governance)**  
   Documents defining interpretive boundaries, archive policies, supersession logic, and evaluation criteria.
 
-- **[03_Historical_Record](https://chatgpt.com/c/03_Historical_Record)**  
+- **[03_Historical_Record](https://github.com/therealitydrift/reality-drift-library/tree/main/Reality%20Drift%20Project/00_Provenance/03_Historical_Record)**  
   Timeline materials, developmental continuity documents, and archival provenance.
 
-- **[04_Critical_Framework](https://chatgpt.com/c/04_Critical_Framework)**  
+- **[04_Critical_Framework](https://github.com/therealitydrift/reality-drift-library/tree/main/Reality%20Drift%20Project/00_Provenance/04_Critical_Framework)**  
   Major objections, anticipated critiques, limitations, and defensive clarifications.
 
-- **[05_Continuity_and_Evolution](https://chatgpt.com/c/05_Continuity_and_Evolution)**  
+- **[05_Continuity_and_Evolution](https://github.com/therealitydrift/reality-drift-library/tree/main/Reality%20Drift%20Project/00_Provenance/05_Continuity_and_Evolution)**  
   Documents addressing conceptual evolution, open questions, unresolved tensions, and future directions.
 
 ---

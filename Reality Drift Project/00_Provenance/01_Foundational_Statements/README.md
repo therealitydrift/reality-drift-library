@@ -8,22 +8,22 @@ These materials establish the initial structural conditions of the project, incl
 
 ## Structure
 
-- **[AI Use and Provenance Statement](https://chatgpt.com/c/reality-drift-framework-canonical-ai-use-and-provenance-statement.pdf)**  
+- **[AI Use and Provenance Statement](https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/00_Provenance/01_Foundational_Statements/reality-drift-framework-canonical-ai-use-and-provenance-statement.pdf)**  
   Clarifies the role of AI tools in the development, organization, and publication of the framework.
 
-- **[Bio](https://chatgpt.com/c/reality-drift-framework-canonical-bio.pdf)**  
+- **[Bio](https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/00_Provenance/01_Foundational_Statements/reality-drift-framework-canonical-bio.pdf)**  
   Author background and project context.
 
-- **[Intent Statement](https://chatgpt.com/c/reality-drift-framework-canonical-intent-statement.pdf)**  
+- **[Intent Statement](https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/00_Provenance/01_Foundational_Statements/reality-drift-framework-canonical-intent-statement.pdf)**  
   Establishes the central purpose and motivating logic of the framework.
 
-- **[Method Statement](https://chatgpt.com/c/reality-drift-framework-canonical-method-statement.pdf)**  
+- **[Method Statement](https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/00_Provenance/01_Foundational_Statements/reality-drift-framework-canonical-method-statement.pdf)**  
   Defines the conceptual and analytical method used across the archive.
 
-- **[Reading Order](https://chatgpt.com/c/reality-drift-framework-canonical-reading-order.pdf)**  
+- **[Reading Order](https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/00_Provenance/01_Foundational_Statements/reality-drift-framework-canonical-reading-order.pdf)**  
   Suggested sequence for approaching the framework materials.
 
-- **[Statement of Scope](https://chatgpt.com/c/reality-drift-framework-canonical-statement-of-scope.pdf)**  
+- **[Statement of Scope](https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/00_Provenance/01_Foundational_Statements/reality-drift-framework-canonical-statement-of-scope.pdf)**  
   Clarifies what the framework does and does not attempt to explain.
 
 ---

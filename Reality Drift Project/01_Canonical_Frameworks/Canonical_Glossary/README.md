@@ -10,20 +10,20 @@ Where earlier glossaries or developmental definitions differ in wording, structu
 
 ## Current Canonical Glossary
 
-- **[Reality Drift Framework Canonical Glossary (2026)](./Reality-Drift-Framework-Canonical-Glossary-RDF-2026.pdf)**  
+- **[Reality Drift Framework Canonical Glossary (2026)](https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/01_Canonical_Frameworks/Canonical_Glossary/Reality-Drift-Framework-Canonical-Glossary-RDF-2026.pdf)**  
   The current stable glossary containing the primary conceptual vocabulary of the framework.
 
 ---
 
 ## Archived Glossary Materials
 
-- **[RDF-2025-CG01 Canonical Glossary Proto v1](./Archive_Materials/RDF-2025-CG01_Canonical_Glossary_Proto-v1.pdf)**  
+- **[RDF-2025-CG01 Canonical Glossary Proto v1](https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/01_Canonical_Frameworks/Canonical_Glossary/Archive_Materials/RDF-2025-CG01_Canonical_Glossary_Proto-v1.pdf)**  
   Early prototype glossary establishing the first structured lexical foundation.
 
-- **[RDF-2025-DG02 Glossary Taxonomy v2](./Archive_Materials/RDF-2025-DG02_Glossary_Taxonomy-v2.pdf)**  
+- **[RDF-2025-DG02 Glossary Taxonomy v2](https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/01_Canonical_Frameworks/Canonical_Glossary/Archive_Materials/RDF-2025-DG02_Glossary_Taxonomy-v2.pdf)**  
   Expanded taxonomy version introducing broader category organization.
 
-- **[RDF-2025-DG03 Glossary Expanded v3](./Archive_Materials/RDF-2025-DG03_Glossary_Expanded-v3.pdf)**  
+- **[RDF-2025-DG03 Glossary Expanded v3](https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/01_Canonical_Frameworks/Canonical_Glossary/Archive_Materials/RDF-2025-DG03_Glossary_Expanded-v3.pdf)**  
   Developmental expanded glossary preceding the current canonical version.
 
 ---

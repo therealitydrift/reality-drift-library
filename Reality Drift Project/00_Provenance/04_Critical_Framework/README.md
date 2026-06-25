@@ -8,13 +8,13 @@ These materials address the framework’s limitations, strongest objections, unr
 
 ## Structure
 
-- **[Limitations and Anticipated Critiques](https://chatgpt.com/c/reality-drift-framework-canonical-limitations-and-anticipated-critiques.pdf)**  
+- **[Limitations and Anticipated Critiques](https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/00_Provenance/04_Critical_Framework/reality-drift-framework-canonical-limitations-and-anticipated-critiques.pdf)**  
   Identifies foreseeable weaknesses, interpretive risks, and likely criticisms of the framework.
 
-- **[Open Questions and Frontier Areas](https://chatgpt.com/c/reality-drift-framework-canonical-open-questions-and-frontier-areas.pdf)**  
+- **[Open Questions and Frontier Areas](https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/00_Provenance/04_Critical_Framework/reality-drift-framework-canonical-open-questions-and-frontier-areas.pdf)**  
   Documents unresolved problems, emerging questions, and areas for future conceptual development.
 
-- **[Strongest Objections and Replies](https://chatgpt.com/c/reality-drift-framework-canonical-strongest-objections-and-replies.pdf)**  
+- **[Strongest Objections and Replies](https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/00_Provenance/04_Critical_Framework/reality-drift-framework-canonical-strongest-objections-and-replies.pdf)**  
   Engages the most serious objections to the framework and outlines the current responses.
 
 ---

@@ -10,13 +10,13 @@ The ontology serves as the structural model that organizes and stabilizes the br
 
 ## Structure
 
-- **[01_Concept_Structure](./01_Concept_Structure)**  
+- **[01_Concept_Structure](https://github.com/therealitydrift/reality-drift-library/tree/main/Reality%20Drift%20Project/01_Canonical_Frameworks/Conceptual_Ontology/01_Concept_Structure)**  
   Core concept relationships, taxonomy layers, drift-fidelity indexing, and supporting relational notes used to organize the framework’s conceptual architecture.
 
-- **[02_Ontology_Frameworks](./02_Ontology_Frameworks)**  
+- **[02_Ontology_Frameworks](https://github.com/therealitydrift/reality-drift-library/tree/main/Reality%20Drift%20Project/01_Canonical_Frameworks/Conceptual_Ontology/02_Ontology_Frameworks)**  
   Formal ontology documents, operator libraries, relationship graphs, and representation stack schemas defining the structural logic of the framework.
 
-- **[03_Ontology_Model](./03_Ontology_Model)**  
+- **[03_Ontology_Model](https://github.com/therealitydrift/reality-drift-library/tree/main/Reality%20Drift%20Project/01_Canonical_Frameworks/Conceptual_Ontology/03_Ontology_Model)**  
   Machine-readable ontology model (`.ttl`) representing the formalized conceptual structure of the framework.
 
 ---

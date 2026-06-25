@@ -10,25 +10,25 @@ The materials in this folder supersede earlier non-canonical formulations where 
 
 ## Structure
 
-- **[Reality_Drift_Definition](https://chatgpt.com/c/Reality_Drift_Definition)**  
+- **[Reality_Drift_Definition](https://github.com/therealitydrift/reality-drift-library/tree/main/Reality%20Drift%20Project/01_Canonical_Frameworks/Reality_Drift_Definition)**  
   The primary definition and central framing of Reality Drift.
 
-- **[Canonical_Concept_Papers](https://chatgpt.com/c/Canonical_Concept_Papers)**  
+- **[Canonical_Concept_Papers](https://github.com/therealitydrift/reality-drift-library/tree/main/Reality%20Drift%20Project/01_Canonical_Frameworks/Canonical_Concept_Papers)**  
   Formal concept papers defining the framework’s core terms and structural mechanisms.
 
-- **[Canonical_Glossary](https://chatgpt.com/c/Canonical_Glossary)**  
+- **[Canonical_Glossary](https://github.com/therealitydrift/reality-drift-library/tree/main/Reality%20Drift%20Project/01_Canonical_Frameworks/Canonical_Glossary)**  
   Standardized terminology and reference definitions across the archive.
 
-- **[Conceptual_Ontology](https://chatgpt.com/c/Conceptual_Ontology)**  
+- **[Conceptual_Ontology](https://github.com/therealitydrift/reality-drift-library/tree/main/Reality%20Drift%20Project/01_Canonical_Frameworks/Conceptual_Ontology)**  
   Structural relationships between concepts, operators, and framework layers.
 
-- **[Framework_Diagrams](https://chatgpt.com/c/Framework_Diagrams)**  
+- **[Framework_Diagrams](https://github.com/therealitydrift/reality-drift-library/tree/main/Reality%20Drift%20Project/01_Canonical_Frameworks/Framework_Diagrams)**  
   Core visual maps and system diagrams representing the framework’s architecture.
 
-- **[Framework-Foundations](https://chatgpt.com/c/Framework-Foundations)**  
+- **[Framework-Foundations](https://github.com/therealitydrift/reality-drift-library/tree/main/Reality%20Drift%20Project/01_Canonical_Frameworks/Framework-Foundations)**  
   Foundational conceptual assumptions and supporting structural principles.
 
-- **[Visual_Concept_Guides](https://chatgpt.com/c/Visual_Concept_Guides)**  
+- **[Visual_Concept_Guides](https://github.com/therealitydrift/reality-drift-library/tree/main/Reality%20Drift%20Project/01_Canonical_Frameworks/Visual_Concept_Guides)**  
   Simplified visual guides for explaining and navigating major framework concepts.
 
 ---

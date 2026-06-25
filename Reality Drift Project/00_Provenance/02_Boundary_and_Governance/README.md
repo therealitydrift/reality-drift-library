@@ -8,20 +8,20 @@ These materials define how the framework is categorized, evaluated, maintained, 
 
 ## Structure
 
-- **[Archive Policy](https://chatgpt.com/c/reality-drift-framework-canonical-archive-policy.pdf)**  
+- **[Archive Policy](https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/00_Provenance/02_Boundary_and_Governance/reality-drift-framework-canonical-archive-policy.pdf)**  
   Defines how canonical, archival, and developmental materials are organized and preserved.
 
-- **[Category, Evaluation, and Reception](https://chatgpt.com/c/reality-drift-framework-canonical-category-evaluation-and-reception.pdf)**  
+- **[Category, Evaluation, and Reception](https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/00_Provenance/02_Boundary_and_Governance/reality-drift-framework-canonical-category-evaluation-and-reception.pdf)**  
   Examines how the framework should be situated, interpreted, and evaluated across different audiences and contexts.
 
-- **[Category Statement](https://chatgpt.com/c/reality-drift-framework-canonical-category-statement.pdf)**  
-  Clarifies the conceptual category and structural orientation of the framework.
+- **[Category Statement](https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/00_Provenance/02_Boundary_and_Governance/reality-drift-framework-canonical-category-statement.pdf)**  
+  Clarifies the classification of materials across canonical, developmental, archival, and exploratory layers.
 
-- **[Evaluation Criteria](https://chatgpt.com/c/reality-drift-framework-canonical-evaluation-criteria.pdf)**  
-  Establishes the standards by which claims, applications, and extensions of the framework should be assessed.
+- **[Evaluation Criteria](https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/00_Provenance/02_Boundary_and_Governance/reality-drift-framework-canonical-evaluation-criteria.pdf)**  
+  Establishes the criteria used to assess interpretive validity, structural coherence, and conceptual integrity.
 
-- **[Supersession Protocol](https://chatgpt.com/c/reality-drift-framework-canonical-supersession-protocol.pdf)**  
-  Defines how revisions, replacements, and conceptual evolution are handled across the archive.
+- **[Supersession Protocol](https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/00_Provenance/02_Boundary_and_Governance/reality-drift-framework-canonical-supersession-protocol.pdf)**  
+  Defines how earlier materials are revised, replaced, or retained as the framework evolves.
 
 ---
 

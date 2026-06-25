@@ -8,10 +8,13 @@ These documents define the core concepts, mechanisms, and structural dynamics us
 
 ## Concepts
 
-- [Reality Drift](./reality-drift-canonical-concept.md)
-- [Optimization Trap](./optimization-trap-canonical-concept.md)
-- [Synthetic Realness](./synthetic-realness-canonical-concept.md)
-- [Filter Fatigue](./filter-fatigue-canonical-concept.md)
+- [Filter Fatigue](https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/01_Canonical_Frameworks/Conceptual_Ontology/01_Concept_Structure/Core_Concepts/filter-fatigue-canonical-concept.md)
+
+- [Optimization Trap](https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/01_Canonical_Frameworks/Conceptual_Ontology/01_Concept_Structure/Core_Concepts/optimization-trap-canonical-concept.md)
+
+- [Reality Drift](https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/01_Canonical_Frameworks/Conceptual_Ontology/01_Concept_Structure/Core_Concepts/reality-drift-canonical-concept.md)
+
+- [Synthetic Realness](https://github.com/therealitydrift/reality-drift-library/blob/main/Reality%20Drift%20Project/01_Canonical_Frameworks/Conceptual_Ontology/01_Concept_Structure/Core_Concepts/synthetic-realness-canonical-concept.md)
 
 ---
 
