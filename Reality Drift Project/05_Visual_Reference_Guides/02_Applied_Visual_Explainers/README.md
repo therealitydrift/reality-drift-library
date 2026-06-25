@@ -10,9 +10,9 @@ These files translate core Reality Drift concepts into short, accessible diagram
 
 ### 1. Algorithmic Amplification and Language Convergence
 
-[Open PDF](algorithmic-amplification-and-why-language-converges-online-visual-explainer.pdf)
+[Open PDF](./algorithmic-amplification-and-why-language-converges-online-visual-explainer.pdf.pdf)
 
-This visual explainer describes why language online increasingly converges toward similar tones, formats, headlines, and phrases. It focuses on algorithmic amplification, engagement optimization, creator adaptation, and linguistic smoothing.
+This visual explainer examines why language online increasingly converges toward similar tones, formats, headlines, and phrases. It focuses on algorithmic amplification, engagement optimization, creator adaptation, and linguistic smoothing.
 
 **Related concepts:** Reality Drift, algorithmic amplification, linguistic convergence, engagement optimization, digital culture.
 
@@ -20,9 +20,9 @@ This visual explainer describes why language online increasingly converges towar
 
 ### 2. Synthetic Realness and Online Fakeness
 
-[Open PDF](why-does-everything-feel-fake-online-synthetic-realness-reality-drift)
+[Open PDF](./why-does-everything-feel-fake-online-synthetic-realness-reality-drift.pdf)
 
-This visual explainer introduces synthetic realness, a condition where online content appears authentic while being increasingly shaped by platform incentives, performative behavior, and engagement signals.
+This visual explainer introduces synthetic realness, a condition where online content appears authentic while becoming increasingly shaped by platform incentives, performative behavior, and engagement systems.
 
 **Related concepts:** Reality Drift, synthetic realness, performative culture, online authenticity, platform incentives.
 
@@ -30,9 +30,9 @@ This visual explainer introduces synthetic realness, a condition where online co
 
 ### 3. Filter Fatigue and Information Overload
 
-[Open PDF](why-does-information-overload-make-it-harder-to-think-filter-fatigue)
+[Open PDF](./why-does-information-overload-make-it-harder-to-think-filter-fatigue.pdf)
 
-This visual explainer describes filter fatigue, the cognitive exhaustion created by constant exposure to competing signals, notifications, feeds, recommendations, and information streams.
+This visual explainer describes filter fatigue as the cognitive exhaustion created by constant exposure to competing inputs, notifications, feeds, recommendations, and informational demands.
 
 **Related concepts:** Reality Drift, filter fatigue, information overload, attention fragmentation, cognitive overload.
 
@@ -40,9 +40,9 @@ This visual explainer describes filter fatigue, the cognitive exhaustion created
 
 ### 4. Recommendation Loops and Content Narrowing
 
-[Open PDF](why-does-youtube-keep-recommending-the-same-kind-of-content)
+[Open PDF](./why-does-youtube-keep-recommending-the-same-kind-of-content.pdf)
 
-This visual explainer examines how recommendation systems can narrow a user’s information environment over time by repeatedly amplifying content that matches prior engagement patterns.
+This visual explainer examines how recommendation systems gradually narrow a user’s informational environment by repeatedly amplifying content that aligns with prior engagement patterns.
 
 **Related concepts:** Reality Drift, recommendation systems, recommendation loops, algorithmic amplification, feedback loops.
 
@@ -50,11 +50,11 @@ This visual explainer examines how recommendation systems can narrow a user’s 
 
 ### 5. Optimization Trap Visual Guide
 
-[Open PDF](why-optimization-makes-systems-worse-optimization-trap-visual-guide.pdf)
+[Open PDF](./why-optimization-makes-systems-worse-optimization-trap-visual-guide.pdf.pdf)
 
-This visual explainer introduces the Optimization Trap, a Reality Drift mechanism where systems optimize measurable proxies while drifting away from the real-world outcomes they were meant to serve.
+This visual explainer introduces the Optimization Trap, a Reality Drift mechanism in which systems optimize measurable proxies while gradually drifting away from the real-world outcomes they were originally designed to serve.
 
-**Related concepts**: Reality Drift, optimization trap, proxy optimization, metric gaming, reward hacking.
+**Related concepts:** Reality Drift, optimization trap, proxy optimization, metric gaming, reward hacking.
 
 ## Framework Context
 

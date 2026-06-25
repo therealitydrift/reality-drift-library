@@ -10,13 +10,13 @@ These scripts translate written Substack essays into spoken-form media designed 
 
 ## Video Index
 
-- [Institutional Drift — How Meaning Fails Before Institutions Do](./Institutional%20Drift%20How%20Meaning%20Fails%20Before%20Institutions%20Do.mp4)  
+- Institutional Drift — How Meaning Fails Before Institutions Do  
   A video adaptation exploring how institutional systems preserve operational form while losing semantic grounding.
 
-- [Language as Cognitive Exhaust — What Language Really Reveals About Thought](./Language%20as%20Cognitive%20Exhaust%20What%20Language%20Really%20Reveals%20About%20Thought.mp4)  
+- Language as Cognitive Exhaust — What Language Really Reveals About Thought  
   A spoken exploration of language compression, symbolic residue, and the cognitive consequences of abstraction.
 
-- [Reality Drift Explained — Why Modern Life Feels Fake](./Reality%20Drift%20Explained%20%E2%80%94%20Why%20Modern%20Life%20Feels%20Fake.mp4)  
+- Reality Drift Explained — Why Modern Life Feels Fake  
   A general introductory video translating the Reality Drift model into everyday experience.
 
 ---
