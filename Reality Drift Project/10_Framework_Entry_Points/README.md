@@ -8,19 +8,19 @@ This directory contains introductory materials designed as first-contact entry p
 
 ## Folder Index
 
-- [01_recognition-guide](https://chatgpt.com/c/01_recognition-guide/)  
+- [01_recognition-guide](./01_recognition-guide/)  
   Initial guides for identifying Reality Drift patterns in ordinary life, systems, and institutions.
 
-- [02_reality-drift-connection](https://chatgpt.com/c/02_reality-drift-connection/)  
+- [02_reality-drift-connection](./02_reality-drift-connection/)  
   Materials showing how core Reality Drift concepts connect to one another as a unified framework.
 
-- [03_drift-diagnostics](https://chatgpt.com/c/03_drift-diagnostics/)  
+- [03_drift-diagnostics](./03_drift-diagnostics/)  
   Practical diagnostic entry points for evaluating whether a system, process, or institution may be drifting.
 
-- [04_cross-domain-patterns](https://chatgpt.com/c/04_cross-domain-patterns/)  
+- [04_cross-domain-patterns](./04_cross-domain-patterns/)  
   Comparative examples showing how the same structural drift mechanics appear across multiple domains.
 
-- [05_modern-questions](https://chatgpt.com/c/05_modern-questions/)  
+- [05_modern-questions](./05_modern-questions/)  
   Question-driven entry points built around contemporary confusion, friction, and recurring modern dilemmas.
 
 ---
@@ -46,8 +46,6 @@ They prioritize familiarity before formalization.
 ## Structural Role
 
 This folder acts as the public-facing entry layer of the Reality Drift archive. It is designed to meet readers before they enter the deeper conceptual, theoretical, or canonical layers.
-
-
 
 ---
 

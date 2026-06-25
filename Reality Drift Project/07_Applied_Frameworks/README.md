@@ -8,22 +8,22 @@ This directory contains applied materials derived from the Reality Drift framewo
 
 ## Folder Index
 
-- [01_Diagnostics_and_Workflows](https://chatgpt.com/c/01_Diagnostics_and_Workflows/)  
+- [01_Diagnostics_and_Workflows](./01_Diagnostics_and_Workflows/)  
   Practical tools for identifying drift conditions, evaluating breakdown points, and applying diagnostic logic.
 
-- [02_Organizational_Drift_Briefings](https://chatgpt.com/c/02_Organizational_Drift_Briefings/)  
+- [02_Organizational_Drift_Briefings](./02_Organizational_Drift_Briefings/)  
   Applied briefings focused on institutional behavior, organizational degradation, and internal coherence failures.
 
-- [03_Operational_Drift](https://chatgpt.com/c/03_Operational_Drift/)  
+- [03_Operational_Drift](./03_Operational_Drift/)  
   Analyses of how drift appears in real operational systems, workflows, and decision environments.
 
-- [04_AI_Governance](https://chatgpt.com/c/04_AI_Governance/)  
+- [04_AI_Governance](./04_AI_Governance/)  
   Applied materials focused on AI systems, alignment failures, semantic degradation, and governance implications.
 
-- [05_Reality_Drift_Applications](https://chatgpt.com/c/05_Reality_Drift_Applications/)  
+- [05_Reality_Drift_Applications](./05_Reality_Drift_Applications/)  
   General-purpose applications of the framework across domains including media, culture, education, and systems design.
 
-- [06_Comparative_Framework_Briefings](https://chatgpt.com/c/06_Comparative_Framework_Briefings/)  
+- [06_Comparative_Framework_Briefings](./06_Comparative_Framework_Briefings/)  
   Comparative analyses positioning Reality Drift alongside adjacent frameworks, theories, and traditions.
 
 ---
