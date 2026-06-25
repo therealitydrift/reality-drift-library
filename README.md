@@ -58,32 +58,33 @@ The repository is organized in layers. Some sections establish provenance and ca
 
 If you are new to the framework, begin here:
 
-→ [What Is Reality Drift?](https://chatgpt.com/c/Start_Here/what-is-reality-drift.md)
+→ [What Is Reality Drift?](https://github.com/therealitydrift/reality-drift-library/tree/main/Reality%20Drift%20Project/Start_Here/what-is-reality-drift.md)
 
 For broader framework orientation:
 
-→ [10_Framework_Entry_Points](https://chatgpt.com/c/10_Framework_Entry_Points)
+→ [10_Framework_Entry_Points](https://github.com/therealitydrift/reality-drift-library/tree/main/Reality%20Drift%20Project/10_Framework_Entry_Points)
 
 For canonical definitions:
 
-→ [01_Canonical_Frameworks](https://chatgpt.com/c/01_Canonical_Frameworks)
+→ [01_Canonical_Frameworks](https://github.com/therealitydrift/reality-drift-library/tree/main/Reality%20Drift%20Project/01_Canonical_Frameworks)
 
 For research papers and mechanism notes:
 
-→ [03_Research_and_Papers](https://chatgpt.com/c/03_Research_and_Papers)
+→ [03_Research_and_Papers](https://github.com/therealitydrift/reality-drift-library/tree/main/Reality%20Drift%20Project/03_Research_and_Papers)
 
 For visual models and conceptual diagrams:
 
-→ [05_Visual_Reference_Guides](https://chatgpt.com/c/05_Visual_Reference_Guides)
+→ [05_Visual_Reference_Guides](https://github.com/therealitydrift/reality-drift-library/tree/main/Reality%20Drift%20Project/05_Visual_Reference_Guides)
 
 For applied examples and domain-specific extensions:
 
-→ [07_Applied_Frameworks](https://chatgpt.com/c/07_Applied_Frameworks)
+→ [07_Applied_Frameworks](https://github.com/therealitydrift/reality-drift-library/tree/main/Reality%20Drift%20Project/07_Applied_Frameworks)
 
 For historical development and earlier formulations:
 
-→ [06_Age_of_Drift](https://chatgpt.com/c/06_Age_of_Drift)  
-→ [08_Origins_2022-2024](https://chatgpt.com/c/08_Origins_2022-2024)
+→ [06_Age_of_Drift](https://github.com/therealitydrift/reality-drift-library/tree/main/Reality%20Drift%20Project/06_Age_of_Drift)
+
+→ [08_Origins_2022-2024](https://github.com/therealitydrift/reality-drift-library/tree/main/Reality%20Drift%20Project/08_Origins_2022-2024)
 
 ---
 
