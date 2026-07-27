@@ -223,5 +223,3 @@ These indicators act as **representations of broader phenomena that cannot easil
 When systems begin optimizing the representation itself, the measurement gradually loses its ability to faithfully reflect the underlying reality.
 
 **Keywords:** Goodhart’s Law, metric gaming, KPI distortion, target corruption, proxy optimization, Reality Drift framework
-
-
