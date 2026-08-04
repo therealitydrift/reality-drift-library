@@ -1,53 +1,37 @@
 # Recognition Guides
 
-README v2
+This directory contains practical recognition guides for several core concepts in the Reality Drift framework.
 
-## Recognition Guides for the Reality Drift Framework
-
-### Overview
-
-This directory contains short recognition guides related to the Reality Drift framework. These documents help readers identify recurring structural patterns associated with reality drift, optimization pressure, semantic instability, and digitally mediated environments.
-
-Each guide begins with recognizable experiences in everyday life and connects them to broader systemic dynamics described throughout the Reality Drift framework.
+Each guide focuses on identifying common patterns, behaviors, and everyday examples that illustrate how a concept appears in practice. They are intended as accessible companions to the formal concept papers.
 
 ---
 
-## Contents
+## Included Guides
 
-### Signs You May Be Experiencing Filter Fatigue
+### Reality_Drift
 
-File: [signs-you-may-be-experiencing-filter-fatigue.md](./signs-you-may-be-experiencing-filter-fatigue.md)
+Recognizing when systems remain functional while gradually losing alignment with the realities they were designed to represent.
 
-A recognition guide focused on cognitive exhaustion caused by continuous relevance filtering in high-entropy information environments.
+### Filter_Fatigue
 
----
+Recognizing the effects of continuous filtering, comparison, and decision-making in highly mediated environments.
 
-### Signs You May Be Experiencing Reality Drift
+### Optimization_Trap
 
-File: [signs-you-may-be-experiencing-reality-drift.md](./signs-you-may-be-experiencing-reality-drift.md)
+Recognizing when metrics, efficiency, and optimization begin replacing the purposes they were intended to serve.
 
-A general recognition guide describing common indicators of reality drift across modern systems, institutions, media environments, and digital life.
+### Synthetic_Realness
 
----
-
-### Signs You May Be Experiencing Synthetic Realness
-
-File: [signs-you-may-be-experiencing-synthetic-realness.md](./signs-you-may-be-experiencing-synthetic-realness.md)
-
-A recognition guide focused on environments that feel emotionally or socially real while becoming increasingly optimized, simulated, or structurally mediated.
+Recognizing environments, experiences, and representations that appear authentic while becoming increasingly standardized, optimized, or detached from direct reality.
 
 ---
 
-### Signs You May Be Experiencing the Optimization Trap
+## Purpose
 
-File: [signs-you-may-be-experiencing-the-optimization-trap.md](./signs-you-may-be-experiencing-the-optimization-trap.md)
+These guides are designed to help readers connect the Reality Drift framework to everyday observations. Rather than presenting formal theory, they highlight recognizable patterns that appear across technology, organizations, media, and daily life.
 
-A recognition guide describing how systems optimized around narrow metrics and incentives gradually degrade broader human meaning and adaptability.
-
----
-
-## Role Within Reality Drift Explained
-
-Recognition guides function as accessible entry points into the broader Reality Drift framework. They are intended to help readers recognize structural dynamics operating beneath familiar experiences in modern technological, institutional, and symbolic environments.
+For the underlying concepts and definitions, see the **Core Framework** section of the repository.
 
 ---
+
+*Part of the Reality Drift framework (2023–2026) by A. Jacobs.*

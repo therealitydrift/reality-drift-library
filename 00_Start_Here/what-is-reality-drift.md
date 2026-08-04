@@ -1,109 +1,75 @@
-## What Is Reality Drift? (v3)
+### What Is Reality Drift?
 
-**Canonical Definition**  
+*A short introduction to the Reality Drift framework.*
 
 ---
 
 ## Overview
 
-Reality Drift is a framework for understanding how systems can remain operational and internally coherent while gradually losing corrective contact with the realities they were designed to represent. Across technology, institutions, media, and everyday life, modern systems increasingly rely on representations of reality rather than direct contact with reality itself. Metrics, models, dashboards, algorithms, categories, and symbolic abstractions make scale possible by allowing systems to scale beyond direct human feedback.
+Reality Drift describes how systems can remain functional, coherent, and measurable while gradually losing alignment with the realities they were designed to represent.
 
-But over time, these representations can begin to substitute for the realities they were originally meant to track. As this happens, metrics replace feedback, proxies replace outcomes, representations replace reference, and optimization replaces judgment. Nothing visibly breaks. Outputs remain coherent, performance indicators continue improving, and the system appears stable by its own internal measures. Yet its relationship to external reality gradually weakens, drifting away from the conditions it was originally designed to reflect or support. Reality Drift describes this gradual divergence.
+As systems grow, they increasingly rely on representations rather than direct contact with reality. Measurements, metrics, models, dashboards, categories, and algorithms make coordination at scale possible, but they also create distance from the conditions they were originally meant to track.
 
----
+Over time, these representations can begin to substitute for reality itself. Metrics replace feedback, proxies replace outcomes, representations replace reference, and optimization replaces judgment. The system continues to function, yet its connection to reality gradually weakens.
 
-## How Reality Drift Happens
-
-Reality Drift typically emerges under three interacting conditions:
-
-**Representation Layering**
-
-As systems grow, they increasingly depend on abstract representations of reality rather than direct interaction with the conditions they manage. Decisions become mediated through models, indicators, dashboards, and categories.
-
-**Proxy Dependence**
-
-Over time, the measurable indicators used to track reality can begin to replace the underlying goals themselves. Systems optimize what can be measured, even when those measures only partially reflect the original objective.
-
-**Recursive Mediation**
-
-Information passes through repeated layers of filtering, compression, and interpretation through algorithms, interfaces, institutions, and media. Each layer reshapes meaning, often preserving coherence while reducing fidelity.
-
-Together, these forces gradually separate system behavior from the real-world conditions the system was originally designed to reflect.
+> **Most systems do not break. They drift.**
 
 ---
 
-## Why It Is Difficult to Detect
+## How Drift Emerges
 
-Reality Drift rarely produces obvious failure signals.
+Reality Drift commonly develops through three interacting processes.
 
-Drift does not require malfunction.
+### Representation
 
-Systems experiencing drift often show:
+Reality is translated into measurements, models, categories, and other abstractions so that it can be managed at scale.
 
-- improving metrics
-- increasing efficiency
-- stable outputs
-- consistent internal logic
+### Proxy Optimization
 
-The divergence instead appears in subtler ways:
+Systems increasingly optimize measurable indicators, even when those indicators only partially capture the underlying goal.
 
-- declining trust
-- distorted incentives
-- weakening meaning
-- increasing reliance on narrative over outcomes
-- growing difficulty reconstructing original reference points
+### Recursive Mediation
 
-By the time the gap becomes visible, the original conditions the system was built to track may already be difficult to recover.
+Information passes through repeated layers of filtering, interpretation, and compression, gradually separating representations from their original sources.
+
+Together, these processes can produce systems that remain operational while becoming progressively less constrained by reality.
 
 ---
 
 ## Where It Appears
 
-Reality Drift can emerge across multiple domains.
+Reality Drift is a general systems framework rather than a domain-specific theory. It can be applied to areas including:
 
-**Technology**
-
-AI systems can produce fluent, coherent outputs while gradually drifting from user intent, source fidelity, or real-world grounding.
-
-**Institutions**
-
-Organizations can optimize for reporting, compliance, and procedural consistency while losing alignment with mission or actual outcomes.
-
-**Media and Communication**
-
-Information ecosystems can optimize for engagement, relevance, and speed while weakening shared reference and semantic stability.
-
-**Everyday Life**
-
-Individuals increasingly adapt behavior to system incentives, interfaces, and algorithmic environments, gradually shifting from direct lived experience toward mediated behavioral loops.
+- Artificial intelligence
+- Organizations and institutions
+- Media and communication
+- Public policy and governance
+- Science and measurement
+- Everyday life
 
 ---
 
-## Relationship to Other Forms of Drift
+## Related Concepts
 
-Reality Drift functions as a higher-order structural framework that helps organize several related forms of divergence.
+The Reality Drift framework includes several closely related concepts that describe different aspects of this broader pattern.
 
-These include:
-
-- **Semantic Drift** — changes in meaning as language moves across systems
-- **Cognitive Drift** — shifts in perception, judgment, and interpretive stability
-- **Institutional Drift** — divergence between organizational mission and operational behavior
-- **Representation Drift** — growing separation between models and what they represent
-
-These forms of drift often interact and reinforce one another within complex systems.
-
----
-
-## Purpose of the Framework
-
-The Reality Drift framework provides a vocabulary for identifying these structural patterns before they become normalized.
-
-Its goal is not to eliminate drift, since drift is a natural feature of complex systems, but to make it visible early enough for correction. The aim is to restore corrective contact before divergence becomes structural, self-reinforcing, or difficult to reverse.
+- Optimization Trap
+- Filter Fatigue
+- Synthetic Realness
+- Cognitive Drift
+- Semantic Fidelity
+- Constraint Collapse
+- Recursive Compression
+- Representation Stack
 
 ---
 
 ## Learn More
 
-Canonical definitions of the framework’s core concepts are available in the main 
+For a broader introduction, see the **Reality Drift Overview and FAQ**.
 
-Part of the Reality Drift framework (2023–2026) by A. Jacobs
+For formal definitions, concept papers, and supporting materials, explore the **Core Framework** section of this repository.
+
+---
+
+Part of the Reality Drift framework (2023–2026) by A. Jacobs.
