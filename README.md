@@ -6,7 +6,7 @@ The Reality Drift Library is the primary public repository for the Reality Drift
 
 Reality Drift describes how systems can remain coherent, functional, and measurable while gradually losing alignment with the realities they were built to represent. Rather than failing outright, systems often continue operating as representations, metrics, procedures, and optimization increasingly substitute for direct feedback from reality.
 
-> **Most systems do not break. They drift.**
+> **The absence of failure is not proof of alignment.**
 
 ---
 
