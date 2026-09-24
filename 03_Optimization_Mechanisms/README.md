@@ -1,118 +1,94 @@
-# Representational Drift
+# Reality Drift — Representational Drift and Optimization Failure
 
-This directory contains ten notes and reference guides examining how representations, metrics, procedures, incentives, signals, and delegated systems can gradually lose contact with the realities they were created to track.
+A. Jacobs | Reality Drift Framework | 2023–2026
 
-The collection is divided into two sets.
+This directory contains two related collections within the Reality Drift framework.
 
-## 01 — Foundations of Representational Drift
+The first focuses on the foundations of representational drift: how systems convert reality into representations, how those representations gain authority, and how corrective contact can weaken without obvious system failure.
 
-This set focuses on the underlying representational problem.
+The second focuses on optimization and proxy failure: how metrics, targets, reward signals, procedures, and other operational stand-ins can become detached from the conditions they were created to represent.
 
-Systems cannot act on reality directly at scale, so they rely on maps, metrics, categories, reports, indicators, and other simplified representations. These tools are necessary, but they are always selective.
+Together, the two folders move from the general problem of representation to the specific mechanisms through which optimization can deepen misalignment.
 
-Problems begin when the representation becomes operational, consequential, and increasingly difficult for reality to correct.
+> The absence of failure is not proof of alignment.
 
-Included topics:
-
-- the map is not the territory
-- Goodhart’s Law
-- Campbell’s Law
-- KPI distortion
-- metric gaming
-- principal-agent problems
-- incentive misalignment
-- proxy optimization
-- representational substitution
-
-The central question is:
-
-**What happens when the representation begins replacing the reality it was meant to describe?**
-
-## 02 — Optimization and Proxy Failure
-
-This set focuses on what happens after optimization pressure is applied.
-
-Once a metric, reward function, procedure, signal, or proxy becomes consequential, people and systems begin adapting to it. The proxy stops functioning only as a representation and becomes part of the environment being navigated.
-
-The system can then become better at satisfying the proxy than achieving the underlying objective.
-
-Included topics:
-
-- reward hacking
-- specification gaming
-- signal distortion
-- algorithmic amplification
-- goal displacement
-- bureaucratic drift
-- process expansion
-- metric optimization
-- proxy dominance
-- organizational drift
-
-The central question is:
-
-**What happens when optimization targets the representation faster than reality can correct it?**
-
-## Core Pattern
-
-Across all ten documents, the same structural sequence appears:
-
-**reality → representation → consequence → adaptation → optimization → substitution → drift**
-
-A representation begins as a tool for seeing or coordinating around reality.
-
-Then consequences attach to it.
-
-Behavior adapts.
-
-Optimization intensifies.
-
-The representation becomes easier to improve than the underlying condition.
-
-Eventually, the system may treat success inside the representation as evidence of success in the world.
-
-## Why These Mechanisms Matter
-
-The failure is often difficult to detect because the system does not necessarily break.
-
-Metrics can improve.
-
-Rewards can increase.
-
-Dashboards can look healthier.
-
-Engagement can rise.
-
-Procedures can become more consistent.
-
-Reports can show progress.
-
-The system may become more legible and more internally coherent at the same time that its relationship to reality weakens.
-
-This is the broader pattern described by Reality Drift.
-
-## Relationship to Reality Drift
-
-Reality Drift describes systems that remain operational, coherent, and internally organized while gradually losing corrective contact with the realities their representations were created to preserve.
-
-The mechanisms in these two sets describe different paths into that condition.
-
-Goodhart’s Law describes pressure on measures.
-
-Campbell’s Law describes distortion under high-stakes measurement.
-
-Principal-agent problems describe drift under delegation.
-
-Reward hacking and specification gaming describe proxy failure in optimization systems.
-
-Goal displacement and bureaucratic drift describe process replacing purpose.
-
-Signal distortion describes informational environments reorganizing around measurable reactions.
-
-Together, they show how representational failure can move from a local measurement problem into a system-wide loss of alignment.
+> Coherence is not contact.
 
 ---
 
-*Part of the Reality Drift framework by A. Jacobs.*
+## 01-foundations-of-representational-drift
 
+This folder contains the broader conceptual foundations for understanding Reality Drift.
 
+Its focus is the relationship between reality and representation, including how representations select, compress, simplify, and organize reality in ways that make coordination possible while also creating opportunities for drift.
+
+The papers in this section establish the conceptual groundwork for later discussions of metrics, proxies, optimization, feedback weakening, and representational inversion.
+
+Folder: `01-foundations-of-representational-drift`
+
+---
+
+## 02-optimization-and-proxy-failure
+
+This folder examines one of the most common pathways into Reality Drift: the optimization of representations that stand in for more complex underlying conditions.
+
+Its focus includes metrics, KPIs, proxies, reward signals, incentive structures, delegated systems, and procedural forms of success.
+
+The papers show how a system can become increasingly successful according to its internal measures while becoming less responsive to the reality those measures were meant to track.
+
+Folder: `02-optimization-and-proxy-failure`
+
+---
+
+# Relationship Between the Two Collections
+
+The first folder asks:
+
+How do representations become detached from reality?
+
+The second asks:
+
+What happens when those representations are optimized, rewarded, institutionalized, or used to govern behavior?
+
+The distinction is useful because Reality Drift is broader than metric failure.
+
+Metrics and proxies are important examples, but the framework also applies to categories, procedures, models, narratives, interfaces, classifications, and other representational systems.
+
+The two collections therefore sit at different levels:
+
+- `01-foundations-of-representational-drift` establishes the general architecture
+- `02-optimization-and-proxy-failure` examines a major family of mechanisms within that architecture
+
+---
+
+# Broader Framework
+
+These collections are part of the larger Reality Drift archive.
+
+Reality Drift describes the condition in which a system remains operational and internally coherent while the representations guiding it progressively lose corrective contact with the reality they are meant to track, describe, or govern.
+
+The broader framework includes related concepts such as:
+
+- The Drift Principle
+- Recursive Compression
+- Semantic Fidelity
+- Semantic Drift
+- Constraint Collapse
+- The Optimization Trap
+- Cognitive Drift
+- Co-Cognition
+- Synthetic Realness
+- Temporal Drift
+- The Drifted Self
+- The Age of Drift
+
+These folders provide the representational and optimization foundations beneath those broader concepts.
+
+---
+
+# Author
+
+A. Jacobs
+
+Reality Drift Framework  
+2023–2026
