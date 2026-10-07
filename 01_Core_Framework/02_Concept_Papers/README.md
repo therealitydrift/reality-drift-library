@@ -279,13 +279,13 @@ Across the collection, several propositions recur:
 
 ## Central Formulations
 
-> **The absence of failure is not proof of alignment.**
+> The absence of failure is not proof of alignment.
 
-> **Coherence is not contact.**
+> Coherence is not contact.
 
-> **Representations can be compressed, optimized, distributed, and reused faster than real-world conditions can correct them.**
+> Representations can be compressed, optimized, distributed, and reused faster than real-world conditions can correct them.
 
-> **Most systems don't break. They drift.**
+> Most systems don't break. They drift.
 
 ---
 

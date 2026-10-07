@@ -514,40 +514,40 @@ It is the weakening of the relationship through which reality can still revise t
 
 ### Institutional Drift
 
-**When Institutional Representations Remain Authoritative After Losing Corrective Contact**
+When Institutional Representations Remain Authoritative After Losing Corrective Contact
 
 ### Mission Drift
 
-**When Stated Purpose Remains Visible but Loses Its Power to Constrain Decisions**
+When Stated Purpose Remains Visible but Loses Its Power to Constrain Decisions
 
 ### Bureaucratic Drift
 
-**When Proof of Process Substitutes for Proof of Resolution**
+When Proof of Process Substitutes for Proof of Resolution
 
 ### Narrative Drift
 
-**When Explanations Remain Coherent After Losing the Ability to Be Corrected by Events**
+When Explanations Remain Coherent After Losing the Ability to Be Corrected by Events
 
 ### Temporal Drift
 
-**When Representational Time Separates from the Timing of Underlying Reality**
+When Representational Time Separates from the Timing of Underlying Reality
 
 ## Reality Drift Framework
 
 The taxonomy describes different ways the same deeper structural condition can appear:
 
-**representations continue functioning after their corrective relationship with their referents has weakened.**
+representations continue functioning after their corrective relationship with their referents has weakened.
 
 The system does not necessarily fail.
 
 That is the problem.
 
-> **The absence of failure is not proof of alignment.**
+> The absence of failure is not proof of alignment.
 
-> **Coherence is not contact.**
+> Coherence is not contact.
 
 ---
 
-**A. Jacobs**  
+A. Jacobs  
 Reality Drift Framework  
 2023–2026

@@ -1,12 +1,10 @@
 # Reality Drift Library
 
-# 
+The Reality Drift Library is the primary public GitHub repository for the Reality Drift framework by A. Jacobs.
 
-The Reality Drift Library is the primary public repository for the Reality Drift framework by A. Jacobs.
+Reality Drift describes a condition in which a system remains operational and internally coherent while the representations guiding it progressively lose corrective contact with the realities they were created to track, describe, govern, or serve. The framework examines how that loss of contact develops through representation, filtering, compression, proxy substitution, optimization, feedback weakening, constraint loss, and recursive reuse.
 
-Reality Drift describes how systems can remain coherent, functional, and measurable while gradually losing alignment with the realities they were built to represent. Rather than failing outright, systems often continue operating as representations, metrics, procedures, and optimization increasingly substitute for direct feedback from reality.
-
-> **The absence of failure is not proof of alignment.**
+> **Coherence is not contact. The absence of failure is not proof of alignment.**
 
 ---
 
@@ -18,53 +16,61 @@ Reality Drift describes how systems can remain coherent, functional, and measura
 02_Preprints
 03_Optimization_Mechanisms
 04_Drift_Taxonomy
-05_Applied_Frameworks
-06_Recognition_Guides
-07_Visual_Reference_Guides
-08_Article_Visuals
+05_Recognition_Guides
+06_Substack_Essays
 ```
 
 ---
 
 ## Where to Start
 
-If you're new to the framework, begin with **00_Start_Here**, which provides an introduction and recommended reading path.
+If you are new to the framework, begin with **00_Start_Here**. It contains the main entry-point materials and provides the clearest route into the current definition, framework architecture, and broader body of work.
 
 The remaining folders are organized as follows:
 
-- **01_Core_Framework** — Canonical concept papers and foundational definitions.
-- **02_Preprints** — Longer research papers and working manuscripts.
-- **03_Optimization_Mechanisms** — Structural models, system architecture, and representation mechanics.
-- **04_Drift_Taxonomy** — Reference papers describing related concepts and mechanisms.
-- **05_Applied_Frameworks** — Applications across institutions, AI, organizations, media, and everyday life.
-- **06_Recognition_Guides** — Practical guides for identifying patterns of drift.
-- **07_Visual_Reference_Guides** — Diagrams and visual explanations of the framework.
-- **08_Article_Visuals** — Figures and illustrations accompanying public essays.
+- **01_Core_Framework** — Canonical definitions, concept papers, glossary materials, system architecture, diagrams, and provenance records.
+- **02_Preprints** — Longer research papers and working manuscripts that develop the framework in greater depth.
+- **03_Optimization_Mechanisms** — Papers and models focused on proxy substitution, optimization, representation, feedback weakening, constraint loss, and related mechanisms.
+- **04_Drift_Taxonomy** — Reference materials describing related forms, manifestations, and conceptual distinctions within the broader Reality Drift framework.
+- **05_Recognition_Guides** — Practical guides for recognizing Reality Drift patterns across systems, institutions, AI, organizations, media, and everyday life.
+- **06_Substack_Essays** — Public essays and interpretive writing developed across the Reality Drift, Semantic Fidelity, and Cognitive Drift projects.
 
 ---
 
-## Core Concepts
+## Core Framework
 
-The Reality Drift framework is organized around a family of related concepts describing how modern systems gradually lose alignment while remaining operational.
+Reality Drift is the systems-level condition that organizes the broader body of work. The framework focuses on how representations gain operational authority while the conditions capable of correcting them lose influence.
+
+Key concepts include:
 
 - Reality Drift
+- Semantic Fidelity
+- Recursive Compression
+- Constraint Collapse
+- Cognitive Drift
 - Optimization Trap
 - Filter Fatigue
 - Synthetic Realness
-- Constraint Collapse
-- Cognitive Drift
-- Semantic Fidelity
-- Recursive Compression
+- Temporal Drift
+- The Drifted Self
+- Co-Cognition
 - Representation Stack
+- Provenance Failure
+- Survivable Wrongness
+
+These concepts describe different parts of the same underlying problem: how systems can remain coherent, scalable, and functional while becoming progressively less answerable to the realities they represent.
 
 ---
 
-## Related Repositories
+## Related Projects
 
-The broader Reality Drift project includes specialized repositories focused on individual areas of the framework:
+The wider body of work extends across three connected areas:
 
-- **Semantic Fidelity Project** — Meaning preservation across language, AI systems, and representation.
-- **Cognitive Drift Papers** — How cognition adapts under conditions of information overload, optimization pressure, and artificial mediation.
+- **Reality Drift Framework** — The general systems framework for representational misalignment, weakened correction, and operational persistence.
+- **Semantic Fidelity Project** — Research on how meaning, context, intent, and referential structure survive or degrade across transformation, compression, retrieval, and generation.
+- **Cognitive Drift Papers** — Work on cognition under conditions of recursive mediation, AI feedback, symbolic overload, compression, and weakened constraint.
+
+For a navigable overview of the wider project, including research collections, essays, repositories, and archival records, see the Reality Drift Master Index.
 
 ---
 

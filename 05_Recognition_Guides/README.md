@@ -1,6 +1,6 @@
 # Reality Drift Recognition Guides
 
-**A. Jacobs | Reality Drift Framework | 2023–2026**
+A. Jacobs | Reality Drift Framework | 2023–2026
 
 > The absence of failure is not proof of alignment.  
 > Coherence is not contact.
@@ -605,7 +605,7 @@ Together, these concepts examine what happens when increasingly mediated systems
 
 ## Reality Drift Framework
 
-**A. Jacobs**  
+A. Jacobs 
 2023–2026
 
 > 
